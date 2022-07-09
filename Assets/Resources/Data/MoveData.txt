@@ -1,0 +1,780 @@
+﻿Pound_Normal_Physical_35_40_1__
+Karate Chop_Fighting_Physical_25_50_1__
+Double Slap_Normal_Physical_10_15_0.85__
+Comet Punch_Normal_Physical_15_18_0.85__
+Mega Punch_Normal_Physical_20_80_0.85__
+Pay Day_Normal_Physical_20_40_1__
+Fire Punch_Fire_Physical_15_75_1_0.1_Inflicts burn on the target.
+Ice Punch_Ice_Physical_15_75_1_0.1_Inflicts freeze on the target.
+Thunder Punch_Electric_Physical_15_75_1_0.1_Inflicts paralysis on the target.
+Scratch_Normal_Physical_35_40_1__
+Vise Grip_Normal_Physical_30_55_1__
+Guillotine_Normal_Physical_5_-100_0.3__
+Razor Wind_Normal_Special_10_80_1__
+Swords Dance_Normal_Status_20_-100_-1__
+Cut_Normal_Physical_30_50_0.95__
+Gust_Flying_Special_35_40_1__
+Wing Attack_Flying_Physical_35_60_1__
+Whirlwind_Normal_Status_20_-100_-1__
+Fly_Flying_Physical_15_90_0.95__
+Bind_Normal_Physical_20_15_0.85__
+Slam_Normal_Physical_20_80_0.75__
+Vine Whip_Grass_Physical_25_45_1__
+Stomp_Normal_Physical_20_65_1_0.3_Inflicts flinch on the target.
+Double Kick_Fighting_Physical_30_30_1__
+Mega Kick_Normal_Physical_5_120_0.75__
+Jump Kick_Fighting_Physical_10_100_0.95__
+Rolling Kick_Fighting_Physical_15_60_0.85_0.3_Inflicts flinch on the target.
+Sand Attack_Ground_Status_15_-100_1__
+Headbutt_Normal_Physical_15_70_1_0.3_Inflicts flinch on the target.
+Horn Attack_Normal_Physical_25_65_1__
+Fury Attack_Normal_Physical_20_15_0.85__
+Horn Drill_Normal_Physical_5_-100_0.3__
+Tackle_Normal_Physical_35_40_1__
+Body Slam_Normal_Physical_15_85_1_0.3_Inflicts paralysis on the target.
+Wrap_Normal_Physical_20_15_0.9__
+Take Down_Normal_Physical_20_90_0.85__
+Thrash_Normal_Physical_10_120_1__
+Double-Edge_Normal_Physical_15_120_1__
+Tail Whip_Normal_Status_30_-100_1__
+Poison Sting_Poison_Physical_35_15_1_0.3_Inflicts poison on the target.
+Twineedle_Bug_Physical_20_25_1_0.2_Inflicts poison on the target.
+Pin Missile_Bug_Physical_20_25_0.95__
+Leer_Normal_Status_30_-100_1__
+Bite_Dark_Physical_25_60_1_0.3_Inflicts flinch on the target.
+Growl_Normal_Status_40_-100_1__
+Roar_Normal_Status_20_-100_-1__
+Sing_Normal_Status_15_-100_0.55__
+Supersonic_Normal_Status_20_-100_0.55__
+Sonic Boom_Normal_Special_20_-100_0.9__
+Disable_Normal_Status_20_-100_1__
+Acid_Poison_Special_30_40_1_0.1_Lowers the target's Special Defense by 1 stage.
+Ember_Fire_Special_25_40_1_0.1_Inflicts burn on the target.
+Flamethrower_Fire_Special_15_90_1_0.1_Inflicts burn on the target.
+Mist_Ice_Status_30_-100_-1__
+Water Gun_Water_Special_25_40_1__
+Hydro Pump_Water_Special_5_110_0.8__
+Surf_Water_Special_15_90_1__
+Ice Beam_Ice_Special_10_90_1_0.1_Inflicts freeze on the target.
+Blizzard_Ice_Special_5_110_0.7_0.1_Inflicts freeze on the target.
+Psybeam_Psychic_Special_20_65_1_0.1_Inflicts confusion on the target.
+Bubble Beam_Water_Special_20_65_1_0.1_Lowers the target's Speed by 1 stage.
+Aurora Beam_Ice_Special_20_65_1_0.1_Lowers the target's Attack by 1 stage.
+Hyper Beam_Normal_Special_5_150_0.9__
+Peck_Flying_Physical_35_35_1__
+Drill Peck_Flying_Physical_20_80_1__
+Submission_Fighting_Physical_20_80_0.8__
+Low Kick_Fighting_Physical_20_-100_1__
+Counter_Fighting_Physical_20_-100_1__
+Seismic Toss_Fighting_Physical_20_-100_1__
+Strength_Normal_Physical_15_80_1__
+Absorb_Grass_Special_25_20_1__
+Mega Drain_Grass_Special_15_40_1__
+Leech Seed_Grass_Status_10_-100_0.9__
+Growth_Normal_Status_20_-100_-1__
+Razor Leaf_Grass_Physical_25_55_0.95__
+Solar Beam_Grass_Special_10_120_1__
+Poison Powder_Poison_Status_35_-100_0.75__
+Stun Spore_Grass_Status_30_-100_0.75__
+Sleep Powder_Grass_Status_15_-100_0.75__
+Petal Dance_Grass_Special_10_120_1__
+String Shot_Bug_Status_40_-100_0.95__
+Dragon Rage_Dragon_Special_10_-100_1__
+Fire Spin_Fire_Special_15_35_0.85__
+Thunder Shock_Electric_Special_30_40_1_0.1_Inflicts paralysis on the target.
+Thunderbolt_Electric_Special_15_90_1_0.1_Inflicts paralysis on the target.
+Thunder Wave_Electric_Status_20_-100_0.9__
+Thunder_Electric_Special_10_110_0.7_0.3_Inflicts paralysis on the target.
+Rock Throw_Rock_Physical_15_50_0.9__
+Earthquake_Ground_Physical_10_100_1__
+Fissure_Ground_Physical_5_-100_0.3__
+Dig_Ground_Physical_10_80_1__
+Toxic_Poison_Status_10_-100_0.9__
+Confusion_Psychic_Special_25_50_1_0.1_Inflicts confusion on the target.
+Psychic_Psychic_Special_10_90_1_0.1_Lowers the target's Special Defense by 1 stage.
+Hypnosis_Psychic_Status_20_-100_0.6__
+Meditate_Psychic_Status_40_-100_-1__
+Agility_Psychic_Status_30_-100_-1__
+Quick Attack_Normal_Physical_30_40_1__
+Rage_Normal_Physical_20_20_1__
+Teleport_Psychic_Status_20_-100_-1__
+Night Shade_Ghost_Special_15_-100_1__
+Mimic_Normal_Status_10_-100_-1__
+Screech_Normal_Status_40_-100_0.85__
+Double Team_Normal_Status_15_-100_-1__
+Recover_Normal_Status_10_-100_-1__
+Harden_Normal_Status_30_-100_-1__
+Minimize_Normal_Status_10_-100_-1__
+Smokescreen_Normal_Status_20_-100_1__
+Confuse Ray_Ghost_Status_10_-100_1__
+Withdraw_Water_Status_40_-100_-1__
+Defense Curl_Normal_Status_40_-100_-1__
+Barrier_Psychic_Status_20_-100_-1__
+Light Screen_Psychic_Status_30_-100_-1__
+Haze_Ice_Status_30_-100_-1__
+Reflect_Psychic_Status_20_-100_-1__
+Focus Energy_Normal_Status_30_-100_-1__
+Bide_Normal_Physical_10_-100_-1__
+Metronome_Normal_Status_10_-100_-1__
+Mirror Move_Flying_Status_20_-100_-1__
+Self-Destruct_Normal_Physical_5_200_1__
+Egg Bomb_Normal_Physical_10_100_0.75__
+Lick_Ghost_Physical_30_30_1_0.3_Inflicts paralysis on the target.
+Smog_Poison_Special_20_30_0.7_0.4_Inflicts poison on the target.
+Sludge_Poison_Special_20_65_1_0.3_Inflicts poison on the target.
+Bone Club_Ground_Physical_20_65_0.85_0.1_Inflicts flinch on the target.
+Fire Blast_Fire_Special_5_110_0.85_0.1_Inflicts burn on the target.
+Waterfall_Water_Physical_15_80_1_0.2_Inflicts flinch on the target.
+Clamp_Water_Physical_15_35_0.85__
+Swift_Normal_Special_20_60_-1__
+Skull Bash_Normal_Physical_10_130_1__
+Spike Cannon_Normal_Physical_15_20_1__
+Constrict_Normal_Physical_35_10_1_0.1_Lowers the target's Speed by 1 stage.
+Amnesia_Psychic_Status_20_-100_-1__
+Kinesis_Psychic_Status_15_-100_0.8__
+Soft-Boiled_Normal_Status_10_-100_-1__
+High Jump Kick_Fighting_Physical_10_130_0.9__
+Glare_Normal_Status_30_-100_1__
+Dream Eater_Psychic_Special_15_100_1__
+Poison Gas_Poison_Status_40_-100_0.9__
+Barrage_Normal_Physical_20_15_0.85__
+Leech Life_Bug_Physical_10_80_1__
+Lovely Kiss_Normal_Status_10_-100_0.75__
+Sky Attack_Flying_Physical_5_140_0.9_0.3_Inflicts flinch on the target.
+Transform_Normal_Status_10_-100_-1__
+Bubble_Water_Special_30_40_1_0.1_Lowers the target's Speed by 1 stage.
+Dizzy Punch_Normal_Physical_10_70_1_0.2_Inflicts confusion on the target.
+Spore_Grass_Status_15_-100_1__
+Flash_Normal_Status_20_-100_1__
+Psywave_Psychic_Special_15_-100_1__
+Splash_Normal_Status_40_-100_-1__
+Acid Armor_Poison_Status_20_-100_-1__
+Crabhammer_Water_Physical_10_100_0.9__
+Explosion_Normal_Physical_5_250_1__
+Fury Swipes_Normal_Physical_15_18_0.8__
+Bonemerang_Ground_Physical_10_50_0.9__
+Rest_Psychic_Status_10_-100_-1__
+Rock Slide_Rock_Physical_10_75_0.9_0.3_Inflicts flinch on the target.
+Hyper Fang_Normal_Physical_15_80_0.9_0.1_Inflicts flinch on the target.
+Sharpen_Normal_Status_30_-100_-1__
+Conversion_Normal_Status_30_-100_-1__
+Tri Attack_Normal_Special_10_80_1_0.2_Inflicts burn, freeze, or paralysis on the target.
+Super Fang_Normal_Physical_10_-100_0.9__
+Slash_Normal_Physical_20_70_1__
+Substitute_Normal_Status_10_-100_-1__
+Struggle_Normal_Physical_1_50_-1__
+Sketch_Normal_Status_1_-100_-1__
+Triple Kick_Fighting_Physical_10_10_0.9__
+Thief_Dark_Physical_25_60_1__
+Spider Web_Bug_Status_10_-100_-1__
+Mind Reader_Normal_Status_5_-100_-1__
+Nightmare_Ghost_Status_15_-100_1__
+Flame Wheel_Fire_Physical_25_60_1_0.1_Inflicts burn on the target.
+Snore_Normal_Special_15_50_1_0.3_Inflicts flinch on the target.
+Curse_Ghost_Status_10_-100_-1__
+Flail_Normal_Physical_15_-100_1__
+Conversion 2_Normal_Status_30_-100_-1__
+Aeroblast_Flying_Special_5_100_0.95__
+Cotton Spore_Grass_Status_40_-100_1__
+Reversal_Fighting_Physical_15_-100_1__
+Spite_Ghost_Status_10_-100_1__
+Powder Snow_Ice_Special_25_40_1_0.1_Inflicts freeze on the target.
+Protect_Normal_Status_10_-100_-1__
+Mach Punch_Fighting_Physical_30_40_1__
+Scary Face_Normal_Status_10_-100_1__
+Feint Attack_Dark_Physical_20_60_-1__
+Sweet Kiss_Fairy_Status_10_-100_0.75__
+Belly Drum_Normal_Status_10_-100_-1__
+Sludge Bomb_Poison_Special_10_90_1_0.3_Inflicts poison on the target.
+Mud-Slap_Ground_Special_10_20_1_1_Lowers the target's accuracy by 1 stage.
+Octazooka_Water_Special_10_65_0.85_0.5_Lowers the target's accuracy by 1 stage.
+Spikes_Ground_Status_20_-100_-1__
+Zap Cannon_Electric_Special_5_120_0.5_1_Inflicts paralysis on the target.
+Foresight_Normal_Status_40_-100_-1__
+Destiny Bond_Ghost_Status_5_-100_-1__
+Perish Song_Normal_Status_5_-100_-1__
+Icy Wind_Ice_Special_15_55_0.95_1_Lowers the target's Speed by 1 stage.
+Detect_Fighting_Status_5_-100_-1__
+Bone Rush_Ground_Physical_10_25_0.9__
+Lock-On_Normal_Status_5_-100_-1__
+Outrage_Dragon_Physical_10_120_1__
+Sandstorm_Rock_Status_10_-100_-1__
+Giga Drain_Grass_Special_10_75_1__
+Endure_Normal_Status_10_-100_-1__
+Charm_Fairy_Status_20_-100_1__
+Rollout_Rock_Physical_20_30_0.9__
+False Swipe_Normal_Physical_40_40_1__
+Swagger_Normal_Status_15_-100_0.85__
+Milk Drink_Normal_Status_10_-100_-1__
+Spark_Electric_Physical_20_65_1_0.3_Inflicts paralysis on the target.
+Fury Cutter_Bug_Physical_20_40_0.95__
+Steel Wing_Steel_Physical_25_70_0.9_0.1_Raises the user's Defense by 1 stage.
+Mean Look_Normal_Status_5_-100_-1__
+Attract_Normal_Status_15_-100_1__
+Sleep Talk_Normal_Status_10_-100_-1__
+Heal Bell_Normal_Status_5_-100_-1__
+Return_Normal_Physical_20_-100_1__
+Present_Normal_Physical_15_-100_0.9__
+Frustration_Normal_Physical_20_-100_1__
+Safeguard_Normal_Status_25_-100_-1__
+Pain Split_Normal_Status_20_-100_-1__
+Sacred Fire_Fire_Physical_5_100_0.95_0.5_Inflicts burn on the target.
+Magnitude_Ground_Physical_30_-100_1__
+Dynamic Punch_Fighting_Physical_5_100_0.5_1_Inflicts confusion on the target.
+Megahorn_Bug_Physical_10_120_0.85__
+Dragon Breath_Dragon_Special_20_60_1_0.3_Inflicts paralysis on the target.
+Baton Pass_Normal_Status_40_-100_-1__
+Encore_Normal_Status_5_-100_1__
+Pursuit_Dark_Physical_20_40_1__
+Rapid Spin_Normal_Physical_40_50_1__
+Sweet Scent_Normal_Status_20_-100_1__
+Iron Tail_Steel_Physical_15_100_0.75_0.1_Lowers the target's Defense by 1 stage.
+Metal Claw_Steel_Physical_35_50_0.95_0.1_Raises the user's Attack by 1 stage.
+Vital Throw_Fighting_Physical_10_70_-1__
+Morning Sun_Normal_Status_5_-100_-1__
+Synthesis_Grass_Status_5_-100_-1__
+Moonlight_Fairy_Status_5_-100_-1__
+Hidden Power_Normal_Special_15_60_1__
+Cross Chop_Fighting_Physical_5_100_0.8__
+Twister_Dragon_Special_20_40_1_0.2_Inflicts flinch on the target.
+Rain Dance_Water_Status_5_-100_-1__
+Sunny Day_Fire_Status_5_-100_-1__
+Crunch_Dark_Physical_15_80_1_0.2_Lowers the target's Defense by 1 stage.
+Mirror Coat_Psychic_Special_20_-100_1__
+Psych Up_Normal_Status_10_-100_-1__
+Extreme Speed_Normal_Physical_5_80_1__
+Ancient Power_Rock_Special_5_60_1_0.1_Raises all of the user's stats (Attack, Defense, Special Attack, Special Defense, and Speed) by 1 stage.
+Shadow Ball_Ghost_Special_15_80_1_0.2_Lowers the target's Special Defense by 1 stage.
+Future Sight_Psychic_Special_10_120_1__
+Rock Smash_Fighting_Physical_15_40_1_0.5_Lowers the target's Defense by 1 stage.
+Whirlpool_Water_Special_15_35_0.85__
+Beat Up_Dark_Physical_10_-100_1__
+Fake Out_Normal_Physical_10_40_1_1_Inflicts flinch on the target.
+Uproar_Normal_Special_10_90_1__
+Stockpile_Normal_Status_20_-100_-1__
+Spit Up_Normal_Special_10_-100_1__
+Swallow_Normal_Status_10_-100_-1__
+Heat Wave_Fire_Special_10_95_0.9_0.1_Inflicts burn on the target.
+Hail_Ice_Status_10_-100_-1__
+Torment_Dark_Status_15_-100_1__
+Flatter_Dark_Status_15_-100_1__
+Will-O-Wisp_Fire_Status_15_-100_0.85__
+Memento_Dark_Status_10_-100_1__
+Facade_Normal_Physical_20_70_1__
+Focus Punch_Fighting_Physical_20_150_1__
+Smelling Salts_Normal_Physical_10_70_1__
+Follow Me_Normal_Status_20_-100_-1__
+Nature Power_Normal_Status_20_-100_-1__
+Charge_Electric_Status_20_-100_-1__
+Taunt_Dark_Status_20_-100_1__
+Helping Hand_Normal_Status_20_-100_-1__
+Trick_Psychic_Status_10_-100_1__
+Role Play_Psychic_Status_10_-100_-1__
+Wish_Normal_Status_10_-100_-1__
+Assist_Normal_Status_20_-100_-1__
+Ingrain_Grass_Status_20_-100_-1__
+Superpower_Fighting_Physical_5_120_1__
+Magic Coat_Psychic_Status_15_-100_-1__
+Recycle_Normal_Status_10_-100_-1__
+Revenge_Fighting_Physical_10_60_1__
+Brick Break_Fighting_Physical_15_75_1__
+Yawn_Normal_Status_10_-100_-1__
+Knock Off_Dark_Physical_20_65_1__
+Endeavor_Normal_Physical_5_-100_1__
+Eruption_Fire_Special_5_150_1__
+Skill Swap_Psychic_Status_10_-100_-1__
+Imprison_Psychic_Status_10_-100_-1__
+Refresh_Normal_Status_20_-100_-1__
+Grudge_Ghost_Status_5_-100_-1__
+Snatch_Dark_Status_10_-100_-1__
+Secret Power_Normal_Physical_20_70_1_0.3_Special: Inflicts varying conditions depending on the battle environment. See Secret Power.
+Dive_Water_Physical_10_80_1__
+Arm Thrust_Fighting_Physical_20_15_1__
+Camouflage_Normal_Status_20_-100_-1__
+Tail Glow_Bug_Status_20_-100_-1__
+Luster Purge_Psychic_Special_5_70_1_0.5_Lowers the target's Special Defense by 1 stage.
+Mist Ball_Psychic_Special_5_70_1_0.5_Lowers the target's Special Attack by 1 stage.
+Feather Dance_Flying_Status_15_-100_1__
+Teeter Dance_Normal_Status_20_-100_1__
+Blaze Kick_Fire_Physical_10_85_0.9_0.1_Inflicts burn on the target.
+Mud Sport_Ground_Status_15_-100_-1__
+Ice Ball_Ice_Physical_20_30_0.9__
+Needle Arm_Grass_Physical_15_60_1_0.3_Inflicts flinch on the target.
+Slack Off_Normal_Status_10_-100_-1__
+Hyper Voice_Normal_Special_10_90_1__
+Poison Fang_Poison_Physical_15_50_1_0.5_Inflicts bad poison on the target.
+Crush Claw_Normal_Physical_10_75_0.95_0.5_Lowers the target's Defense by 1 stage.
+Blast Burn_Fire_Special_5_150_0.9__
+Hydro Cannon_Water_Special_5_150_0.9__
+Meteor Mash_Steel_Physical_10_90_0.9_0.2_Raises the user's Attack by 1 stage.
+Astonish_Ghost_Physical_15_30_1_0.3_Inflicts flinch on the target.
+Weather Ball_Normal_Special_10_50_1__
+Aromatherapy_Grass_Status_5_-100_-1__
+Fake Tears_Dark_Status_20_-100_1__
+Air Cutter_Flying_Special_25_60_0.95__
+Overheat_Fire_Special_5_130_0.9__
+Odor Sleuth_Normal_Status_40_-100_-1__
+Rock Tomb_Rock_Physical_15_60_0.95_1_Lowers the target's Speed by 1 stage.
+Silver Wind_Bug_Special_5_60_1_0.1_Raises all of the user's stats (Attack, Defense, Special Attack, Special Defense, and Speed) by 1 stage.
+Metal Sound_Steel_Status_40_-100_0.85__
+Grass Whistle_Grass_Status_15_-100_0.55__
+Tickle_Normal_Status_20_-100_1__
+Cosmic Power_Psychic_Status_20_-100_-1__
+Water Spout_Water_Special_5_150_1__
+Signal Beam_Bug_Special_15_75_1_0.1_Inflicts confusion on the target.
+Shadow Punch_Ghost_Physical_20_60_-1__
+Extrasensory_Psychic_Special_20_80_1_0.1_Inflicts flinch on the target.
+Sky Uppercut_Fighting_Physical_15_85_0.9__
+Sand Tomb_Ground_Physical_15_35_0.85__
+Sheer Cold_Ice_Special_5_-100_0.3__
+Muddy Water_Water_Special_10_90_0.85_0.3_Lowers the target's accuracy by 1 stage.
+Bullet Seed_Grass_Physical_30_25_1__
+Aerial Ace_Flying_Physical_20_60_-1__
+Icicle Spear_Ice_Physical_30_25_1__
+Iron Defense_Steel_Status_15_-100_-1__
+Block_Normal_Status_5_-100_-1__
+Howl_Normal_Status_40_-100_-1__
+Dragon Claw_Dragon_Physical_15_80_1__
+Frenzy Plant_Grass_Special_5_150_0.9__
+Bulk Up_Fighting_Status_20_-100_-1__
+Bounce_Flying_Physical_5_85_0.85_0.3_Inflicts paralysis on the target.
+Mud Shot_Ground_Special_15_55_0.95_1_Lowers the target's Speed by 1 stage.
+Poison Tail_Poison_Physical_25_50_1_0.1_Inflicts poison on the target.
+Covet_Normal_Physical_25_60_1__
+Volt Tackle_Electric_Physical_15_120_1_0.1_Inflicts paralysis on the target.
+Magical Leaf_Grass_Special_20_60_-1__
+Water Sport_Water_Status_15_-100_-1__
+Calm Mind_Psychic_Status_20_-100_-1__
+Leaf Blade_Grass_Physical_15_90_1__
+Dragon Dance_Dragon_Status_20_-100_-1__
+Rock Blast_Rock_Physical_10_25_0.9__
+Shock Wave_Electric_Special_20_60_-1__
+Water Pulse_Water_Special_20_60_1_0.2_Inflicts confusion on the target.
+Doom Desire_Steel_Special_5_140_1__
+Psycho Boost_Psychic_Special_5_140_0.9__
+Roost_Flying_Status_10_-100_-1__
+Gravity_Psychic_Status_5_-100_-1__
+Miracle Eye_Psychic_Status_40_-100_-1__
+Wake-Up Slap_Fighting_Physical_10_70_1__
+Hammer Arm_Fighting_Physical_10_100_0.9__
+Gyro Ball_Steel_Physical_5_-100_1__
+Healing Wish_Psychic_Status_10_-100_-1__
+Brine_Water_Special_10_65_1__
+Natural Gift_Normal_Physical_15_-100_1__
+Feint_Normal_Physical_10_30_1__
+Pluck_Flying_Physical_20_60_1__
+Tailwind_Flying_Status_15_-100_-1__
+Acupressure_Normal_Status_30_-100_-1__
+Metal Burst_Steel_Physical_10_-100_1__
+U-turn_Bug_Physical_20_70_1__
+Close Combat_Fighting_Physical_5_120_1__
+Payback_Dark_Physical_10_50_1__
+Assurance_Dark_Physical_10_60_1__
+Embargo_Dark_Status_15_-100_1__
+Fling_Dark_Physical_10_-100_1_1_Varies with held item. Not considered an additional effect by Sheer Force.
+Psycho Shift_Psychic_Status_10_-100_1__
+Trump Card_Normal_Special_5_-100_-1__
+Heal Block_Psychic_Status_15_-100_1__
+Wring Out_Normal_Special_5_-100_1__
+Power Trick_Psychic_Status_10_-100_-1__
+Gastro Acid_Poison_Status_10_-100_1__
+Lucky Chant_Normal_Status_30_-100_-1__
+Me First_Normal_Status_20_-100_-1__
+Copycat_Normal_Status_20_-100_-1__
+Power Swap_Psychic_Status_10_-100_-1__
+Guard Swap_Psychic_Status_10_-100_-1__
+Punishment_Dark_Physical_5_-100_1__
+Last Resort_Normal_Physical_5_140_1__
+Worry Seed_Grass_Status_10_-100_1__
+Sucker Punch_Dark_Physical_5_70_1__
+Toxic Spikes_Poison_Status_20_-100_-1__
+Heart Swap_Psychic_Status_10_-100_-1__
+Aqua Ring_Water_Status_20_-100_-1__
+Magnet Rise_Electric_Status_10_-100_-1__
+Flare Blitz_Fire_Physical_15_120_1_0.1_Inflicts burn on the target.
+Force Palm_Fighting_Physical_10_60_1_0.3_Inflicts paralysis on the target.
+Aura Sphere_Fighting_Special_20_80_-1__
+Rock Polish_Rock_Status_20_-100_-1__
+Poison Jab_Poison_Physical_20_80_1_0.3_Inflicts poison on the target.
+Dark Pulse_Dark_Special_15_80_1_0.2_Inflicts flinch on the target.
+Night Slash_Dark_Physical_15_70_1__
+Aqua Tail_Water_Physical_10_90_0.9__
+Seed Bomb_Grass_Physical_15_80_1__
+Air Slash_Flying_Special_15_75_0.95_0.3_Inflicts flinch on the target.
+X-Scissor_Bug_Physical_15_80_1__
+Bug Buzz_Bug_Special_10_90_1_0.1_Lowers the target's Special Defense by 1 stage.
+Dragon Pulse_Dragon_Special_10_85_1__
+Dragon Rush_Dragon_Physical_10_100_0.75_0.2_Inflicts flinch on the target.
+Power Gem_Rock_Special_20_80_1__
+Drain Punch_Fighting_Physical_10_75_1__
+Vacuum Wave_Fighting_Special_30_40_1__
+Focus Blast_Fighting_Special_5_120_0.7_0.1_Lowers the target's Special Defense by 1 stage.
+Energy Ball_Grass_Special_10_90_1_0.1_Lowers the target's Special Defense by 1 stage.
+Brave Bird_Flying_Physical_15_120_1__
+Earth Power_Ground_Special_10_90_1_0.1_Lowers the target's Special Defense by 1 stage.
+Switcheroo_Dark_Status_10_-100_1__
+Giga Impact_Normal_Physical_5_150_0.9__
+Nasty Plot_Dark_Status_20_-100_-1__
+Bullet Punch_Steel_Physical_30_40_1__
+Avalanche_Ice_Physical_10_60_1__
+Ice Shard_Ice_Physical_30_40_1__
+Shadow Claw_Ghost_Physical_15_70_1__
+Thunder Fang_Electric_Physical_15_65_0.95_0.19_Inflicts flinch or paralysis on the target.
+Ice Fang_Ice_Physical_15_65_0.95_0.19_Inflicts flinch or freeze on the target.
+Fire Fang_Fire_Physical_15_65_0.95_0.19_Inflicts flinch or burn on the target.
+Shadow Sneak_Ghost_Physical_30_40_1__
+Mud Bomb_Ground_Special_10_65_0.85_0.3_Lowers the target's accuracy by 1 stage.
+Psycho Cut_Psychic_Physical_20_70_1__
+Zen Headbutt_Psychic_Physical_15_80_0.9_0.2_Inflicts flinch on the target.
+Mirror Shot_Steel_Special_10_65_0.85_0.3_Lowers the target's accuracy by 1 stage.
+Flash Cannon_Steel_Special_10_80_1_0.1_Lowers the target's Special Defense by 1 stage.
+Rock Climb_Normal_Physical_20_90_0.85_0.2_Inflicts confusion on the target.
+Defog_Flying_Status_15_-100_-1__
+Trick Room_Psychic_Status_5_-100_-1__
+Draco Meteor_Dragon_Special_5_130_0.9__
+Discharge_Electric_Special_15_80_1_0.3_Inflicts paralysis on the target.
+Lava Plume_Fire_Special_15_80_1_0.3_Inflicts burn on the target.
+Leaf Storm_Grass_Special_5_130_0.9__
+Power Whip_Grass_Physical_10_120_0.85__
+Rock Wrecker_Rock_Physical_5_150_0.9__
+Cross Poison_Poison_Physical_20_70_1_0.1_Inflicts poison on the target.
+Gunk Shot_Poison_Physical_5_120_0.8_0.3_Inflicts poison on the target.
+Iron Head_Steel_Physical_15_80_1_0.3_Inflicts flinch on the target.
+Magnet Bomb_Steel_Physical_20_60_-1__
+Stone Edge_Rock_Physical_5_100_0.8__
+Captivate_Normal_Status_20_-100_1__
+Stealth Rock_Rock_Status_20_-100_-1__
+Grass Knot_Grass_Special_20_-100_1__
+Chatter_Flying_Special_20_65_1_1_Inflicts confusion on the target.
+Judgment_Normal_Special_10_100_1__
+Bug Bite_Bug_Physical_20_60_1__
+Charge Beam_Electric_Special_10_50_0.9_0.7_Raises the user's Special Attack by 1 stage.
+Wood Hammer_Grass_Physical_15_120_1__
+Aqua Jet_Water_Physical_20_40_1__
+Attack Order_Bug_Physical_15_90_1__
+Defend Order_Bug_Status_10_-100_-1__
+Heal Order_Bug_Status_10_-100_-1__
+Head Smash_Rock_Physical_5_150_0.8__
+Double Hit_Normal_Physical_10_35_0.9__
+Roar of Time_Dragon_Special_5_150_0.9__
+Spacial Rend_Dragon_Special_5_100_0.95__
+Lunar Dance_Psychic_Status_10_-100_-1__
+Crush Grip_Normal_Physical_5_-100_1__
+Magma Storm_Fire_Special_5_100_0.75__
+Dark Void_Dark_Status_10_-100_0.5__
+Seed Flare_Grass_Special_5_120_0.85_0.4_Lowers the target's Special Defense by 2 stages.
+Ominous Wind_Ghost_Special_5_60_1_0.1_Raises all of the user's stats (Attack, Defense, Special Attack, Special Defense, and Speed) by 1 stage.
+Shadow Force_Ghost_Physical_5_120_1__
+Hone Claws_Dark_Status_15_-100_-1__
+Wide Guard_Rock_Status_10_-100_-1__
+Guard Split_Psychic_Status_10_-100_-1__
+Power Split_Psychic_Status_10_-100_-1__
+Wonder Room_Psychic_Status_10_-100_-1__
+Psyshock_Psychic_Special_10_80_1__
+Venoshock_Poison_Special_10_65_1__
+Autotomize_Steel_Status_15_-100_-1__
+Rage Powder_Bug_Status_20_-100_-1__
+Telekinesis_Psychic_Status_15_-100_-1__
+Magic Room_Psychic_Status_10_-100_-1__
+Smack Down_Rock_Physical_15_50_1__
+Storm Throw_Fighting_Physical_10_60_1__
+Flame Burst_Fire_Special_15_70_1__
+Sludge Wave_Poison_Special_10_95_1_0.1_Inflicts poison on the target.
+Quiver Dance_Bug_Status_20_-100_-1__
+Heavy Slam_Steel_Physical_10_-100_1__
+Synchronoise_Psychic_Special_10_120_1__
+Electro Ball_Electric_Special_10_-100_1__
+Soak_Water_Status_20_-100_1__
+Flame Charge_Fire_Physical_20_50_1_1_Raises the user's Speed by 1 stage.
+Coil_Poison_Status_20_-100_-1__
+Low Sweep_Fighting_Physical_20_65_1_1_Lowers the target's Speed by 1 stage.
+Acid Spray_Poison_Special_20_40_1_1_Lowers the target's Special Defense by 2 stages.
+Foul Play_Dark_Physical_15_95_1__
+Simple Beam_Normal_Status_15_-100_1__
+Entrainment_Normal_Status_15_-100_1__
+After You_Normal_Status_15_-100_-1__
+Round_Normal_Special_15_60_1__
+Echoed Voice_Normal_Special_15_40_1__
+Chip Away_Normal_Physical_20_70_1__
+Clear Smog_Poison_Special_15_50_-1__
+Stored Power_Psychic_Special_10_20_1__
+Quick Guard_Fighting_Status_15_-100_-1__
+Ally Switch_Psychic_Status_15_-100_-1__
+Scald_Water_Special_15_80_1_0.3_Inflicts burn on the target.
+Shell Smash_Normal_Status_15_-100_-1__
+Heal Pulse_Psychic_Status_10_-100_-1__
+Hex_Ghost_Special_10_65_1__
+Sky Drop_Flying_Physical_10_60_1__
+Shift Gear_Steel_Status_10_-100_-1__
+Circle Throw_Fighting_Physical_10_60_0.9__
+Incinerate_Fire_Special_15_60_1__
+Quash_Dark_Status_15_-100_1__
+Acrobatics_Flying_Physical_15_55_1__
+Reflect Type_Normal_Status_15_-100_-1__
+Retaliate_Normal_Physical_5_70_1__
+Final Gambit_Fighting_Special_5_-100_1__
+Bestow_Normal_Status_15_-100_-1__
+Inferno_Fire_Special_5_100_0.5_1_Inflicts burn on the target.
+Water Pledge_Water_Special_10_80_1__
+Fire Pledge_Fire_Special_10_80_1__
+Grass Pledge_Grass_Special_10_80_1__
+Volt Switch_Electric_Special_20_70_1__
+Struggle Bug_Bug_Special_20_50_1_1_Lowers the target's Special Attack by 1 stage.
+Bulldoze_Ground_Physical_20_60_1_1_Lowers the target's Speed by 1 stage.
+Frost Breath_Ice_Special_10_60_0.9__
+Dragon Tail_Dragon_Physical_10_60_0.9__
+Work Up_Normal_Status_30_-100_-1__
+Electroweb_Electric_Special_15_55_0.95_1_Lowers the target's Speed by 1 stage.
+Wild Charge_Electric_Physical_15_90_1__
+Drill Run_Ground_Physical_10_80_0.95__
+Dual Chop_Dragon_Physical_15_40_0.9__
+Heart Stamp_Psychic_Physical_25_60_1_0.3_Inflicts flinch on the target.
+Horn Leech_Grass_Physical_10_75_1__
+Sacred Sword_Fighting_Physical_15_90_1__
+Razor Shell_Water_Physical_10_75_0.95_0.5_Lowers the target's Defense by 1 stage.
+Heat Crash_Fire_Physical_10_-100_1__
+Leaf Tornado_Grass_Special_10_65_0.9_0.3_Lowers the target's accuracy by 1 stage.
+Steamroller_Bug_Physical_20_65_1_0.3_Inflicts flinch on the target.
+Cotton Guard_Grass_Status_10_-100_-1__
+Night Daze_Dark_Special_10_85_0.95_0.4_Lowers the target's accuracy by 1 stage.
+Psystrike_Psychic_Special_10_100_1__
+Tail Slap_Normal_Physical_10_25_0.85__
+Hurricane_Flying_Special_10_110_0.7_0.3_Inflicts confusion on the target.
+Head Charge_Normal_Physical_15_120_1__
+Gear Grind_Steel_Physical_15_50_0.85__
+Searing Shot_Fire_Special_5_100_1_0.3_Inflicts burn on the target.
+Techno Blast_Normal_Special_5_120_1__
+Relic Song_Normal_Special_10_75_1_0.1_Inflicts sleep on the target.
+Secret Sword_Fighting_Special_10_85_1__
+Glaciate_Ice_Special_10_65_0.95_1_Lowers the target's Speed by 1 stage.
+Bolt Strike_Electric_Physical_5_130_0.85_0.2_Inflicts paralysis on the target.
+Blue Flare_Fire_Special_5_130_0.85_0.2_Inflicts burn on the target.
+Fiery Dance_Fire_Special_10_80_1_0.5_Raises the user's Special Attack by 1 stage.
+Freeze Shock_Ice_Physical_5_140_0.9_0.3_Inflicts paralysis on the target.
+Ice Burn_Ice_Special_5_140_0.9_0.3_Inflicts burn on the target.
+Snarl_Dark_Special_15_55_0.95_1_Lowers the target's Special Attack by 1 stage.
+Icicle Crash_Ice_Physical_10_85_0.9_0.3_Inflicts flinch on the target.
+V-create_Fire_Physical_5_180_0.95__
+Fusion Flare_Fire_Special_5_100_1__
+Fusion Bolt_Electric_Physical_5_100_1__
+Flying Press_Fighting_Physical_10_100_0.95__
+Mat Block_Fighting_Status_10_-100_-1__
+Belch_Poison_Special_10_120_0.9__
+Rototiller_Ground_Status_10_-100_-1__
+Sticky Web_Bug_Status_20_-100_-1__
+Fell Stinger_Bug_Physical_25_50_1__
+Phantom Force_Ghost_Physical_10_90_1__
+Trick-or-Treat_Ghost_Status_20_-100_1__
+Noble Roar_Normal_Status_30_-100_1__
+Ion Deluge_Electric_Status_25_-100_-1__
+Parabolic Charge_Electric_Special_20_65_1__
+Forest's Curse_Grass_Status_20_-100_1__
+Petal Blizzard_Grass_Physical_15_90_1__
+Freeze-Dry_Ice_Special_20_70_1_0.1_Inflicts freeze on the target.
+Disarming Voice_Fairy_Special_15_40_-1__
+Parting Shot_Dark_Status_20_-100_1__
+Topsy-Turvy_Dark_Status_20_-100_-1__
+Draining Kiss_Fairy_Special_10_50_1__
+Crafty Shield_Fairy_Status_10_-100_-1__
+Flower Shield_Fairy_Status_10_-100_-1__
+Grassy Terrain_Grass_Status_10_-100_-1__
+Misty Terrain_Fairy_Status_10_-100_-1__
+Electrify_Electric_Status_20_-100_-1__
+Play Rough_Fairy_Physical_10_90_0.9_0.1_Lowers the target's Attack by 1 stage.
+Fairy Wind_Fairy_Special_30_40_1__
+Moonblast_Fairy_Special_15_95_1_0.3_Lowers the target's Special Attack by 1 stage.
+Boomburst_Normal_Special_10_140_1__
+Fairy Lock_Fairy_Status_10_-100_-1__
+King's Shield_Steel_Status_10_-100_-1__
+Play Nice_Normal_Status_20_-100_-1__
+Confide_Normal_Status_20_-100_-1__
+Diamond Storm_Rock_Physical_5_100_0.95_0.5_Raises the user's Defense by 2 stages.
+Steam Eruption_Water_Special_5_110_0.95_0.3_Inflicts burn on the target.
+Hyperspace Hole_Psychic_Special_5_80_-1__
+Water Shuriken_Water_Special_20_15_1__
+Mystical Fire_Fire_Special_10_75_1_1_Lowers the target's Special Attack by 1 stage.
+Spiky Shield_Grass_Status_10_-100_-1__
+Aromatic Mist_Fairy_Status_20_-100_-1__
+Eerie Impulse_Electric_Status_15_-100_1__
+Venom Drench_Poison_Status_20_-100_1__
+Powder_Bug_Status_20_-100_1__
+Geomancy_Fairy_Status_10_-100_-1__
+Magnetic Flux_Electric_Status_20_-100_-1__
+Happy Hour_Normal_Status_30_-100_-1__
+Electric Terrain_Electric_Status_10_-100_-1__
+Dazzling Gleam_Fairy_Special_10_80_1__
+Celebrate_Normal_Status_40_-100_-1__
+Hold Hands_Normal_Status_40_-100_-1__
+Baby-Doll Eyes_Fairy_Status_30_-100_1__
+Nuzzle_Electric_Physical_20_20_1_1_Inflicts paralysis on the target.
+Hold Back_Normal_Physical_40_40_1__
+Infestation_Bug_Special_20_20_1__
+Power-Up Punch_Fighting_Physical_20_40_1_1_Raises the user's Attack by 1 stage.
+Oblivion Wing_Flying_Special_10_80_1__
+Thousand Arrows_Ground_Physical_10_90_1__
+Thousand Waves_Ground_Physical_10_90_1__
+Land's Wrath_Ground_Physical_10_90_1__
+Light of Ruin_Fairy_Special_5_140_0.9__
+Origin Pulse_Water_Special_10_110_0.85__
+Precipice Blades_Ground_Physical_10_120_0.85__
+Dragon Ascent_Flying_Physical_5_120_1__
+Hyperspace Fury_Dark_Physical_5_100_-1__
+Shore Up_Ground_Status_10_-100_-1__
+First Impression_Bug_Physical_10_90_1__
+Baneful Bunker_Poison_Status_10_-100_-1__
+Spirit Shackle_Ghost_Physical_10_80_1_1_Traps the target.
+Darkest Lariat_Dark_Physical_10_85_1__
+Sparkling Aria_Water_Special_10_90_1_1_If the target has a burn, cures that burn.
+Ice Hammer_Ice_Physical_10_100_0.9__
+Floral Healing_Fairy_Status_10_-100_-1__
+High Horsepower_Ground_Physical_10_95_0.95__
+Strength Sap_Grass_Status_10_-100_1__
+Solar Blade_Grass_Physical_10_125_1__
+Leafage_Grass_Physical_40_40_1__
+Spotlight_Normal_Status_15_-100_-1__
+Toxic Thread_Poison_Status_20_-100_1__
+Laser Focus_Normal_Status_30_-100_-1__
+Gear Up_Steel_Status_20_-100_-1__
+Throat Chop_Dark_Physical_15_80_1_1_Prevents the target from using sound-based moves.
+Pollen Puff_Bug_Special_15_90_1__
+Anchor Shot_Steel_Physical_20_80_1_1_Traps the target.
+Psychic Terrain_Psychic_Status_10_-100_-1__
+Lunge_Bug_Physical_15_80_1_1_Lowers the target's Attack by 1 stage.
+Fire Lash_Fire_Physical_15_80_1_1_Lowers the target's Defense by 1 stage.
+Power Trip_Dark_Physical_10_20_1__
+Burn Up_Fire_Special_5_130_1__
+Speed Swap_Psychic_Status_10_-100_-1__
+Smart Strike_Steel_Physical_10_70_-1__
+Purify_Poison_Status_20_-100_-1__
+Revelation Dance_Normal_Special_15_90_1__
+Core Enforcer_Dragon_Special_10_100_1__
+Trop Kick_Grass_Physical_15_70_1_1_Lowers the target's Attack by 1 stage.
+Instruct_Psychic_Status_15_-100_-1__
+Beak Blast_Flying_Physical_15_100_1__
+Clanging Scales_Dragon_Special_5_110_1__
+Dragon Hammer_Dragon_Physical_15_90_1__
+Brutal Swing_Dark_Physical_20_60_1__
+Aurora Veil_Ice_Status_20_-100_-1__
+Shell Trap_Fire_Special_5_150_1__
+Fleur Cannon_Fairy_Special_5_130_0.9__
+Psychic Fangs_Psychic_Physical_10_85_1__
+Stomping Tantrum_Ground_Physical_10_75_1__
+Shadow Bone_Ghost_Physical_10_85_1_0.2_Lowers the target's Defense by 1 stage.
+Accelerock_Rock_Physical_20_40_1__
+Liquidation_Water_Physical_10_85_1_0.2_Lowers the target's Defense by 1 stage.
+Prismatic Laser_Psychic_Special_10_160_1__
+Spectral Thief_Ghost_Physical_10_90_1__
+Sunsteel Strike_Steel_Physical_5_100_1__
+Moongeist Beam_Ghost_Special_5_100_1__
+Tearful Look_Normal_Status_20_-100_-1__
+Zing Zap_Electric_Physical_10_80_1_0.3_Inflicts flinch on the target.
+Nature's Madness_Fairy_Special_10_-100_0.9__
+Multi-Attack_Normal_Physical_10_120_1__
+Mind Blown_Fire_Special_5_150_1__
+Plasma Fists_Electric_Physical_15_100_1__
+Photon Geyser_Psychic_Special_5_100_1__
+Let's Snuggle Forever_Fairy_Physical_5_120_0.9__
+Zippy Zap_Electric_Physical_10_80_1__
+Splishy Splash_Water_Special_15_90_1_0.3_Inflicts paralysis on the target.
+Floaty Fall_Flying_Physical_15_90_0.95_0.3_Inflicts flinch on the target.
+Pika Papow_Electric_Special_20_-100_-1__
+Bouncy Bubble_Water_Special_20_60_1__
+Buzzy Buzz_Electric_Special_20_60_1_1_Inflicts paralysis on the target.
+Sizzly Slide_Fire_Physical_20_60_1_1_Inflicts burn on the target.
+Glitzy Glow_Psychic_Special_15_80_0.95__
+Baddy Bad_Dark_Special_15_80_0.95__
+Sappy Seed_Grass_Physical_10_100_0.9__
+Freezy Frost_Ice_Special_10_100_0.9__
+Sparkly Swirl_Fairy_Special_5_120_0.85__
+Veevee Volley_Normal_Physical_20_-100_-1__
+Double Iron Bash_Steel_Physical_5_60_1_0.3_Inflicts flinch on the target.
+Dynamax Cannon_Dragon_Special_5_100_1__
+Snipe Shot_Water_Special_15_80_1__
+Jaw Lock_Dark_Physical_10_80_1_1_Traps the target.
+Stuff Cheeks_Normal_Status_10_-100_-1__
+No Retreat_Fighting_Status_5_-100_-1__
+Tar Shot_Rock_Status_15_-100_1__
+Magic Powder_Psychic_Status_20_-100_1__
+Dragon Darts_Dragon_Physical_10_50_1__
+Teatime_Normal_Status_10_-100_-1__
+Octolock_Fighting_Status_15_-100_1__
+Bolt Beak_Electric_Physical_10_85_1__
+Fishious Rend_Water_Physical_10_85_1__
+Court Change_Normal_Status_10_-100_1__
+Clangorous Soul_Dragon_Status_5_-100_-1__
+Body Press_Fighting_Physical_10_80_1__
+Decorate_Fairy_Status_15_-100_-1__
+Drum Beating_Grass_Physical_10_80_1_1_Lowers the target's Speed by 1 stage.
+Snap Trap_Grass_Physical_15_35_1__
+Pyro Ball_Fire_Physical_5_120_0.9_0.1_Inflicts burn on the target.
+Behemoth Blade_Steel_Physical_5_100_1__
+Behemoth Bash_Steel_Physical_5_100_1__
+Aura Wheel_Electric_Physical_10_110_1_1_Raises the user's Speed by 1 stage.
+Breaking Swipe_Dragon_Physical_15_60_1_1_Lowers the target's Attack by 1 stage.
+Branch Poke_Grass_Physical_40_40_1__
+Overdrive_Electric_Special_10_80_1__
+Apple Acid_Grass_Special_10_80_1_1_Lowers the target's Special Defense by 1 stage.
+Grav Apple_Grass_Physical_10_80_1_1_Lowers the target's Defense by 1 stage.
+Spirit Break_Fairy_Physical_15_75_1_1_Lowers the target's Special Attack by 1 stage.
+Strange Steam_Fairy_Special_10_90_0.95_0.2_Inflicts confusion on the target.
+Life Dew_Water_Status_10_-100_-1__
+Obstruct_Dark_Status_10_-100_1__
+False Surrender_Dark_Physical_10_80_-1__
+Meteor Assault_Fighting_Physical_5_150_1__
+Eternabeam_Dragon_Special_5_160_0.9__
+Steel Beam_Steel_Special_5_140_0.95__
+Expanding Force_Psychic_Special_10_80_1__
+Steel Roller_Steel_Physical_5_130_1__
+Scale Shot_Dragon_Physical_20_25_0.9_1_Raises the user's Speed by 1 stage and lowers the user's Defense by 1 stage.
+Meteor Beam_Rock_Special_10_120_0.9__
+Shell Side Arm_Poison_Special_10_90_1__
+Misty Explosion_Fairy_Special_5_100_1__
+Grassy Glide_Grass_Physical_20_70_1__
+Rising Voltage_Electric_Special_20_70_1__
+Terrain Pulse_Normal_Special_10_50_1__
+Skitter Smack_Bug_Physical_10_70_0.9_1_Lowers the target's Special Attack by 1 stage.
+Burning Jealousy_Fire_Special_5_70_1__
+Lash Out_Dark_Physical_5_75_1__
+Poltergeist_Ghost_Physical_5_110_0.9__
+Corrosive Gas_Poison_Status_40_-100_1__
+Coaching_Fighting_Status_10_-100_-1__
+Flip Turn_Water_Physical_20_60_1__
+Triple Axel_Ice_Physical_10_20_0.9__
+Dual Wingbeat_Flying_Physical_10_40_0.9__
+Scorching Sands_Ground_Special_10_70_1_0.3_Inflicts burn on the target.
+Jungle Healing_Grass_Status_10_-100_-1__
+Wicked Blow_Dark_Physical_5_80_1__
+Surging Strikes_Water_Physical_5_25_1__
+Thunder Cage_Electric_Special_15_80_0.9__
+Dragon Energy_Dragon_Special_5_150_1__
+Freezing Glare_Psychic_Special_10_90_1__
+Fiery Wrath_Dark_Special_10_90_1__
+Thunderous Kick_Fighting_Physical_10_90_1__
+Glacial Lance_Ice_Physical_5_130_1__
+Astral Barrage_Ghost_Special_5_120_1__
+Eerie Spell_Psychic_Special_5_80_1_1_Reduces the PP of the target's most recently used move by 3.
+Dire Claw_Poison_Physical_15_60_1__
+Psyshield Bash_Psychic_Physical_10_70_0.9__
+Power Shift_Normal_Status_10_-100_-1__
+Stone Axe_Rock_Physical_15_65_0.9__
+Springtide Storm_Fairy_Special_5_95_0.8__
+Mystical Power_Psychic_Special_10_70_0.9__
+Raging Fury_Fire_Physical_10_90_0.85__
+Wave Crash_Water_Physical_10_75_1__
+Chloroblast_Grass_Special_5_120_0.95__
+Mountain Gale_Ice_Physical_5_100_0.85__
+Victory Dance_Fighting_Status_10_-100_-1__
+Headlong Rush_Ground_Physical_5_100_1__
+Barb Barrage_Poison_Physical_15_60_1__
+Esper Wing_Psychic_Special_10_75_0.9__
+Bitter Malice_Ghost_Special_15_60_1__
+Shelter_Steel_Status_10_-100_-1__
+Triple Arrows_Fighting_Physical_15_50_1__
+Infernal Parade_Ghost_Special_15_60_1__
+Ceaseless Edge_Dark_Physical_15_65_0.9__
+Bleakwind Storm_Flying_Special_5_95_0.8__
+Wildbolt Storm_Electric_Special_5_95_0.8__
+Sandsear Storm_Ground_Special_5_95_0.8__
+Lunar Blessing_Psychic_Status_10_-100_-1__
+Take Heart_Psychic_Status_10_-100_-1__
+Forme Change_Normal_Status_35_-100_-1__

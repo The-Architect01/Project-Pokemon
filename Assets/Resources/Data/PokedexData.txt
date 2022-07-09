@@ -1,0 +1,252 @@
+﻿
+495_Snivy_Grass__Grass Snake_24_17.9_They photosynthesize by bathing their tails in sunlight. When they are not feeling well, their tails droop._
+496_Servine_Grass__Grass Snake_31_35.3_When it gets dirty, its leaves can’t be used in photosynthesis, so it always keeps itself clean._
+497_Serperior_Grass__Regal_130_138.9_It can stop its opponents’ movements with just a glare. It takes in solar energy and boosts it internally._
+653_Fennekin_Fire__Fox_16_20.7_As it walks, it munches on a twig in place of a snack. It intimidates opponents by puffing hot air out of its ears._
+654_Braixen_Fire__Fox_39_32_When the twig is plucked from its tail, friction sets the twig alight. The flame is used to send signals to its allies._
+655_Delphox_Fire_Psychic_Fox_59_86_It gazes into the flame at the tip of its branch to achieve a focused state, which allows it to see into the future._
+728_Popplio_Water__Sea Lion_16_16.9_If Popplio want to create big, powerful balloons, they must be persistent. It takes daily practice for these Pokémon to develop their skills._
+729_Brionne_Water__Pop Star_24_38.6_It gets excited when it sees a dance it doesn’t know. This hard worker practices diligently until it can learn that dance._
+730_Primarina_Water_Fairy_Soloist_71_97_To Primarina, every battle is a stage. It takes down its prey with beautiful singing and dancing._
+664_Scatterbug_Bug__Scatterdust_12_5.5_The powder that covers its body regulates its temperature, so it can live in any region or climate._
+665_Spewpa_Bug__Scatterdust_12_18.5_It lives hidden within thicket shadows. When predators attack, it quickly bristles the fur covering its body in an effort to threaten them._
+666_Vivillon_Bug_Flying_Scale_47_37.5_The patterns on this Pokémon’s wings depend on the climate and topography of its habitat. It scatters colorful scales._Archipelago_Continental_Elegant_Garden_High Plains_Icy Snow_Jungle_Marine_Meadow_Modern_Monsoon_Ocean_Polar_River_Sandstorm_Savanna_Sun_Tundra_Poké Ball_Fancy
+16_Pidgey_Flying_Normal_Tiny Bird_12_4_It has an extremely sharp sense of direction. It can unerringly return home to its nest, however far it may be removed from its familiar surroundings._
+17_Pidgeotto_Flying_Normal_Bird_43_66.1_It has outstanding vision. However high it flies, it is able to distinguish the movements of its prey._
+18_Pidgeot_Flying_Normal_Bird_59_87.1_This Pokémon has gorgeous, glossy feathers. Many trainers are so captivated by the beautiful feathers on its head that they choose Pidgeot as their Pokémon._
+19_Rattata_Normal__Mouse_12_7.7_Will chew on anything with its fangs. If you see one, you can be certain that 40 more live in the area._Female_Male
+20_Raticate_Normal__Mouse_28_40.8_Its hind feet are webbed. They act as flippers, so it can swim in rivers and hunt for prey._Female_Male
+827_Nickit_Dark__Fox_24_19.6_Cunning and cautious, this Pokémon survives by stealing food from others. It erases its tracks with swipes of its tail as it makes off with its plunder._
+828_Thievul_Dark__Fox_47_43.9_It secretly marks potential targets with a scent. By following the scent, it stalks its targets and steals from them when they least expect it._
+734_Yungoos_Normal__Loitering_16_13.2_Although it will eat anything, it prefers fresh living things, so it marches down streets in search of prey._
+735_Gumshoos_Normal__Stakeout_28_31.3_Patient by nature, this Pokémon loses control of itself and pounces when it spots its favorite meal—Rattata!_
+161_Sentret_Normal__Scout_31_13.2_When Sentret sleeps, it does so while another stands guard. The sentry wakes the others at the first sign of danger. When this Pokémon becomes separated from its pack, it becomes incapable of sleep due to fear._
+162_Furret_Normal__Long Body_71_71.7_Furret has a very slim build. When under attack, it can slickly squirm through narrow spaces and get away. In spite of its short limbs, this Pokémon is very nimble and fleet._
+163_Hoothoot_Normal_Flying_Owl_28_46.7_It always stands on one foot. It changes feet so fast, the movement can rarely be seen._
+164_Noctowl_Normal_Flying_Owl_63_89.9_Its eyes are specially developed to enable it to see clearly even in murky darkness and minimal light._
+263_Zigzagoon_Normal__Tiny Raccoon_16_38.6_Zigzagoon restlessly wanders everywhere at all times. This Pokémon does so because it is very curious. It becomes interested in anything that it happens to see._
+264_Linoone_Normal__Rushing_20_71.7_It uses its explosive speed and razor-sharp claws to bring down prey. Running along winding paths is not its strong suit._
+191_Sunkern_Grass__Seed_12_4_Sunkern tries to move as little as it possibly can. It does so because it tries to conserve all the nutrients it has stored in its body for its evolution. It will not eat a thing, subsisting only on morning dew._
+192_Sunflora_Grass__Sun_31_18.7_Sunflora converts solar energy into nutrition. It moves around actively in the daytime when it is warm. It stops moving as soon as the sun goes down for the night._
+300_Skitty_Normal__Kitten_24_24.3_Skitty is known to chase around playfully after its own tail. In the wild, this Pokémon lives in holes in the trees of forests. It is very popular as a pet because of its adorable looks._
+301_Delcatty_Normal__Prim_43_71.9_Delcatty prefers to live an unfettered existence in which it can do as it pleases at its own pace. Because this Pokémon eats and sleeps whenever it decides, its daily routines are completely random._
+396_Starly_Flying_Normal_Starling_12_4.4_They flock around mountains and fields, chasing after bug Pokémon. Their singing is noisy and annoying._Female_Male
+397_Staravia_Flying_Normal_Starling_24_34.2_It lives in forests and fields. Squabbles over territory occur when flocks collide._Female_Male
+398_Staraptor_Flying_Normal_Predator_47_54.9_When Staravia evolve into Staraptor, they leave the flock to live alone. They have sturdy wings._Female_Male
+417_Pachirisu_Electric__EleSquirrel_16_8.6_A pair may be seen rubbing their cheek pouches together in an effort to share stored electricity._Female_Male
+403_Shinx_Electric__Flash_20_20.9_Electricity makes this Pokémon’s fur glow. Shinx sends signals to others of its kind by shaking the tip of its tail while the tail tip is shining brightly._Female_Male
+404_Luxio_Electric__Spark_35_67.2_By joining its tail with that of another Luxio, this Pokémon can receive some of the other Luxio’s electricity and power up its own electric blasts._Female_Male
+405_Luxray_Electric__Gleam Eyes_55_92.6_Seeing through solid objects uses up a lot of Luxray’s electricity, so the Pokémon sleeps for long periods of time to store up energy._Female_Male
+58_Growlithe_Fire__Puppy_28_41.9_It has a brave and trustworthy nature. It fearlessly stands up to bigger and stronger foes._
+59_Arcanine_Fire__Legendary_75_341.7_A Pokémon that has long been admired for its beauty. It runs agilely as if on wings._
+1023_Vulpix_Ice__Fox_24_21.8_If you observe its curly hairs through a microscope, you’ll see small ice particles springing up._alolan-vulpix
+1024_Ninetales_Ice_Fairy_Fox_43_43.9_While it will guide travelers who get lost on a snowy mountain down to the mountain’s base, it won’t forgive anyone who harms nature._alolan-ninetales
+736_Grubbin_Bug__Larva_16_9.7_They often gather near places frequented by electric Pokémon in order to avoid being attacked by bird Pokémon._
+737_Charjabug_Bug_Electric_Battery_20_23.1_While its durable shell protects it from attacks, Charjabug strikes at enemies with jolts of electricity discharged from the tips of its jaws._
+738_Vikavolt_Bug_Electric_Stag Beetle_59_99.2_It zips around, on sharp lookout for an opening. It concentrates electrical energy within its large jaws and uses it to zap its enemies._
+742_Cutiefly_Bug_Fairy_Bee Fly_4_0.4_An opponent’s aura can tell Cutiefly what that opponent’s next move will be. Then Cutiefly can glide around the attack and strike back._
+743_Ribombee_Bug_Fairy_Bee Fly_8_1.1_It makes pollen puffs from pollen and nectar. The puffs’ effects depend on the type of ingredients and how much of each one is used._
+48_Venonat_Bug_Poison_Insect_39_66.1_Its large eyes act as radar. In a bright place, you can see that they are clusters of many tiny eyes._
+49_Venomoth_Bug_Poison_Poison Moth_59_27.6_The powdery scales on its wings are hard to remove from skin. They also contain poison that leaks out on contact._
+831_Wooloo_Normal__Sheep_24_13.2_If its fleece grows too long, Wooloo won’t be able to move. Cloth made with the wool of this Pokémon is surprisingly strong._
+832_Dubwool_Normal__Sheep_51_94.8_Weave a carpet from its springy wool, and you end up with something closer to a trampoline. You’ll start to bounce the moment you set foot on it._
+72_Tentacool_Water_Poison_Jellyfish_35_100.3_This Pokémon is mostly made of water. A Tentacool out in the ocean is very hard to spot, because its body blends in with the sea._
+73_Tentacruel_Water_Poison_Jellyfish_63_121.3_Its 80 tentacles can stretch and shrink freely. Tentacruel ensnares prey in a net of spread-out tentacles, delivering venomous stings to its catch._
+74_Geodude_Rock_Ground_Rock_16_44.1_Commonly found near mountain trails and the like. If you step on one by accident, it gets angry._
+75_Graveler_Rock_Ground_Rock_39_231.5_Often seen rolling down mountain trails. Obstacles are just things to roll straight over, not avoid._
+76_Golem_Rock_Ground_Megaton_55_661.4_Once it sheds its skin, its body turns tender and whitish. Its hide hardens when it’s exposed to air._
+96_Drowzee_Psychic__Hypnosis_39_71.4_If you sleep by it all the time, it will sometimes show you dreams it had eaten in the past._
+97_Hypno_Psychic__Hypnosis_63_166.7_Avoid eye contact if you come across one. It will try to put you to sleep by using its pendulum._Female_Male
+109_Koffing_Poison__Poison Gas_24_2.2_Its body is full of poisonous gas. It floats into garbage dumps, seeking out the fumes of raw, rotting trash._
+1069_Weezing_Poison_Fairy_Poison Gas_47_20.9_By diluting its toxic gases with a special process, the highest grade of perfume can be extracted. To Weezing, gases emanating from garbage are the ultimate feast._galarian-weezing
+104_Cubone_Ground__Lonely_16_14.3_This Pokémon wears the skull of its deceased mother. Sometimes Cubone’s dreams make it cry, but each tear Cubone sheds makes it stronger._
+105_Marowak_Ground__Bone Keeper_39_99.2_Its custom is to mourn its lost companions. Mounds of dirt by the side of the road mark the graves of the Marowak._Kantonian
+88_Grimer_Poison__Sludge_35_66.1_Made of congealed sludge. It smells too putrid to touch. Even weeds won’t grow in its path._
+89_Muk_Poison__Sludge_47_66.1_Smells so awful, it can cause fainting. Through degeneration of its nose, it lost its sense of smell._
+86_Seel_Ice_Water_Sea Lion_43_198.4_Loves freezing-cold conditions. Relishes swimming in a frigid climate of around 14 degrees Fahrenheit._
+87_Dewgong_Ice_Water_Sea Lion_67_264.6_Its entire body is a snowy white. Unharmed by even intense cold, it swims powerfully in icy waters._
+81_Magnemite_Electric_Steel_Magnet_12_13.2_It subsists on electricity. As Magnemite flies, it emits electromagnetic waves from the units on each side of its body._
+82_Magneton_Electric_Steel_Magnet_39_132.3_This Pokémon is three Magnemite that have linked together. Magneton sends out powerful radio waves to study its surroundings._
+462_Magnezone_Electric_Steel_Magnet Area_47_396.8_Some say that Magnezone receives signals from space via the antenna on its head and that it’s being controlled by some mysterious being._
+672_Skiddo_Grass__Mount_35_68.3_Thought to be one of the first Pokémon to live in harmony with humans, it has a placid disposition._
+673_Gogoat_Grass__Mount_67_200.6_It can tell how its Trainer is feeling by subtle shifts in the grip on its horns. This empathic sense lets them run as if one being._
+194_Wooper_Water_Ground_Water Fish_16_18.7_When the temperature cools in the evening, they emerge from water to seek food along the shore._Female_Male
+195_Quagsire_Water_Ground_Water Fish_55_165.3_It has an easygoing nature. It doesn't care if it bumps its head on boats and boulders while swimming._Female_Male
+69_Bellsprout_Grass_Poison_Flower_28_8.8_Its bud looks like a human face. Because of the bud, it is rumored to be a type of legendary mandrake plant._
+70_Weepinbell_Grass_Poison_Flycatcher_39_14.1_If its prey is bigger than its mouth, it slices up the victim with sharp leaves, then eats every morsel._
+71_Victreebel_Grass_Poison_Flycatcher_67_34.2_Victreebel has a long vine that extends from its head. This vine is waved and flicked about as if it were an animal to attract prey. When an unsuspecting prey draws near, this Pokémon swallows it whole._
+339_Bidoof_Normal__Plump Mouse_20_44.1_It lives in groups by the water. It chews up boulders and trees around its nest with its incisors._
+400_Bibarel_Normal_Water_Beaver_39_69.4_It makes its nest by damming streams with bark and mud. It is known as an industrious worker._
+114_Tangela_Grass__Vine_39_77.2_Hidden beneath a tangle of vines that grows nonstop even if the vines are torn off, this Pokémon’s true appearance remains a mystery._
+465_Tangrowth_Grass__Vine_79_283.5_Tangrowth has two arms that it can extend as it pleases. Recent research has shown that these arms are, in fact, bundles of vines._
+702_Dedenne_Electric_Fairy_Antenna_8_4.9_Since Dedenne can’t generate much electricity on its own, it steals electricity from outlets or other electric Pokémon._
+299_Nosepass_Rock__Compass_39_213.8_The magnet in Nosepass’s nose provides an unerring compass, making it an excellent partner for Trainers going on a journey._
+476_Probopass_Rock_Steel_Compass_55_749.6_It is able to emit powerful magnetism, allowing it control over the iron sand that forms its luscious mustache. Using this iron sand, Probopass forms hard stones with which it smites its prey._
+436_Bronzor_Steel_Psychic_Bronze_20_133.4_Polishing Bronzor to a shine makes its surface reflect the truth, according to common lore. Be that as it may, Bronzor hates being polished._
+437_Bronzong_Steel_Psychic_Bronze Bell_51_412.3_Some believe it to be a deity that summons rain clouds. When angered, it lets out a warning cry that rings out like the tolling of a bell._
+442_Spiritomb_Ghost_Dark_Forbidden_39_238.1_All Spiritomb’s mischief and misdeeds compelled a traveler to use a mysterious spell to bind Spiritomb to an odd keystone._
+406_Budew_Grass_Poison_Bud_8_2.6_This Pokémon is highly sensitive to temperature changes. When its bud starts to open, that means spring is right around the corner._
+315_Roselia_Grass_Poison_Thorn_12_4.4_It uses the different poisons in each hand separately when it attacks. The stronger its aroma, the healthier it is._Female_Male
+407_Roserade_Grass_Poison_Bouquet_35_32_The poison in its right hand is quick acting. The poison in its left hand is slow acting. Both are life threatening._Female_Male
+225_Delibird_Ice_Flying_Delivery_35_35.3_It carries food all day long. There are tales about lost people who were saved by the food it had._
+228_Houndour_Dark_Fire_Dark_24_23.8_They make repeated eerie howls before dawn to call attention to their pack._
+229_Houndoom_Dark_Fire_Dark_55_77.2_Identifiable by its eerie howls, people a long time ago thought it was the grim reaper and feared it._Female_Male
+571_Zorua_Dark__Illusion Fox_63_178.8_If it thinks humans are going to discover its den, Zoroark shows them visions that make them wander around in the woods._
+570_Zoroark_Dark__Tricky Fox_28_27.6_Zorua sometimes transforms into a person and goes into cities to search for food. When Zorua does this, it usually takes on the form of a child._
+707_Klefki_Steel_Fairy_Key Ring_8_6.6_Long ago it lived in mines, but once the minerals that make up its diet became scarcer, Klefki began appearing in human settlements._
+531_Audino_Normal__Hearing_43_68.3_Using the feelers on its ears, it can tell how someone is feeling or when an egg might hatch._
+216_Teddiursa_Normal__Little Bear_24_19.4_If it finds honey, its crescent mark glows. It always licks its paws because they are soaked with honey._
+217_Ursaring_Normal__Hibernator_71_277.3_In the forests inhabited by Ursaring, it is said that there are many streams and towering trees where they gather food. This Pokémon walks through its forest gathering food every day._Female_Male
+353_Shuppet_Ghost__Puppet_24_5.1_There’s a proverb that says, “Shun the house where Shuppet gather in the growing dusk.”_
+354_Banette_Ghost__Marionette_43_27.6_It’s a stuffed toy that was thrown away and became possessed, ever searching for the one who threw it away so it can exact its revenge._
+359_Absol_Dark__Disaster_47_103.6_Because of this Pokémon’s ability to detect danger, people mistook Absol as a bringer of doom._
+361_Snorunt_Ice__Snow Hat_28_37_It’s said that if they are seen at midnight, they’ll cause heavy snow. They eat snow and ice to survive._
+362_Glalie_Ice__Face_59_565.5_It has a body of ice that won’t melt, even with fire. It can instantly freeze moisture in the atmosphere._
+478_Froslass_Ice_Ghost_Snow Land_51_58.6_After a woman met her end on a snowy mountain, her regrets lingered on. From them, this Pokémon was born. Its favorite food is frozen souls._
+1077_Yamask_Ghost_Ground_Spirit_20_3.3_A clay slab with cursed engravings took possession of a Yamask. The slab is said to be absorbing the Yamask’s dark power._galarian-yamask
+867_Runerigus_Ghost_Ground_Grudge_63_146.8_Never touch its shadowlike body, or you’ll be shown the horrific memories behind the picture carved into it._
+1343_Pluffle_Fairy__Pillow_6_1.2_While born naturally gentle, Pluffle gradually become more rowdy with age. At its peak, Pluffle will evolve and unleash a hidden, fighting spirit._
+1317_Kerfluffle_Fairy_Fighting_Pillow_32_10_Kerfluffle adores playing with people and Pokémon. However, it usually ends up injuring someone because it likes to be rough._Female_Male
+744_Rockruff_Rock__Puppy_20_20.3_This Pokémon can bond very strongly with its Trainer, but it also has a habit of biting. Raising a Rockruff for a long time can be challenging._
+745_Lycanroc_Rock__Wolf_31_55.1_With swift movements, this Pokémon gradually backs its prey into a corner. Lycanroc’s fangs are always aimed toward opponents’ weak spots._Midday_Midnight_Dusk
+714_Noibat_Flying_Dragon_Sound Wave_20_17.6_After nightfall, they emerge from the caves they nest in during the day. Using their ultrasonic waves, they go on the hunt for ripened fruit._
+715_Noivern_Flying_Dragon_Sound Wave_59_187.4_Flying through the darkness, it weakens enemies with ultrasonic waves that could crush stone. Its fangs finish the fight._
+781_Dhelmise_Ghost_Grass_Sea Creeper_154_463_Its chain-like green seaweed can stretch outward for hundreds of yards. For some reason, it gets along well with Skrelp._
+774_Minior_Rock_Flying_Meteor_12_88.2_It lives in the ozone layer, where it becomes food for stronger Pokémon. When it tries to run away, it falls to the ground._Meteor_Red_Orange_Yellow_Green_Blue_Indigo_Violet
+755_Morelull_Grass_Fairy_Illuminating_8_3.3_Morelull live in forests that stay dark even during the day. They scatter flickering spores that put enemies to sleep._
+756_Shiinotic_Grass_Fairy_Illuminating_39_25.4_If you see a light deep in a forest at night, don’t go near. Shiinotic will make you fall fast asleep._
+874_Stonjourner_Rock__Big Rock_98_1146.4_It stands in grasslands, watching the sun’s descent from zenith to horizon. This Pokémon has a talent for delivering dynamic kicks._
+173_Cleffa_Fairy__Star Shape_12_6.6_According to local rumors, Cleffa are often seen in places where shooting stars have fallen._
+35_Clefairy_Fairy__Fairy_24_16.5_It is said that happiness will come to those who see a gathering of Clefairy dancing under a full moon._
+36_Clefable_Fairy__Fairy_51_88.2_Clefable moves by skipping lightly as if it were flying using its wings. Its bouncy step even lets it walk on water. It is known to take strolls on lakes on quiet, moonlit nights._
+1305_Voodoom_Dark_Fighting_Pin Doll_6_2_They often gather on stormy nights and spar on remote hills. The victor gets to take a pin from the loser; for this reason, the strongest Voodoom are usually the ones with the most pins on their body._Female_Male
+1301_Kitsunoh_Ghost_Dark_Mask_31_55_Being drawn to strong emotional reactions, this Pokémon haunts the rafters of popular theaters._
+1314_Naviathan_Water_Steel_Long Ship_197_680_Ancient people were known to use Naviathan as a ship to cross oceans and continents. Some people still use them for this purpose._
+438_Bonsly_Rock__Bonsai_20_33.1_It expels both sweat and tears from its eyes. The sweat is a little salty, while the tears have a slight bitterness._
+185_Sudowoodo_Rock__Imitation_47_83.8_It disguises itself as a tree to avoid attack. It hates water, so it will disappear if it starts raining._Female_Male
+698_Amaura_Ice_Rock_Tundra_51_55.6_It lived in cold areas in ancient times. It's said that when Amaura whinnies, auroras appear in the night sky._
+699_Aurorus_Ice_Rock_Tundra_106_496_Using its diamond-shaped crystals, it can instantly create a wall of ice to block an opponent's attack._
+708_Phantump_Ghost_Grass_Stump_16_15.6_After a lost child perished in the forest, their spirit possessed a tree stump, causing the spirit’s rebirth as this Pokémon._
+709_Trevenant_Ghost_Grass_Elder Tree_59_156.5_This Pokémon is said to devour anyone daring to ravage the forest. To the creatures dwelling in the forest, it offers great kindness._
+703_Carbink_Fairy_Rock_Jewel_12_12.6_It’s said that somewhere in the world, there’s a mineral vein housing a large pack of slumbering Carbink. It’s also said that this pack has a queen._
+679_Honedge_Steel_Ghost_Sword_31_4.4_Honedge’s soul once belonged to a person who was killed a long time ago by the sword that makes up Honedge’s body._
+680_Doublade_Steel_Ghost_Sword_31_9.9_The two swords employ a strategy of rapidly alternating between offense and defense to bring down their prey._
+681_Aegislash_Steel_Ghost_Royal Sword_67_116.8_Its potent spectral powers allow it to manipulate others. It once used its powers to force people and Pokémon to build a kingdom to its liking._Shield_Blade
+667_Litleo_Normal_Fire_Lion Cub_24_29.8_This hot-blooded Pokémon is filled with curiosity. When it gets angry or starts fighting, its short mane gets hot._
+668_Pyroar_Normal_Fire_Royal_59_179.7_The males are usually lazy, but when attacked by a strong foe, a male will protect its friends with no regard for its own safety._Female_Male
+116_Horsea_Water__Dragon_16_17.6_They swim with dance-like motions and cause whirlpools to form. Horsea compete to see which of them can generate the biggest whirlpool._
+117_Seadra_Water__Dragon_47_55.1_It’s the males that raise the offspring. While Seadra are raising young, the spines on their backs secrete thicker and stronger poison._
+230_Kingdra_Water_Dragon_Dragon_71_335.1_Scales shed by this Pokémon have such a splendorous gleam to them that they’ve been given to royalty as gifts._
+234_Stantler_Normal__Big Horn_55_157_Stantler’s magnificent antlers were traded at high prices as works of art. As a result, this Pokémon was hunted close to extinction by those who were after the priceless antlers._
+302_Sableye_Dark_Ghost_Darkness_20_24.3_This Pokémon is feared. When its gemstone eyes begin to glow with a sinister shine, it’s believed that Sableye will steal people’s spirits away._
+303_Mawile_Fairy_Steel_Deceiver_24_25.4_It uses its docile-looking face to lull foes into complacency, then bites with its huge, relentless jaws._
+118_Goldeen_Water__Goldfish_24_33.1_Its dorsal, pectoral, and tail fins wave elegantly in water. That is why it is known as the Water Dancer._Female_Male
+119_Seaking_Water__Goldfish_51_86_Using its horn, it bores holes in riverbed boulders, making nests to prevent its eggs from washing away._Female_Male
+129_Magikarp_Water__Fish_35_22_It is virtually worthless in terms of both power and speed. It is the most weak and pathetic Pokémon in the world._Female_Male
+130_Gyarados_Water_Ice_Atrocious_256_518.1_Extremely vicious and horribly brutal. Has enough destructive power to totally annihilate even a major city._Female_Male
+193_Yanma_Bug_Flying_Clear Wing_47_83.8_Yanma is capable of seeing 360 degrees without having to move its eyes. It is a great flier that is adept at making sudden stops and turning midair. This Pokémon uses its flying ability to quickly chase down targeted prey._
+469_Yanmega_Bug_Flying_Ogre Darner_75_113.5_By churning its wings, it creates shock waves that inflict critical internal injuries to foes._
+131_Lapras_Ice_Water_Transport_98_485_A smart and kindhearted Pokémon, it glides across the surface of the sea while its beautiful song echoes around it._
+198_Murkrow_Dark_Flying_Darkness_20_4.6_It searches for shiny things for its boss. Murkrow’s presence is said to be unlucky, so many people detest it._Female_Male
+430_Honchkrow_Dark_Flying_Big Boss_35_60.2_It will absolutely not forgive failure from or betrayal by its goons. It has no choice in this if it wants to maintain the order of the flock._
+349_Feebas_Water__Fish_24_16.3_Although unattractive and unpopular, this Pokémon’s marvelous vitality has made it a subject of research._
+350_Milotic_Water__Tender_244_357.1_Milotic has provided inspiration to many artists. It has even been referred to as the most beautiful Pokémon of all._Female_Male
+309_Electrike_Electric__Lightning_24_33.5_It stores static electricity in its fur for discharging. It gives off sparks if a storm approaches._
+310_Manectric_Electric__Discharge_59_88.6_It rarely appears before people. It is said to nest where lightning has fallen._
+712_Bergmite_Ice__Ice Chunk_39_219.4_This Pokémon lives in areas of frigid cold. It secures itself to the back of an Avalugg by freezing its feet in place._
+713_Avalugg_Ice__Iceberg_79_1113.3_At high latitudes, this Pokémon can be found with clusters of Bergmite on its back as it swims among the icebergs._
+337_Lunatone_Rock_Psychic_Meteorite_39_370.4_The phase of the moon apparently has some effect on its power. It’s active on the night of a full moon._
+338_Solrock_Rock_Psychic_Meteorite_47_339.5_Solar energy is the source of its power, so it is strong during the daytime. When it spins, its body shines._
+363_Spheal_Ice_Water_Clap_31_87.1_As it drifts among the waves, Spheal probes the sea. As soon as it spots prey, it informs the Walrein in its herd._
+364_Sealeo_Ice_Water_Ball Roll_43_193.1_This Pokémon has a habit of spinning round things on its nose, whether those things are Poké Balls or Spheal._
+365_Walrein_Ice_Water_Ice Break_56_332_Walrein’s tusks keep growing throughout its life. Tusks broken in battle will grow back to their usual impressive size in a year._
+366_Clamperl_Water__Bivalve_16_115.7_Despite its appearance, it’s carnivorous. It clamps down on its prey with both sides of its shell and doesn’t let go until they stop moving._
+367_Huntail_Water__Deep Sea_67_59.5_Deep seas are their habitat. According to tradition, when Huntail wash up onshore, something unfortunate will happen._
+368_Gorebyss_Water__South Sea_71_49.8_It sucks bodily fluids out of its prey. The leftover meat sinks to the seafloor, where it becomes food for other Pokémon._
+222_Corsola_Water_Rock_Coral_24_11_It will regrow any branches that break off its head. People keep particularly beautiful Corsola branches as charms to promote safe childbirth._
+339_Barboach_Water_Ground_Whiskers_16_4.2_Its slimy body is hard to grasp. In one region, it is said to have been born from hardened mud._
+340_Whiscash_Water_Ground_Whiskers_35_52_It claims a large swamp to itself. If a foe comes near it, it sets off tremors by thrashing around._
+220_Swinub_Ice_Ground_Pig_20_14.3_It rubs its snout on the ground to find and dig up food. It sometimes discovers hot springs._
+221_Piloswine_Ice_Ground_Swine_43_123_Although its legs are short, its rugged hooves prevent it from slipping, even on icy ground._Female_Male
+473_Mamoswine_Ice_Ground_Twin Tusk_98_641.5_It looks strong, and that’s exactly what it is. As the weather grows colder, its ice tusks grow longer, thicker, and more impressive._Female_Male
+320_Wailmer_Water__Ball Whale_79_286.6_When it sucks in a large volume of seawater, it becomes like a big, bouncy ball. It eats a ton of food daily._
+321_Wailord_Water__Float Whale_571_877.4_Its immense size is the reason for its popularity. Wailord watching is a favorite sightseeing activity in various parts of the world._
+433_Chingling_Psychic__Bell_8_1.3_There is an orb inside its mouth. When it hops, the orb bounces all over and makes a ringing sound._
+358_Chimecho_Psychic_Steel_Wind Chime_24_2.2_In high winds, Chimecho cries as it hangs from a tree branch or the eaves of a building using a suction cup on its head. This Pokémon plucks berries with its long tail and eats them._
+201_Unown_Psychic__Symbol_20_11_This Pokémon is shaped like ancient writing. It is a mystery as to which came first, the ancient writings or the various Unown. Research into this topic is ongoing but nothing is known._A_B_C_D_E_F_G_H_I_J_K_L_M_N_O_P_Q_R_S_T_U_V_W_X_Y_Z_!_?
+200_Misdreavus_Ghost__Screech_28_2.2_What makes it happy is imitating the voices of weeping people and scaring everyone. It doesn’t deal well with folks who aren’t easily frightened._
+429_Mismagius_Ghost__Magical_35_9.7_Feared for its wrath and the curses it spreads, this Pokémon will also, on a whim, cast spells that help people._
+369_Relicanth_Water_Rock_Longevity_39_51.6_Relicanth is a Pokémon species that existed for a hundred million years without ever changing its form. This ancient Pokémon feeds on microscopic organisms with its toothless mouth._Female_Male
+459_Snover_Ice_Grass_Frost Tree_39_111.3_It lives on snowy mountains. It sinks its legs into the snow to absorb water and keep its own temperature down._Female_Male
+460_Abomasnow_Ice_Grass_Frost Tree_87_298.7_This Pokémon is known to bring blizzards. A shake of its massive body is enough to cause whiteout conditions._Female_Male
+1065_Meowth_Steel__Scratch Cat_16_16.5_These daring Pokémon have coins on their foreheads. Darker coins are harder, and harder coins garner more respect among Meowth._galarian-meowth
+863_Perrserker_Steel__Viking_31_61.7_After many battles, it evolved dangerous claws that come together to form daggers when extended._
+540_Sewaddle_Bug_Grass_Sewing_12_5.5_Since this Pokémon makes its own clothes out of leaves, it is a popular mascot for fashion designers._
+541_Swadloon_Bug_Grass_Leaf-Wrapped_20_16.1_Forests where Swadloon live have superb foliage because the nutrients they make from fallen leaves nourish the plant life._
+542_Leavanny_Bug_Grass_Nurturing_47_45.2_Upon finding a small Pokémon, it weaves clothing for it from leaves by using the sticky silk secreted from its mouth._
+585_Deerling_Normal_Grass_Season_24_43_The turning of the seasons changes the color and scent of this Pokémon’s fur. People use it to mark the seasons._Spring_Summer_autumn_Winter
+586_Sawsbuck_Normal_Grass_Season_75_203.9_They migrate according to the seasons. People can tell the season by looking at Sawsbuck’s horns._Spring_Summer_autumn_Winter
+595_Joltik_Bug_Electric_Attaching_4_1.3_Joltik can be found clinging to other Pokémon. It’s soaking up static electricity because it can’t produce a charge on its own._
+596_Galvantula_Bug_Electric_EleSpider_31_31.5_It lays traps of electrified threads near the nests of bird Pokémon, aiming to snare chicks that are not yet good at flying._
+636_Larvesta_Bug_Fire_Torch_43_63.5_The people of ancient times believed that Larvesta fell from the sun._
+637_Volcarona_Bug_Fire_Sun_63_101.4_When volcanic ash darkened the atmosphere, it is said that Volcarona's fire provided a replacement for the sun._
+355_Duskull_Ghost__Requiem_31_33.1_If it finds bad children who won’t listen to their parents, it will spirit them away—or so it’s said._
+356_Dusclops_Ghost__Beckon_63_67.5_It seeks drifting will-o’-the-wisps and sucks them into its empty body. What happens inside is a mystery._
+477_Dusknoir_Ghost__Gripper_87_235_At the bidding of transmissions from the spirit world, it steals people and Pokémon away. No one knows whether it has a will of its own._
+607_Litwick_Ghost_Fire_Candle_12_6.8_The flame on its head keeps its body slightly warm. This Pokémon takes lost children by the hand to guide them to the spirit world._
+608_Lampent_Ghost_Fire_Lamp_24_28.7_It lurks in cities, pretending to be a lamp. Once it finds someone whose death is near, it will trail quietly after them._
+609_Chandelure_Ghost_Fire_Luring_39_75.6_This Pokémon haunts dilapidated mansions. It sways its arms to hypnotize opponents with the ominous dancing of its flames._
+215_Sneasel_Ice_Dark_Sharp Claw_35_61.7_It has a cunning yet savage disposition. It waits for parents to leave their nests, and then it sneaks in to steal their eggs._Female_Male
+461_Weavile_Ice_Dark_Sharp Claw_43_75_With its claws, it leaves behind signs for its friends to find. The number of distinct signs is said to be over 500._Female_Male
+574_Gothita_Psychic__Fixation_16_12.8_Even when nobody seems to be around, Gothita can still be heard making a muted cry. Many believe it’s speaking to something only it can see._
+575_Gothorita_Psychic__Manipulate_28_39.7_It’s said that when stars shine in the night sky, this Pokémon will spirit away sleeping children. Some call it the Witch of Punishment._
+576_Gothitelle_Psychic__Astral Body_59_97_It has tremendous psychic power, but it dislikes conflict. It’s also able to predict the future based on the movement of the stars._
+602_Tynamo_Electric__EleFish_8_0.7_One alone can emit only a trickle of electricity, so a group of them gathers to unleash a powerful electric shock._
+603_Eelektrik_Electric__EleFish_47_48.5_It wraps itself around its prey and paralyzes it with electricity from the round spots on its sides. Then it chomps._
+604_Eelektross_Electric__EleFish_83_177.5_With their sucker mouths, they suck in prey. Then they use their fangs to shock the prey with electricity._
+669_Flabebe_Fairy__Single Bloom_4_0.2_It’s not safe without the power of a flower, but it will keep traveling around until it finds one with the color and shape it wants._Red_Yellow_Orange_Blue_White
+670_Floette_Fairy__Single Bloom_8_2_It raises flowers and uses them as weapons. The more gorgeous the blossom, the more power it contains._Red_Yellow_Orange_Blue_White_Eternal
+671_Florges_Fairy__Garden_43_22_It controls the flowers it grows. The petal blizzards that Florges triggers are overwhelming in their beauty and power._Red_Yellow_Orange_Blue_White
+859_Impidimp_Dark_Fairy_Wily_16_12.1_It sneaks into people’s homes, stealing things and feasting on the negative energy of the frustrated occupants._
+860_Morgrem_Dark_Fairy_Devious_31_27.6_With sly cunning, it tries to lure people into the woods. Some believe it to have the power to make crops grow._
+861_Grimmsnarl_Dark_Fairy_Bulk Up_59_134.5_Its hairs work like muscle fibers. When its hairs unfurl, they latch on to opponents, ensnaring them as tentacles would._
+686_Inkay_Dark_Psychic_Revolving_16_7.7_It spins while making its luminescent spots flash. These spots allow it to communicate with others by using different patterns of light._
+687_Malamar_Dark_Psychic_Overturning_59_103.6_It’s said that Malamar’s hypnotic powers played a role in certain history-changing events._
+587_Emolga_Electric_Flying_Sky Squirrel_16_11_This Pokémon absolutely loves sweet berries. Sometimes it stuffs its cheeks full of so much food that it can’t fly properly._
+564_Tirtouga_Water_Rock_Prototurtle_28_36.4_Based on studies of its skeletal structure, it can apparently dive to ocean depths of over half a mile._
+565_Carracosta_Water_Rock_Prototurtle_47_178.6_Carracosta completely devours its prey—bones, shells, and all. Because of this, Carracosta’s own shell grows thick and sturdy._
+613_Cubchoo_Ice__Chill_20_18.7_Their snot is a barometer of health. When healthy, their snot is sticky and the power of their ice moves increases._
+614_Beartic_Ice__Freezing_102_573.2_It swims energetically through frigid seas. When it gets tired, it freezes the seawater with its breath so it can rest on the ice._
+615_Cryogonal_Ice__Crystallizing_43_326.3_With its icy chains, Cryogonal freezes those it encounters. It then takes its victims away to somewhere unknown._
+597_Ferroseed_Grass_Steel_Thorn Seed_24_41.4_Mossy caves are their preferred dwellings. Enzymes contained in mosses help Ferroseed’s spikes grow big and strong._
+598_Ferrothorn_Grass_Steel_Thorn Pod_39_242.5_This Pokémon scrapes its spikes across rocks, and then uses the tips of its feelers to absorb the nutrients it finds within the stone._
+661_Fletchling_Normal_Flying_Tiny Robin_12_3.7_When this Pokémon gets excited, its body temperature increases sharply. If you touch a Fletchling with bare hands, you might get burned._
+662_Fletchinder_Fire_Flying_Ember_28_35.3_Fletchinder launches embers into the den of its prey. When the prey comes leaping out, Fletchinder’s sharp talons finish it off._
+663_Talonflame_Fire_Flying_Scorching_47_54_Talonflame mainly preys upon other bird Pokémon. To intimidate opponents, it sends embers spewing from gaps between its feathers._
+624_Pawniard_Dark_Steel_Sharp Blade_20_22.5_It uses river stones to maintain the cutting edges of the blades covering its body. These sharpened blades allow it to bring down opponents._
+625_Bisharp_Dark_Steel_Sword Blade_63_154.3_It’s accompanied by a large retinue of Pawniard. Bisharp keeps a keen eye on its minions, ensuring none of them even think of double-crossing it._
+757_Salandit_Poison_Fire_Toxic Lizard_24_10.6_This sneaky Pokémon will slink behind its prey and immobilize it with poisonous gas before the prey even realizes Salandit is there._
+758_Salazzle_Poison_Fire_Toxic Lizard_47_48.9_The winner of competitions between Salazzle is decided by which one has the most male Salandit with it._
+759_Stufful_Normal_Fighting_Flailing_20_15_A touch from anyone except a known friend sends it into a surging frenzy. It’s an incredibly dangerous Pokémon._
+760_Bewear_Normal_Fighting_Strong Arm_83_297.6_This Pokémon has the habit of hugging its companions. Many Trainers have left this world after their spines were squashed by its hug._
+690_Skrelp_Poison_Water_Mock Kelp_20_16.1_It drifts in the ocean, blending in with floating seaweed. When other Pokémon come to feast on the seaweed, Skrelp feasts on them instead._
+691_Dragalge_Poison_Dragon_Mock Kelp_71_179.7_Dragalge generates dragon energy by sticking the plume on its head out above the ocean’s surface and bathing it in sunlight._
+753_Fomantis_Grass__Sickle Grass_12_3.3_When bathed in sunlight, this Pokémon emits a pleasantly sweet scent, which causes bug Pokémon to gather around it._
+754_Lurantis_Grass__Bloom Sickle_35_40.8_This Pokémon resembles a beautiful flower. A properly raised Lurantis will have gorgeous, brilliant colors._
+696_Tyrunt_Rock_Dragon_Royal Heir_31_57.3_This Pokémon is selfish and likes to be pampered. It can also inflict grievous wounds on its Trainer just by playing around._
+697_Tyrantrum_Rock_Dragon_Despot_98_595.2_A single bite of Tyrantrum’s massive jaws will demolish a car. This Pokémon was the king of the ancient world._
+374_Beldum_Steel_Psychic_Iron Ball_24_209.9_The cells in this Pokémon’s body are composed of magnetic material. Instead of blood, magnetic forces flow through Beldum’s body._
+375_Metang_Steel_Psychic_Iron Claw_47_446.4_Using magnetic forces to stay aloft, this Pokémon flies at high speeds, weaving through harsh mountain terrain in pursuit of prey._
+376_Metagross_Steel_Psychic_Iron Leg_63_1212.5_Because the magnetic powers of these Pokémon get stronger in freezing temperatures, Metagross living on snowy mountains are full of energy._
+782_Jangmo-o_Dragon__Scaly_24_65.5_Jangmo-o strikes its scales to communicate with others of its kind. Its scales are actually fur that’s become as hard as metal._
+783_Hakamo-o_Dragon_Fighting_Scaly_47_103.6_Before attacking its enemies, it clashes its scales together and roars. Its sharp claws shred the opposition._
+784_Kommo-o_Dragon_Fighting_Scaly_63_172.4_Certain ruins have paintings of ancient warriors wearing armor made of Kommo-o scales._
+610_Axew_Dragon__Tusk_24_39.7_They mark their territory by leaving gashes in trees with their tusks. If a tusk breaks, a new one grows in quickly._
+611_Fraxure_Dragon__Axe Jaw_39_79.4_Its skin is as hard as a suit of armor. Fraxure's favorite strategy is to tackle its opponents, stabbing them with its tusks at the same time._
+612_Haxorus_Dragon__Axe Jaw_71_232.6_They are kind but can be relentless when defending territory. They challenge foes with tusks that can cut steel._
+243_Raikou_Electric_Flying_Thunder_75_392.4_Raikou embodies the speed of lightning. The roars of this Pokémon send shock waves shuddering through the air and shake the ground as if lightning bolts had come crashing down._
+244_Entei_Fire_Ground_Volcano_83_436.5_Entei embodies the passion of magma. This Pokémon is thought to have been born in the eruption of a volcano. It sends up massive bursts of fire that utterly consume all that they touch._
+245_Suicune_Water_Ice_Aurora_79_412.3_Suicune embodies the compassion of a pure spring of water. It runs across the land with gracefulness. This Pokémon has the power to purify dirty water._
+487_Giratina_Ghost_Dragon_Renegade_165_1653.5_This Pokémon is said to live in a world on the reverse side of ours, where common knowledge is distorted and strange._
+491_Darkrai_Dark__Pitch-Black_59_111.3_It can lull people to sleep and make them dream. It is active during nights of the new moon._
+1323_Equilibra_Steel_Ground_Balance_30_80_In some myths, it guarded the afterlife. It was said to only grant passage to those whose souls maintained balance against a single grain of sand._
