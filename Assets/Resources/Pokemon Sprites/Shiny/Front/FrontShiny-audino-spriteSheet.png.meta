@@ -1,0 +1,1689 @@
+fileFormatVersion: 2
+guid: 16365084bc7179b40bdd078a7a644f6a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1980834985454134577
+    second: 0-5
+  - first:
+      213: 4787784583653202995
+    second: 1-5
+  - first:
+      213: -548027747875756434
+    second: 2-5
+  - first:
+      213: 4707777000849059711
+    second: 3-5
+  - first:
+      213: 3389039083755883452
+    second: 4-5
+  - first:
+      213: 2777085913003689773
+    second: 5-5
+  - first:
+      213: 6373341854051104164
+    second: 6-5
+  - first:
+      213: 5757926205204924148
+    second: 7-5
+  - first:
+      213: -4708890908274281110
+    second: 8-5
+  - first:
+      213: 356589158616596199
+    second: 9-5
+  - first:
+      213: 4002499520525284069
+    second: 0-4
+  - first:
+      213: 1135851537053331386
+    second: 1-4
+  - first:
+      213: 7972260265255644093
+    second: 2-4
+  - first:
+      213: -3222688392602792425
+    second: 3-4
+  - first:
+      213: 9120623332920994093
+    second: 4-4
+  - first:
+      213: 3810610431901662934
+    second: 5-4
+  - first:
+      213: -5844025399030636893
+    second: 6-4
+  - first:
+      213: 5813689302647494286
+    second: 7-4
+  - first:
+      213: 4567291001590206611
+    second: 8-4
+  - first:
+      213: -3432266285098356352
+    second: 9-4
+  - first:
+      213: -2512051317101982091
+    second: 0-3
+  - first:
+      213: 1337468555375099807
+    second: 1-3
+  - first:
+      213: 4339256791073431986
+    second: 2-3
+  - first:
+      213: -3847650207813248957
+    second: 3-3
+  - first:
+      213: -8569996640251225051
+    second: 4-3
+  - first:
+      213: -5861815186469460872
+    second: 5-3
+  - first:
+      213: 1159942537097192630
+    second: 6-3
+  - first:
+      213: 7148977446787732563
+    second: 7-3
+  - first:
+      213: 8199666102363465131
+    second: 8-3
+  - first:
+      213: 5502390386605858469
+    second: 9-3
+  - first:
+      213: 1615218501662067704
+    second: 0-2
+  - first:
+      213: 6532612042955418945
+    second: 1-2
+  - first:
+      213: -522115676820723469
+    second: 2-2
+  - first:
+      213: 2097700608048692660
+    second: 3-2
+  - first:
+      213: 2493938402010816317
+    second: 4-2
+  - first:
+      213: -4257372302534504602
+    second: 5-2
+  - first:
+      213: 5647208906510634499
+    second: 6-2
+  - first:
+      213: -3087106010934837524
+    second: 7-2
+  - first:
+      213: 4198820806497425581
+    second: 8-2
+  - first:
+      213: -1160549410034448808
+    second: 9-2
+  - first:
+      213: 8762561235345680640
+    second: 0-1
+  - first:
+      213: 2275620468573551865
+    second: 1-1
+  - first:
+      213: -1677759028871747024
+    second: 2-1
+  - first:
+      213: -8107483229042595968
+    second: 3-1
+  - first:
+      213: 3093544953027459495
+    second: 4-1
+  - first:
+      213: 2318620021244679812
+    second: 5-1
+  - first:
+      213: -139978788932989117
+    second: 6-1
+  - first:
+      213: -356206947150156794
+    second: 7-1
+  - first:
+      213: 1580595860289921401
+    second: 8-1
+  - first:
+      213: 6824598534364281572
+    second: 9-1
+  - first:
+      213: 4428007689558990534
+    second: 0-0
+  - first:
+      213: 3046590934834786288
+    second: 1-0
+  - first:
+      213: -4884857652332154202
+    second: 2-0
+  - first:
+      213: -2748362051931930247
+    second: 3-0
+  - first:
+      213: -7071407355709804776
+    second: 4-0
+  - first:
+      213: 6873967189165348252
+    second: 5-0
+  - first:
+      213: 8421586688668805665
+    second: 6-0
+  - first:
+      213: -1900074023783430600
+    second: 7-0
+  - first:
+      213: -9151174246422744319
+    second: 8-0
+  - first:
+      213: -3927558170900955149
+    second: FrontShiny-audino-spriteSheet_0
+  - first:
+      213: 265810673846507985
+    second: FrontShiny-audino-spriteSheet_1
+  - first:
+      213: 3618123691095315897
+    second: FrontShiny-audino-spriteSheet_2
+  - first:
+      213: 4272440563584702890
+    second: FrontShiny-audino-spriteSheet_3
+  - first:
+      213: 9009686664097951290
+    second: FrontShiny-audino-spriteSheet_4
+  - first:
+      213: -3391966799451556651
+    second: FrontShiny-audino-spriteSheet_5
+  - first:
+      213: -8122779616605791257
+    second: FrontShiny-audino-spriteSheet_6
+  - first:
+      213: 4494116164831291075
+    second: FrontShiny-audino-spriteSheet_7
+  - first:
+      213: -2631428329131888057
+    second: FrontShiny-audino-spriteSheet_8
+  - first:
+      213: -3734711208265311392
+    second: FrontShiny-audino-spriteSheet_9
+  - first:
+      213: -5642566425752891119
+    second: FrontShiny-audino-spriteSheet_10
+  - first:
+      213: 5713168856679394529
+    second: FrontShiny-audino-spriteSheet_11
+  - first:
+      213: -7678605840716659805
+    second: FrontShiny-audino-spriteSheet_12
+  - first:
+      213: -3161241891428910995
+    second: FrontShiny-audino-spriteSheet_13
+  - first:
+      213: 9211184870746108625
+    second: FrontShiny-audino-spriteSheet_14
+  - first:
+      213: 1829961115371959476
+    second: FrontShiny-audino-spriteSheet_15
+  - first:
+      213: -4390565466067923411
+    second: FrontShiny-audino-spriteSheet_16
+  - first:
+      213: 4992443241265282503
+    second: FrontShiny-audino-spriteSheet_17
+  - first:
+      213: 6551545449273137610
+    second: FrontShiny-audino-spriteSheet_18
+  - first:
+      213: 5652929862075927434
+    second: FrontShiny-audino-spriteSheet_19
+  - first:
+      213: 5944080689929476834
+    second: FrontShiny-audino-spriteSheet_20
+  - first:
+      213: -2220838894285841449
+    second: FrontShiny-audino-spriteSheet_21
+  - first:
+      213: -7909639075666602385
+    second: FrontShiny-audino-spriteSheet_22
+  - first:
+      213: -842756793899947591
+    second: FrontShiny-audino-spriteSheet_23
+  - first:
+      213: 6152229066778977624
+    second: FrontShiny-audino-spriteSheet_24
+  - first:
+      213: -261269870846878383
+    second: FrontShiny-audino-spriteSheet_25
+  - first:
+      213: -4590902736339682889
+    second: FrontShiny-audino-spriteSheet_26
+  - first:
+      213: -4443703797910933481
+    second: FrontShiny-audino-spriteSheet_27
+  - first:
+      213: -1482298517565832656
+    second: FrontShiny-audino-spriteSheet_28
+  - first:
+      213: 6421543349234572161
+    second: FrontShiny-audino-spriteSheet_29
+  - first:
+      213: -3234365142397522585
+    second: FrontShiny-audino-spriteSheet_30
+  - first:
+      213: 5880888974553730909
+    second: FrontShiny-audino-spriteSheet_31
+  - first:
+      213: 4270118724864549497
+    second: FrontShiny-audino-spriteSheet_32
+  - first:
+      213: -4833071924714663050
+    second: FrontShiny-audino-spriteSheet_33
+  - first:
+      213: -2737557583123825050
+    second: FrontShiny-audino-spriteSheet_34
+  - first:
+      213: 5729998281696938992
+    second: FrontShiny-audino-spriteSheet_35
+  - first:
+      213: -8090222168674283567
+    second: FrontShiny-audino-spriteSheet_36
+  - first:
+      213: 3884287160733954071
+    second: FrontShiny-audino-spriteSheet_37
+  - first:
+      213: 2180343874582511555
+    second: FrontShiny-audino-spriteSheet_38
+  - first:
+      213: -2552123663523509489
+    second: FrontShiny-audino-spriteSheet_39
+  - first:
+      213: 3214532559744484652
+    second: FrontShiny-audino-spriteSheet_40
+  - first:
+      213: 8331665372736035855
+    second: FrontShiny-audino-spriteSheet_41
+  - first:
+      213: 2148130370467690953
+    second: FrontShiny-audino-spriteSheet_42
+  - first:
+      213: 913327618509307375
+    second: FrontShiny-audino-spriteSheet_43
+  - first:
+      213: -4061242141254144292
+    second: FrontShiny-audino-spriteSheet_44
+  - first:
+      213: 777871376473884758
+    second: FrontShiny-audino-spriteSheet_45
+  - first:
+      213: 658377848502194782
+    second: FrontShiny-audino-spriteSheet_46
+  - first:
+      213: -469814130742510831
+    second: FrontShiny-audino-spriteSheet_47
+  - first:
+      213: -2513686650267972883
+    second: FrontShiny-audino-spriteSheet_48
+  - first:
+      213: 4328905138966113804
+    second: FrontShiny-audino-spriteSheet_49
+  - first:
+      213: -2818824193508089219
+    second: FrontShiny-audino-spriteSheet_50
+  - first:
+      213: -7448801058964759038
+    second: FrontShiny-audino-spriteSheet_51
+  - first:
+      213: -2225554479494092257
+    second: FrontShiny-audino-spriteSheet_52
+  - first:
+      213: 1756216765145071593
+    second: FrontShiny-audino-spriteSheet_53
+  - first:
+      213: -3612247386607526441
+    second: FrontShiny-audino-spriteSheet_54
+  - first:
+      213: 33394171853277157
+    second: FrontShiny-audino-spriteSheet_55
+  - first:
+      213: 627349205805807135
+    second: FrontShiny-audino-spriteSheet_56
+  - first:
+      213: 2728240210669812161
+    second: FrontShiny-audino-spriteSheet_57
+  - first:
+      213: -3484625680232176602
+    second: FrontShiny-audino-spriteSheet_58
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: FrontShiny-audino-spriteSheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 375
+        width: 63
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fff3c417a28e79c0800000000000000
+      internalID: -3927558170900955149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrontShiny-audino-spriteSheet_1
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 375
+        width: 63
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d9d028466950b300800000000000000
+      internalID: 265810673846507985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrontShiny-audino-spriteSheet_2
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 375
+        width: 63
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b55921d358263230800000000000000
+      internalID: 3618123691095315897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrontShiny-audino-spriteSheet_3
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 375
+        width: 63
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa99f646e02ca4b30800000000000000
+      internalID: 4272440563584702890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrontShiny-audino-spriteSheet_4
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 375
+        width: 63
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3ee12f1946d80d70800000000000000
+      internalID: 9009686664097951290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrontShiny-audino-spriteSheet_5
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 375
+        width: 63
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d475c4da205de0d0800000000000000
+      internalID: -3391966799451556651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrontShiny-audino-spriteSheet_6
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 375
+        width: 63
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7eb9d6b99f6164f80800000000000000
+      internalID: -8122779616605791257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrontShiny-audino-spriteSheet_7
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 375
+        width: 63
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c62c1057de4e5e30800000000000000
+      internalID: 4494116164831291075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrontShiny-audino-spriteSheet_8
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 375
+        width: 63
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 742b13660e94b7bd0800000000000000
+      internalID: -2631428329131888057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrontShiny-audino-spriteSheet_9
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 375
+        width: 63
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06b1da481f3ab2cc0800000000000000
+      internalID: -3734711208265311392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrontShiny-audino-spriteSheet_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 300
+        width: 63
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 111147b3bb391b1b0800000000000000
+      internalID: -5642566425752891119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrontShiny-audino-spriteSheet_11
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 300
+        width: 63
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ec23343ec0494f40800000000000000
+      internalID: 5713168856679394529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrontShiny-audino-spriteSheet_12
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 300
+        width: 63
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a308ddbbac107590800000000000000
+      internalID: -7678605840716659805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrontShiny-audino-spriteSheet_13
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 300
+        width: 63
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d68bb4caf330124d0800000000000000
+      internalID: -3161241891428910995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrontShiny-audino-spriteSheet_14
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 300
+        width: 63
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d2364546d3b4df70800000000000000
+      internalID: 9211184870746108625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrontShiny-audino-spriteSheet_15
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 300
+        width: 63
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b4f58a50f3556910800000000000000
+      internalID: 1829961115371959476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrontShiny-audino-spriteSheet_16
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 300
+        width: 63
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2e8ce788f39113c0800000000000000
+      internalID: -4390565466067923411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrontShiny-audino-spriteSheet_17
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 300
+        width: 63
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cdbae44da8b84540800000000000000
+      internalID: 4992443241265282503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrontShiny-audino-spriteSheet_18
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 300
+        width: 63
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac990c1efd3cbea50800000000000000
+      internalID: 6551545449273137610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrontShiny-audino-spriteSheet_19
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 300
+        width: 63
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8bcb3152cd337e40800000000000000
+      internalID: 5652929862075927434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrontShiny-audino-spriteSheet_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 225
+        width: 63
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ea5187f4ed9d7250800000000000000
+      internalID: 5944080689929476834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrontShiny-audino-spriteSheet_21
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 225
+        width: 63
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7db98bacacefd21e0800000000000000
+      internalID: -2220838894285841449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrontShiny-audino-spriteSheet_22
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 225
+        width: 63
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f66d751fa215b3290800000000000000
+      internalID: -7909639075666602385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrontShiny-audino-spriteSheet_23
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 225
+        width: 63
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b9eb8b392ded44f0800000000000000
+      internalID: -842756793899947591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrontShiny-audino-spriteSheet_24
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 225
+        width: 63
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 855a1368dbb116550800000000000000
+      internalID: 6152229066778977624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrontShiny-audino-spriteSheet_25
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 225
+        width: 63
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15dd8adcf68cf5cf0800000000000000
+      internalID: -261269870846878383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrontShiny-audino-spriteSheet_26
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 225
+        width: 63
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b9ba12f846d940c0800000000000000
+      internalID: -4590902736339682889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrontShiny-audino-spriteSheet_27
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 225
+        width: 63
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 710f67680fac452c0800000000000000
+      internalID: -4443703797910933481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrontShiny-audino-spriteSheet_28
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 225
+        width: 63
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03286611a51dd6be0800000000000000
+      internalID: -1482298517565832656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrontShiny-audino-spriteSheet_29
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 225
+        width: 63
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18b16e047a7ed1950800000000000000
+      internalID: 6421543349234572161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrontShiny-audino-spriteSheet_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 150
+        width: 63
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76d6d751a0a3d13d0800000000000000
+      internalID: -3234365142397522585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrontShiny-audino-spriteSheet_31
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 150
+        width: 63
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5f49c33d5d1d9150800000000000000
+      internalID: 5880888974553730909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrontShiny-audino-spriteSheet_32
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 150
+        width: 63
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 972ab403b52824b30800000000000000
+      internalID: 4270118724864549497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrontShiny-audino-spriteSheet_33
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 150
+        width: 63
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6731871f0ba7decb0800000000000000
+      internalID: -4833071924714663050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrontShiny-audino-spriteSheet_34
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 150
+        width: 63
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66e3ab1e1ed320ad0800000000000000
+      internalID: -2737557583123825050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrontShiny-audino-spriteSheet_35
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 150
+        width: 63
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fb0520141b058f40800000000000000
+      internalID: 5729998281696938992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrontShiny-audino-spriteSheet_36
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 150
+        width: 63
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1dfcd2a2dc1c9bf80800000000000000
+      internalID: -8090222168674283567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrontShiny-audino-spriteSheet_37
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 150
+        width: 63
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7107825c792c7e530800000000000000
+      internalID: 3884287160733954071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrontShiny-audino-spriteSheet_38
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 150
+        width: 63
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cf70b4b333224e10800000000000000
+      internalID: 2180343874582511555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrontShiny-audino-spriteSheet_39
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 150
+        width: 63
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0b00dcbc09059cd0800000000000000
+      internalID: -2552123663523509489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrontShiny-audino-spriteSheet_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 75
+        width: 63
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c254f7ee4505c9c20800000000000000
+      internalID: 3214532559744484652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrontShiny-audino-spriteSheet_41
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 75
+        width: 63
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0c9a51738500a370800000000000000
+      internalID: 8331665372736035855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrontShiny-audino-spriteSheet_42
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 75
+        width: 63
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c974fec031bfcd10800000000000000
+      internalID: 2148130370467690953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrontShiny-audino-spriteSheet_43
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 75
+        width: 63
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fedfcc841aaccac00800000000000000
+      internalID: 913327618509307375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrontShiny-audino-spriteSheet_44
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 75
+        width: 63
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cde23b73ac193a7c0800000000000000
+      internalID: -4061242141254144292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrontShiny-audino-spriteSheet_45
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 75
+        width: 63
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6588ba345ed8bca00800000000000000
+      internalID: 777871376473884758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrontShiny-audino-spriteSheet_46
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 75
+        width: 63
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5295fb3a27032900800000000000000
+      internalID: 658377848502194782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrontShiny-audino-spriteSheet_47
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 75
+        width: 63
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11b32aa8982ea79f0800000000000000
+      internalID: -469814130742510831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrontShiny-audino-spriteSheet_48
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 75
+        width: 63
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: deac2264f479d1dd0800000000000000
+      internalID: -2513686650267972883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrontShiny-audino-spriteSheet_49
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 75
+        width: 63
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0e2072d94c531c30800000000000000
+      internalID: 4328905138966113804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrontShiny-audino-spriteSheet_50
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 63
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d726cada45681e8d0800000000000000
+      internalID: -2818824193508089219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrontShiny-audino-spriteSheet_51
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 0
+        width: 63
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20e1addf6ea80a890800000000000000
+      internalID: -7448801058964759038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrontShiny-audino-spriteSheet_52
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 0
+        width: 63
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1aa97d0efd3d11e0800000000000000
+      internalID: -2225554479494092257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrontShiny-audino-spriteSheet_53
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 0
+        width: 63
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9efbe03d7d55f5810800000000000000
+      internalID: 1756216765145071593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrontShiny-audino-spriteSheet_54
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 0
+        width: 63
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7dddc60f328beddc0800000000000000
+      internalID: -3612247386607526441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrontShiny-audino-spriteSheet_55
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 0
+        width: 63
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e702e682d3a67000800000000000000
+      internalID: 33394171853277157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrontShiny-audino-spriteSheet_56
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 0
+        width: 63
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f16bd2267cac4b800800000000000000
+      internalID: 627349205805807135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrontShiny-audino-spriteSheet_57
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 0
+        width: 63
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c939ea4408acd520800000000000000
+      internalID: 2728240210669812161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrontShiny-audino-spriteSheet_58
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 0
+        width: 63
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 624ae8af76f14afc0800000000000000
+      internalID: -3484625680232176602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: efe5c16e2bad13948bc6d155abafd929
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

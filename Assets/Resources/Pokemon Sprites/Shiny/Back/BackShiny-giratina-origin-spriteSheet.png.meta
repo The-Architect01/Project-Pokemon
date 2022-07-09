@@ -1,0 +1,1788 @@
+fileFormatVersion: 2
+guid: de5f8bf339f0dbc4b809cb3d34205535
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6675048571396807778
+    second: giratina-origin (3).gif-spriteSheet_0
+  - first:
+      213: -724427490343338390
+    second: giratina-origin (3).gif-spriteSheet_1
+  - first:
+      213: -9096222327460757899
+    second: giratina-origin (3).gif-spriteSheet_2
+  - first:
+      213: 1515154753487210937
+    second: giratina-origin (3).gif-spriteSheet_3
+  - first:
+      213: 7686622316931403889
+    second: giratina-origin (3).gif-spriteSheet_4
+  - first:
+      213: 6776273296515061409
+    second: giratina-origin (3).gif-spriteSheet_5
+  - first:
+      213: 6896234550382102785
+    second: giratina-origin (3).gif-spriteSheet_6
+  - first:
+      213: -4356654272395738614
+    second: giratina-origin (3).gif-spriteSheet_7
+  - first:
+      213: 2241720922810283983
+    second: giratina-origin (3).gif-spriteSheet_8
+  - first:
+      213: 3173590085157501547
+    second: giratina-origin (3).gif-spriteSheet_9
+  - first:
+      213: 2449600760366882322
+    second: giratina-origin (3).gif-spriteSheet_10
+  - first:
+      213: 2288433136356920313
+    second: giratina-origin (3).gif-spriteSheet_11
+  - first:
+      213: 7609839961794213893
+    second: giratina-origin (3).gif-spriteSheet_12
+  - first:
+      213: -2484965006969328003
+    second: giratina-origin (3).gif-spriteSheet_13
+  - first:
+      213: 6320397856966476392
+    second: giratina-origin (3).gif-spriteSheet_14
+  - first:
+      213: 3546973720561832546
+    second: giratina-origin (3).gif-spriteSheet_15
+  - first:
+      213: -6439338279347521579
+    second: giratina-origin (3).gif-spriteSheet_16
+  - first:
+      213: 4486115811857543407
+    second: giratina-origin (3).gif-spriteSheet_17
+  - first:
+      213: 4041107071470923042
+    second: giratina-origin (3).gif-spriteSheet_18
+  - first:
+      213: -3370941992574484342
+    second: giratina-origin (3).gif-spriteSheet_19
+  - first:
+      213: -3549347462792439752
+    second: giratina-origin (3).gif-spriteSheet_20
+  - first:
+      213: -7076469774262685576
+    second: giratina-origin (3).gif-spriteSheet_21
+  - first:
+      213: 2571531769981080346
+    second: giratina-origin (3).gif-spriteSheet_22
+  - first:
+      213: -2744835682523126601
+    second: giratina-origin (3).gif-spriteSheet_23
+  - first:
+      213: 3396317158135130591
+    second: giratina-origin (3).gif-spriteSheet_24
+  - first:
+      213: -28515923816369653
+    second: giratina-origin (3).gif-spriteSheet_25
+  - first:
+      213: -1416824198655060304
+    second: giratina-origin (3).gif-spriteSheet_26
+  - first:
+      213: -8192178444587396557
+    second: giratina-origin (3).gif-spriteSheet_27
+  - first:
+      213: 6511345384936819883
+    second: giratina-origin (3).gif-spriteSheet_28
+  - first:
+      213: -4867889202635847357
+    second: giratina-origin (3).gif-spriteSheet_29
+  - first:
+      213: 1766664382423354951
+    second: giratina-origin (3).gif-spriteSheet_30
+  - first:
+      213: -845449388809451813
+    second: giratina-origin (3).gif-spriteSheet_31
+  - first:
+      213: -5755717342621862980
+    second: giratina-origin (3).gif-spriteSheet_32
+  - first:
+      213: -7958095860752710149
+    second: giratina-origin (3).gif-spriteSheet_33
+  - first:
+      213: 7157333044226042860
+    second: giratina-origin (3).gif-spriteSheet_34
+  - first:
+      213: -2840944509259426166
+    second: giratina-origin (3).gif-spriteSheet_35
+  - first:
+      213: -5970802668016423485
+    second: giratina-origin (3).gif-spriteSheet_36
+  - first:
+      213: 4750844303167084302
+    second: giratina-origin (3).gif-spriteSheet_37
+  - first:
+      213: -3972160977678287825
+    second: giratina-origin (3).gif-spriteSheet_38
+  - first:
+      213: -3844231339096716578
+    second: giratina-origin (3).gif-spriteSheet_39
+  - first:
+      213: -8837483585071705998
+    second: giratina-origin (3).gif-spriteSheet_40
+  - first:
+      213: -7580103825502928811
+    second: giratina-origin (3).gif-spriteSheet_41
+  - first:
+      213: -8728325019921729581
+    second: giratina-origin (3).gif-spriteSheet_42
+  - first:
+      213: -1220397477117378543
+    second: giratina-origin (3).gif-spriteSheet_43
+  - first:
+      213: -6505273881948856937
+    second: giratina-origin (3).gif-spriteSheet_44
+  - first:
+      213: -7956739668106065628
+    second: giratina-origin (3).gif-spriteSheet_45
+  - first:
+      213: 1132745237032375856
+    second: giratina-origin (3).gif-spriteSheet_46
+  - first:
+      213: 3037285816429745792
+    second: giratina-origin (3).gif-spriteSheet_47
+  - first:
+      213: 218692448574028850
+    second: giratina-origin (3).gif-spriteSheet_48
+  - first:
+      213: -3789013621506482889
+    second: giratina-origin (3).gif-spriteSheet_49
+  - first:
+      213: -1237039785600370942
+    second: giratina-origin (3).gif-spriteSheet_50
+  - first:
+      213: 83807836622297118
+    second: giratina-origin (3).gif-spriteSheet_51
+  - first:
+      213: -723138556371192347
+    second: giratina-origin (3).gif-spriteSheet_52
+  - first:
+      213: 6269594418371704209
+    second: giratina-origin (3).gif-spriteSheet_53
+  - first:
+      213: -2001903459117578470
+    second: giratina-origin (3).gif-spriteSheet_54
+  - first:
+      213: -6329644360781954840
+    second: giratina-origin (3).gif-spriteSheet_55
+  - first:
+      213: -8111665276709901170
+    second: giratina-origin (3).gif-spriteSheet_56
+  - first:
+      213: 6772660647938677907
+    second: giratina-origin (3).gif-spriteSheet_57
+  - first:
+      213: 6607428625753321975
+    second: giratina-origin (3).gif-spriteSheet_58
+  - first:
+      213: -7500346460354589594
+    second: giratina-origin (3).gif-spriteSheet_59
+  - first:
+      213: 5177482190930153073
+    second: giratina-origin (3).gif-spriteSheet_60
+  - first:
+      213: 7299524115870461829
+    second: giratina-origin (3).gif-spriteSheet_61
+  - first:
+      213: -6048496201859670906
+    second: giratina-origin (3).gif-spriteSheet_62
+  - first:
+      213: 8439103005669043993
+    second: giratina-origin (3).gif-spriteSheet_63
+  - first:
+      213: -7163077320298386652
+    second: giratina-origin (3).gif-spriteSheet_64
+  - first:
+      213: -620285426758262225
+    second: giratina-origin (3).gif-spriteSheet_65
+  - first:
+      213: -3822100737077907379
+    second: giratina-origin (3).gif-spriteSheet_66
+  - first:
+      213: 7257304773544288067
+    second: giratina-origin (3).gif-spriteSheet_67
+  - first:
+      213: 2655666395601694076
+    second: giratina-origin (3).gif-spriteSheet_68
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: giratina-origin (3).gif-spriteSheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1146
+        width: 174
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26cd59c4f4982ac50800000000000000
+      internalID: 6675048571396807778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: giratina-origin (3).gif-spriteSheet_1
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 1146
+        width: 174
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6ebe84290152f5f0800000000000000
+      internalID: -724427490343338390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: giratina-origin (3).gif-spriteSheet_2
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 1146
+        width: 174
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57e79bdacf9b3c180800000000000000
+      internalID: -9096222327460757899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: giratina-origin (3).gif-spriteSheet_3
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 1146
+        width: 174
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b9895d7839e60510800000000000000
+      internalID: 1515154753487210937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: giratina-origin (3).gif-spriteSheet_4
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 1146
+        width: 174
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1705943954e5caa60800000000000000
+      internalID: 7686622316931403889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: giratina-origin (3).gif-spriteSheet_5
+      rect:
+        serializedVersion: 2
+        x: 870
+        y: 1146
+        width: 174
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a6deb339a82a0e50800000000000000
+      internalID: 6776273296515061409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: giratina-origin (3).gif-spriteSheet_6
+      rect:
+        serializedVersion: 2
+        x: 1044
+        y: 1146
+        width: 174
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1090d4729c854bf50800000000000000
+      internalID: 6896234550382102785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: giratina-origin (3).gif-spriteSheet_7
+      rect:
+        serializedVersion: 2
+        x: 1218
+        y: 1146
+        width: 174
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a020aa4950e0a83c0800000000000000
+      internalID: -4356654272395738614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: giratina-origin (3).gif-spriteSheet_8
+      rect:
+        serializedVersion: 2
+        x: 1392
+        y: 1146
+        width: 174
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc7faa95d413c1f10800000000000000
+      internalID: 2241720922810283983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: giratina-origin (3).gif-spriteSheet_9
+      rect:
+        serializedVersion: 2
+        x: 1566
+        y: 1146
+        width: 174
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6ab3883e5bda0c20800000000000000
+      internalID: 3173590085157501547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: giratina-origin (3).gif-spriteSheet_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 955
+        width: 174
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21ed13bb9eabef120800000000000000
+      internalID: 2449600760366882322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: giratina-origin (3).gif-spriteSheet_11
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 955
+        width: 174
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fb89c810d522cf10800000000000000
+      internalID: 2288433136356920313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: giratina-origin (3).gif-spriteSheet_12
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 955
+        width: 174
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 508f05860259b9960800000000000000
+      internalID: 7609839961794213893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: giratina-origin (3).gif-spriteSheet_13
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 955
+        width: 174
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7e2158fd71a38dd0800000000000000
+      internalID: -2484965006969328003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: giratina-origin (3).gif-spriteSheet_14
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 955
+        width: 174
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86280af2d5096b750800000000000000
+      internalID: 6320397856966476392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: giratina-origin (3).gif-spriteSheet_15
+      rect:
+        serializedVersion: 2
+        x: 870
+        y: 955
+        width: 174
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 262dbb16ec1693130800000000000000
+      internalID: 3546973720561832546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: giratina-origin (3).gif-spriteSheet_16
+      rect:
+        serializedVersion: 2
+        x: 1044
+        y: 955
+        width: 174
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d77ae6b3ffd2a6a0800000000000000
+      internalID: -6439338279347521579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: giratina-origin (3).gif-spriteSheet_17
+      rect:
+        serializedVersion: 2
+        x: 1218
+        y: 955
+        width: 174
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe0380bff82e14e30800000000000000
+      internalID: 4486115811857543407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: giratina-origin (3).gif-spriteSheet_18
+      rect:
+        serializedVersion: 2
+        x: 1392
+        y: 955
+        width: 174
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22de7568875e41830800000000000000
+      internalID: 4041107071470923042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: giratina-origin (3).gif-spriteSheet_19
+      rect:
+        serializedVersion: 2
+        x: 1566
+        y: 955
+        width: 174
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8086262e120831d0800000000000000
+      internalID: -3370941992574484342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: giratina-origin (3).gif-spriteSheet_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 764
+        width: 174
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83892dfa94f2ebec0800000000000000
+      internalID: -3549347462792439752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: giratina-origin (3).gif-spriteSheet_21
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 764
+        width: 174
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 870b849ab345bcd90800000000000000
+      internalID: -7076469774262685576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: giratina-origin (3).gif-spriteSheet_22
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 764
+        width: 174
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a139a5e258aefa320800000000000000
+      internalID: 2571531769981080346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: giratina-origin (3).gif-spriteSheet_23
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 764
+        width: 174
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b464605d7268e9d0800000000000000
+      internalID: -2744835682523126601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: giratina-origin (3).gif-spriteSheet_24
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 764
+        width: 174
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd9653bf574222f20800000000000000
+      internalID: 3396317158135130591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: giratina-origin (3).gif-spriteSheet_25
+      rect:
+        serializedVersion: 2
+        x: 870
+        y: 764
+        width: 174
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b02bb7a1be0ba9ff0800000000000000
+      internalID: -28515923816369653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: giratina-origin (3).gif-spriteSheet_26
+      rect:
+        serializedVersion: 2
+        x: 1044
+        y: 764
+        width: 174
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b6dcf1e5ed665ce0800000000000000
+      internalID: -1416824198655060304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: giratina-origin (3).gif-spriteSheet_27
+      rect:
+        serializedVersion: 2
+        x: 1218
+        y: 764
+        width: 174
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33291c1db198f4e80800000000000000
+      internalID: -8192178444587396557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: giratina-origin (3).gif-spriteSheet_28
+      rect:
+        serializedVersion: 2
+        x: 1392
+        y: 764
+        width: 174
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bacc9070122fc5a50800000000000000
+      internalID: 6511345384936819883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: giratina-origin (3).gif-spriteSheet_29
+      rect:
+        serializedVersion: 2
+        x: 1566
+        y: 764
+        width: 174
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3494ee6bf88c17cb0800000000000000
+      internalID: -4867889202635847357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: giratina-origin (3).gif-spriteSheet_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 573
+        width: 174
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74ecda745e3748810800000000000000
+      internalID: 1766664382423354951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: giratina-origin (3).gif-spriteSheet_31
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 573
+        width: 174
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd60170a24c5444f0800000000000000
+      internalID: -845449388809451813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: giratina-origin (3).gif-spriteSheet_32
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 573
+        width: 174
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb3f77d62959f10b0800000000000000
+      internalID: -5755717342621862980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: giratina-origin (3).gif-spriteSheet_33
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 573
+        width: 174
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf5045b7af92f8190800000000000000
+      internalID: -7958095860752710149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: giratina-origin (3).gif-spriteSheet_34
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 573
+        width: 174
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ceb22488b74f35360800000000000000
+      internalID: 7157333044226042860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: giratina-origin (3).gif-spriteSheet_35
+      rect:
+        serializedVersion: 2
+        x: 870
+        y: 573
+        width: 174
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a86def25500f298d0800000000000000
+      internalID: -2840944509259426166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: giratina-origin (3).gif-spriteSheet_36
+      rect:
+        serializedVersion: 2
+        x: 1044
+        y: 573
+        width: 174
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cd2decab92732da0800000000000000
+      internalID: -5970802668016423485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: giratina-origin (3).gif-spriteSheet_37
+      rect:
+        serializedVersion: 2
+        x: 1218
+        y: 573
+        width: 174
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e07567109b36ee140800000000000000
+      internalID: 4750844303167084302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: giratina-origin (3).gif-spriteSheet_38
+      rect:
+        serializedVersion: 2
+        x: 1392
+        y: 573
+        width: 174
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2c31ded2ac00e8c0800000000000000
+      internalID: -3972160977678287825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: giratina-origin (3).gif-spriteSheet_39
+      rect:
+        serializedVersion: 2
+        x: 1566
+        y: 573
+        width: 174
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eda47b6f6fb86aac0800000000000000
+      internalID: -3844231339096716578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: giratina-origin (3).gif-spriteSheet_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 382
+        width: 174
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 270947b9083fa5580800000000000000
+      internalID: -8837483585071705998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: giratina-origin (3).gif-spriteSheet_41
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 382
+        width: 174
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55081585bbf0ec690800000000000000
+      internalID: -7580103825502928811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: giratina-origin (3).gif-spriteSheet_42
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 382
+        width: 174
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d7396793a2ced680800000000000000
+      internalID: -8728325019921729581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: giratina-origin (3).gif-spriteSheet_43
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 382
+        width: 174
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 110c2a3e5f6401fe0800000000000000
+      internalID: -1220397477117378543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: giratina-origin (3).gif-spriteSheet_44
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 382
+        width: 174
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79ddfcbeedf98b5a0800000000000000
+      internalID: -6505273881948856937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: giratina-origin (3).gif-spriteSheet_45
+      rect:
+        serializedVersion: 2
+        x: 870
+        y: 382
+        width: 174
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4294740bd6bf39190800000000000000
+      internalID: -7956739668106065628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: giratina-origin (3).gif-spriteSheet_46
+      rect:
+        serializedVersion: 2
+        x: 1044
+        y: 382
+        width: 174
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0369452aac158bf00800000000000000
+      internalID: 1132745237032375856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: giratina-origin (3).gif-spriteSheet_47
+      rect:
+        serializedVersion: 2
+        x: 1218
+        y: 382
+        width: 174
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08690a99b5b962a20800000000000000
+      internalID: 3037285816429745792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: giratina-origin (3).gif-spriteSheet_48
+      rect:
+        serializedVersion: 2
+        x: 1392
+        y: 382
+        width: 174
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23cb0509f93f80300800000000000000
+      internalID: 218692448574028850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: giratina-origin (3).gif-spriteSheet_49
+      rect:
+        serializedVersion: 2
+        x: 1566
+        y: 382
+        width: 174
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73d5df0bf28ba6bc0800000000000000
+      internalID: -3789013621506482889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: giratina-origin (3).gif-spriteSheet_50
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 191
+        width: 174
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 207b34e7ed625dee0800000000000000
+      internalID: -1237039785600370942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: giratina-origin (3).gif-spriteSheet_51
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 191
+        width: 174
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e18144b88ceb92100800000000000000
+      internalID: 83807836622297118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: giratina-origin (3).gif-spriteSheet_52
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 191
+        width: 174
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e53b187055e6f5f0800000000000000
+      internalID: -723138556371192347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: giratina-origin (3).gif-spriteSheet_53
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 191
+        width: 174
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19531d0e7e2120750800000000000000
+      internalID: 6269594418371704209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: giratina-origin (3).gif-spriteSheet_54
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 191
+        width: 174
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a17cba4196fc734e0800000000000000
+      internalID: -2001903459117578470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: giratina-origin (3).gif-spriteSheet_55
+      rect:
+        serializedVersion: 2
+        x: 870
+        y: 191
+        width: 174
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e089016df59828a0800000000000000
+      internalID: -6329644360781954840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: giratina-origin (3).gif-spriteSheet_56
+      rect:
+        serializedVersion: 2
+        x: 1044
+        y: 191
+        width: 174
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8ce5d488639d6f80800000000000000
+      internalID: -8111665276709901170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: giratina-origin (3).gif-spriteSheet_57
+      rect:
+        serializedVersion: 2
+        x: 1218
+        y: 191
+        width: 174
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39cd6a8e9f25dfd50800000000000000
+      internalID: 6772660647938677907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: giratina-origin (3).gif-spriteSheet_58
+      rect:
+        serializedVersion: 2
+        x: 1392
+        y: 191
+        width: 174
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f136c4d35d42bb50800000000000000
+      internalID: 6607428625753321975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: giratina-origin (3).gif-spriteSheet_59
+      rect:
+        serializedVersion: 2
+        x: 1566
+        y: 191
+        width: 174
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66cc43202aa69e790800000000000000
+      internalID: -7500346460354589594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: giratina-origin (3).gif-spriteSheet_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 174
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17e8d450f9c1ad740800000000000000
+      internalID: 5177482190930153073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: giratina-origin (3).gif-spriteSheet_61
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 0
+        width: 174
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58f2bd3428e1d4560800000000000000
+      internalID: 7299524115870461829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: giratina-origin (3).gif-spriteSheet_62
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 0
+        width: 174
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68cdade20cc6f0ca0800000000000000
+      internalID: -6048496201859670906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: giratina-origin (3).gif-spriteSheet_63
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 0
+        width: 174
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91fa5dba877bd1570800000000000000
+      internalID: 8439103005669043993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: giratina-origin (3).gif-spriteSheet_64
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 0
+        width: 174
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42b25f8f023a79c90800000000000000
+      internalID: -7163077320298386652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: giratina-origin (3).gif-spriteSheet_65
+      rect:
+        serializedVersion: 2
+        x: 870
+        y: 0
+        width: 174
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f22e8b6d0bd4467f0800000000000000
+      internalID: -620285426758262225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: giratina-origin (3).gif-spriteSheet_66
+      rect:
+        serializedVersion: 2
+        x: 1044
+        y: 0
+        width: 174
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4076b641ab25fac0800000000000000
+      internalID: -3822100737077907379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: giratina-origin (3).gif-spriteSheet_67
+      rect:
+        serializedVersion: 2
+        x: 1218
+        y: 0
+        width: 174
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34f9add9d3027b460800000000000000
+      internalID: 7257304773544288067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: giratina-origin (3).gif-spriteSheet_68
+      rect:
+        serializedVersion: 2
+        x: 1392
+        y: 0
+        width: 174
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7de7c73482dad420800000000000000
+      internalID: 2655666395601694076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

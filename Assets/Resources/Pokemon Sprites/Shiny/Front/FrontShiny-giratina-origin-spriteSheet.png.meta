@@ -1,0 +1,1788 @@
+fileFormatVersion: 2
+guid: 9199b9b19c39dc7438bf668e57f77e10
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -118181111174695793
+    second: FrontShiny-giratina-origin-spriteSheet_0
+  - first:
+      213: -3558229098553294901
+    second: FrontShiny-giratina-origin-spriteSheet_1
+  - first:
+      213: -4904597129421851007
+    second: FrontShiny-giratina-origin-spriteSheet_2
+  - first:
+      213: 1425804352808472320
+    second: FrontShiny-giratina-origin-spriteSheet_3
+  - first:
+      213: 5173071456697600387
+    second: FrontShiny-giratina-origin-spriteSheet_4
+  - first:
+      213: 5799169454344298985
+    second: FrontShiny-giratina-origin-spriteSheet_5
+  - first:
+      213: -4383949783922011679
+    second: FrontShiny-giratina-origin-spriteSheet_6
+  - first:
+      213: -555842522481252196
+    second: FrontShiny-giratina-origin-spriteSheet_7
+  - first:
+      213: -1610234045471551381
+    second: FrontShiny-giratina-origin-spriteSheet_8
+  - first:
+      213: 8437358133000215176
+    second: FrontShiny-giratina-origin-spriteSheet_9
+  - first:
+      213: -5721237052080317345
+    second: FrontShiny-giratina-origin-spriteSheet_10
+  - first:
+      213: 5824992746869993364
+    second: FrontShiny-giratina-origin-spriteSheet_11
+  - first:
+      213: 6828442749582474972
+    second: FrontShiny-giratina-origin-spriteSheet_12
+  - first:
+      213: -7381408931578843058
+    second: FrontShiny-giratina-origin-spriteSheet_13
+  - first:
+      213: -381608918175067675
+    second: FrontShiny-giratina-origin-spriteSheet_14
+  - first:
+      213: 1372546885556526556
+    second: FrontShiny-giratina-origin-spriteSheet_15
+  - first:
+      213: -1316844073733130332
+    second: FrontShiny-giratina-origin-spriteSheet_16
+  - first:
+      213: -3551830028554538233
+    second: FrontShiny-giratina-origin-spriteSheet_17
+  - first:
+      213: 837196304678879887
+    second: FrontShiny-giratina-origin-spriteSheet_18
+  - first:
+      213: -2329659406330381405
+    second: FrontShiny-giratina-origin-spriteSheet_19
+  - first:
+      213: -7336590191219673408
+    second: FrontShiny-giratina-origin-spriteSheet_20
+  - first:
+      213: 2608259320616697591
+    second: FrontShiny-giratina-origin-spriteSheet_21
+  - first:
+      213: -4070802053265645251
+    second: FrontShiny-giratina-origin-spriteSheet_22
+  - first:
+      213: -5161967678876998485
+    second: FrontShiny-giratina-origin-spriteSheet_23
+  - first:
+      213: 4619826474891144969
+    second: FrontShiny-giratina-origin-spriteSheet_24
+  - first:
+      213: 6432487490260683180
+    second: FrontShiny-giratina-origin-spriteSheet_25
+  - first:
+      213: -8880924651564832039
+    second: FrontShiny-giratina-origin-spriteSheet_26
+  - first:
+      213: 5320001298357907424
+    second: FrontShiny-giratina-origin-spriteSheet_27
+  - first:
+      213: -4867156716157226872
+    second: FrontShiny-giratina-origin-spriteSheet_28
+  - first:
+      213: -9110068748327157242
+    second: FrontShiny-giratina-origin-spriteSheet_29
+  - first:
+      213: -4569453276024100435
+    second: FrontShiny-giratina-origin-spriteSheet_30
+  - first:
+      213: 7443710930974109844
+    second: FrontShiny-giratina-origin-spriteSheet_31
+  - first:
+      213: -8594004271814104326
+    second: FrontShiny-giratina-origin-spriteSheet_32
+  - first:
+      213: -6048237772326144044
+    second: FrontShiny-giratina-origin-spriteSheet_33
+  - first:
+      213: 9036273894864902888
+    second: FrontShiny-giratina-origin-spriteSheet_34
+  - first:
+      213: 8418532368133395234
+    second: FrontShiny-giratina-origin-spriteSheet_35
+  - first:
+      213: -6218698667625379314
+    second: FrontShiny-giratina-origin-spriteSheet_36
+  - first:
+      213: 9036225245133146718
+    second: FrontShiny-giratina-origin-spriteSheet_37
+  - first:
+      213: -3964333871033990694
+    second: FrontShiny-giratina-origin-spriteSheet_38
+  - first:
+      213: 7076483634515849186
+    second: FrontShiny-giratina-origin-spriteSheet_39
+  - first:
+      213: 5279439557288666791
+    second: FrontShiny-giratina-origin-spriteSheet_40
+  - first:
+      213: -4587808360030045812
+    second: FrontShiny-giratina-origin-spriteSheet_41
+  - first:
+      213: -1556497791063800259
+    second: FrontShiny-giratina-origin-spriteSheet_42
+  - first:
+      213: -4829162884272180634
+    second: FrontShiny-giratina-origin-spriteSheet_43
+  - first:
+      213: -7200189266344296267
+    second: FrontShiny-giratina-origin-spriteSheet_44
+  - first:
+      213: 8854837162538819293
+    second: FrontShiny-giratina-origin-spriteSheet_45
+  - first:
+      213: -738666154789232593
+    second: FrontShiny-giratina-origin-spriteSheet_46
+  - first:
+      213: 3547975726337393192
+    second: FrontShiny-giratina-origin-spriteSheet_47
+  - first:
+      213: 2342718734255068510
+    second: FrontShiny-giratina-origin-spriteSheet_48
+  - first:
+      213: -7422028167300790168
+    second: FrontShiny-giratina-origin-spriteSheet_49
+  - first:
+      213: 5069742359022033174
+    second: FrontShiny-giratina-origin-spriteSheet_50
+  - first:
+      213: 1198564897180272363
+    second: FrontShiny-giratina-origin-spriteSheet_51
+  - first:
+      213: 2304967978204868139
+    second: FrontShiny-giratina-origin-spriteSheet_52
+  - first:
+      213: 1204264212814114272
+    second: FrontShiny-giratina-origin-spriteSheet_53
+  - first:
+      213: -3293195400323343729
+    second: FrontShiny-giratina-origin-spriteSheet_54
+  - first:
+      213: -965036381471503836
+    second: FrontShiny-giratina-origin-spriteSheet_55
+  - first:
+      213: 7165786367325518786
+    second: FrontShiny-giratina-origin-spriteSheet_56
+  - first:
+      213: -8327850687716203643
+    second: FrontShiny-giratina-origin-spriteSheet_57
+  - first:
+      213: 7972559035361985681
+    second: FrontShiny-giratina-origin-spriteSheet_58
+  - first:
+      213: 2956850967396688568
+    second: FrontShiny-giratina-origin-spriteSheet_59
+  - first:
+      213: -5786426809554480108
+    second: FrontShiny-giratina-origin-spriteSheet_60
+  - first:
+      213: -3593246027561190116
+    second: FrontShiny-giratina-origin-spriteSheet_61
+  - first:
+      213: 1681100602791854625
+    second: FrontShiny-giratina-origin-spriteSheet_62
+  - first:
+      213: -7827919737381445161
+    second: FrontShiny-giratina-origin-spriteSheet_63
+  - first:
+      213: 5092006160461557557
+    second: FrontShiny-giratina-origin-spriteSheet_64
+  - first:
+      213: -1586900658112889660
+    second: FrontShiny-giratina-origin-spriteSheet_65
+  - first:
+      213: 6896255514980024452
+    second: FrontShiny-giratina-origin-spriteSheet_66
+  - first:
+      213: -1267633625608547905
+    second: FrontShiny-giratina-origin-spriteSheet_67
+  - first:
+      213: 2149195744605686736
+    second: FrontShiny-giratina-origin-spriteSheet_68
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: FrontShiny-giratina-origin-spriteSheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 924
+        width: 156
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f847541d7e22c5ef0800000000000000
+      internalID: -118181111174695793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrontShiny-giratina-origin-spriteSheet_1
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 924
+        width: 156
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcfb547bc71ae9ec0800000000000000
+      internalID: -3558229098553294901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrontShiny-giratina-origin-spriteSheet_2
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 924
+        width: 156
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 186f86e75ee5febb0800000000000000
+      internalID: -4904597129421851007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrontShiny-giratina-origin-spriteSheet_3
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 924
+        width: 156
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00fca50318979c310800000000000000
+      internalID: 1425804352808472320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrontShiny-giratina-origin-spriteSheet_4
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 924
+        width: 156
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3894c2ee4117ac740800000000000000
+      internalID: 5173071456697600387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrontShiny-giratina-origin-spriteSheet_5
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 924
+        width: 156
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e1ec76b4e9ca7050800000000000000
+      internalID: 5799169454344298985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrontShiny-giratina-origin-spriteSheet_6
+      rect:
+        serializedVersion: 2
+        x: 936
+        y: 924
+        width: 156
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e19d2016e41923c0800000000000000
+      internalID: -4383949783922011679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrontShiny-giratina-origin-spriteSheet_7
+      rect:
+        serializedVersion: 2
+        x: 1092
+        y: 924
+        width: 156
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c98a278bb204948f0800000000000000
+      internalID: -555842522481252196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrontShiny-giratina-origin-spriteSheet_8
+      rect:
+        serializedVersion: 2
+        x: 1248
+        y: 924
+        width: 156
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b609d62caac47a9e0800000000000000
+      internalID: -1610234045471551381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrontShiny-giratina-origin-spriteSheet_9
+      rect:
+        serializedVersion: 2
+        x: 1404
+        y: 924
+        width: 156
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88a1b38d484871570800000000000000
+      internalID: 8437358133000215176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrontShiny-giratina-origin-spriteSheet_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 770
+        width: 156
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5c13faa6351a90b0800000000000000
+      internalID: -5721237052080317345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrontShiny-giratina-origin-spriteSheet_11
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 770
+        width: 156
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49fa9688a0886d050800000000000000
+      internalID: 5824992746869993364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrontShiny-giratina-origin-spriteSheet_12
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 770
+        width: 156
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cde74f9808083ce50800000000000000
+      internalID: 6828442749582474972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrontShiny-giratina-origin-spriteSheet_13
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 770
+        width: 156
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e40f8536fa7ff8990800000000000000
+      internalID: -7381408931578843058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrontShiny-giratina-origin-spriteSheet_14
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 770
+        width: 156
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e1dd05f5b044baf0800000000000000
+      internalID: -381608918175067675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrontShiny-giratina-origin-spriteSheet_15
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 770
+        width: 156
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdd5a2fce144c0310800000000000000
+      internalID: 1372546885556526556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrontShiny-giratina-origin-spriteSheet_16
+      rect:
+        serializedVersion: 2
+        x: 936
+        y: 770
+        width: 156
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a7fe88ba41a9bde0800000000000000
+      internalID: -1316844073733130332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrontShiny-giratina-origin-spriteSheet_17
+      rect:
+        serializedVersion: 2
+        x: 1092
+        y: 770
+        width: 156
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 703f07d486d55bec0800000000000000
+      internalID: -3551830028554538233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrontShiny-giratina-origin-spriteSheet_18
+      rect:
+        serializedVersion: 2
+        x: 1248
+        y: 770
+        width: 156
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8287ab7a915e9b00800000000000000
+      internalID: 837196304678879887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrontShiny-giratina-origin-spriteSheet_19
+      rect:
+        serializedVersion: 2
+        x: 1404
+        y: 770
+        width: 156
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3abb70eec136bafd0800000000000000
+      internalID: -2329659406330381405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrontShiny-giratina-origin-spriteSheet_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 616
+        width: 156
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c67cbd87123f2a90800000000000000
+      internalID: -7336590191219673408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrontShiny-giratina-origin-spriteSheet_21
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 616
+        width: 156
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7feb57f6806623420800000000000000
+      internalID: 2608259320616697591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrontShiny-giratina-origin-spriteSheet_22
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 616
+        width: 156
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d31ab20c91b9187c0800000000000000
+      internalID: -4070802053265645251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrontShiny-giratina-origin-spriteSheet_23
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 616
+        width: 156
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba42d7eceb10d58b0800000000000000
+      internalID: -5161967678876998485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrontShiny-giratina-origin-spriteSheet_24
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 616
+        width: 156
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90fe4d7b3bbec1040800000000000000
+      internalID: 4619826474891144969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrontShiny-giratina-origin-spriteSheet_25
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 616
+        width: 156
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca9c127aa49c44950800000000000000
+      internalID: 6432487490260683180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrontShiny-giratina-origin-spriteSheet_26
+      rect:
+        serializedVersion: 2
+        x: 936
+        y: 616
+        width: 156
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9dae772251e90c480800000000000000
+      internalID: -8880924651564832039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrontShiny-giratina-origin-spriteSheet_27
+      rect:
+        serializedVersion: 2
+        x: 1092
+        y: 616
+        width: 156
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ef6d398ef074d940800000000000000
+      internalID: 5320001298357907424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrontShiny-giratina-origin-spriteSheet_28
+      rect:
+        serializedVersion: 2
+        x: 1248
+        y: 616
+        width: 156
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 880ba4301c2647cb0800000000000000
+      internalID: -4867156716157226872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrontShiny-giratina-origin-spriteSheet_29
+      rect:
+        serializedVersion: 2
+        x: 1404
+        y: 616
+        width: 156
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60282989db8829180800000000000000
+      internalID: -9110068748327157242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrontShiny-giratina-origin-spriteSheet_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 462
+        width: 156
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da9a6d8947a0690c0800000000000000
+      internalID: -4569453276024100435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrontShiny-giratina-origin-spriteSheet_31
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 462
+        width: 156
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 490776b37af5d4760800000000000000
+      internalID: 7443710930974109844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrontShiny-giratina-origin-spriteSheet_32
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 462
+        width: 156
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afaa454d5a6fbb880800000000000000
+      internalID: -8594004271814104326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrontShiny-giratina-origin-spriteSheet_33
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 462
+        width: 156
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d7766f7ac7501ca0800000000000000
+      internalID: -6048237772326144044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrontShiny-giratina-origin-spriteSheet_34
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 462
+        width: 156
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8eade8c2b3b476d70800000000000000
+      internalID: 9036273894864902888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrontShiny-giratina-origin-spriteSheet_35
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 462
+        width: 156
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22318b4e592a4d470800000000000000
+      internalID: 8418532368133395234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrontShiny-giratina-origin-spriteSheet_36
+      rect:
+        serializedVersion: 2
+        x: 936
+        y: 462
+        width: 156
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0a8ef6828eb2b9a0800000000000000
+      internalID: -6218698667625379314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrontShiny-giratina-origin-spriteSheet_37
+      rect:
+        serializedVersion: 2
+        x: 1092
+        y: 462
+        width: 156
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5a04960cfe176d70800000000000000
+      internalID: 9036225245133146718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrontShiny-giratina-origin-spriteSheet_38
+      rect:
+        serializedVersion: 2
+        x: 1248
+        y: 462
+        width: 156
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad148f5295bdbf8c0800000000000000
+      internalID: -3964333871033990694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrontShiny-giratina-origin-spriteSheet_39
+      rect:
+        serializedVersion: 2
+        x: 1404
+        y: 462
+        width: 156
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2efae2e6f58b43260800000000000000
+      internalID: 7076483634515849186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrontShiny-giratina-origin-spriteSheet_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 308
+        width: 156
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a626514e46544940800000000000000
+      internalID: 5279439557288666791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrontShiny-giratina-origin-spriteSheet_41
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 308
+        width: 156
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8977d29a94d450c0800000000000000
+      internalID: -4587808360030045812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrontShiny-giratina-origin-spriteSheet_42
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 308
+        width: 156
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3646f57185366ae0800000000000000
+      internalID: -1556497791063800259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrontShiny-giratina-origin-spriteSheet_43
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 308
+        width: 156
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 662b47851fd5bfcb0800000000000000
+      internalID: -4829162884272180634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrontShiny-giratina-origin-spriteSheet_44
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 308
+        width: 156
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b0c7ffa20ac31c90800000000000000
+      internalID: -7200189266344296267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrontShiny-giratina-origin-spriteSheet_45
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 308
+        width: 156
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddedd010c73b2ea70800000000000000
+      internalID: 8854837162538819293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrontShiny-giratina-origin-spriteSheet_46
+      rect:
+        serializedVersion: 2
+        x: 936
+        y: 308
+        width: 156
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f202f2cbb0bbfb5f0800000000000000
+      internalID: -738666154789232593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrontShiny-giratina-origin-spriteSheet_47
+      rect:
+        serializedVersion: 2
+        x: 1092
+        y: 308
+        width: 156
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8228c080021fc3130800000000000000
+      internalID: 3547975726337393192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrontShiny-giratina-origin-spriteSheet_48
+      rect:
+        serializedVersion: 2
+        x: 1248
+        y: 308
+        width: 156
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e551debc642038020800000000000000
+      internalID: 2342718734255068510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrontShiny-giratina-origin-spriteSheet_49
+      rect:
+        serializedVersion: 2
+        x: 1404
+        y: 308
+        width: 156
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 868c71794b8aff890800000000000000
+      internalID: -7422028167300790168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrontShiny-giratina-origin-spriteSheet_50
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 154
+        width: 156
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 619524c90d75b5640800000000000000
+      internalID: 5069742359022033174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrontShiny-giratina-origin-spriteSheet_51
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 154
+        width: 156
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be6cea87c6822a010800000000000000
+      internalID: 1198564897180272363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrontShiny-giratina-origin-spriteSheet_52
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 154
+        width: 156
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2e2d87f924ecff10800000000000000
+      internalID: 2304967978204868139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrontShiny-giratina-origin-spriteSheet_53
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 154
+        width: 156
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ed208ccbe766b010800000000000000
+      internalID: 1204264212814114272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrontShiny-giratina-origin-spriteSheet_54
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 154
+        width: 156
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8ad6c34b383c42d0800000000000000
+      internalID: -3293195400323343729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrontShiny-giratina-origin-spriteSheet_55
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 154
+        width: 156
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42a001726808b92f0800000000000000
+      internalID: -965036381471503836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrontShiny-giratina-origin-spriteSheet_56
+      rect:
+        serializedVersion: 2
+        x: 936
+        y: 154
+        width: 156
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cb36c03cbcf17360800000000000000
+      internalID: 7165786367325518786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrontShiny-giratina-origin-spriteSheet_57
+      rect:
+        serializedVersion: 2
+        x: 1092
+        y: 154
+        width: 156
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 583ee202ce78d6c80800000000000000
+      internalID: -8327850687716203643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrontShiny-giratina-origin-spriteSheet_58
+      rect:
+        serializedVersion: 2
+        x: 1248
+        y: 154
+        width: 156
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1940595c33834ae60800000000000000
+      internalID: 7972559035361985681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrontShiny-giratina-origin-spriteSheet_59
+      rect:
+        serializedVersion: 2
+        x: 1404
+        y: 154
+        width: 156
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b2237de948d80920800000000000000
+      internalID: 2956850967396688568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrontShiny-giratina-origin-spriteSheet_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 156
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41455b9797b72bfa0800000000000000
+      internalID: -5786426809554480108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrontShiny-giratina-origin-spriteSheet_61
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 0
+        width: 156
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1db1a896c9322ec0800000000000000
+      internalID: -3593246027561190116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrontShiny-giratina-origin-spriteSheet_62
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 0
+        width: 156
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1228a156718745710800000000000000
+      internalID: 1681100602791854625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrontShiny-giratina-origin-spriteSheet_63
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 0
+        width: 156
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d12c131974ad5390800000000000000
+      internalID: -7827919737381445161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrontShiny-giratina-origin-spriteSheet_64
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 0
+        width: 156
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53f6964df907aa640800000000000000
+      internalID: 5092006160461557557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrontShiny-giratina-origin-spriteSheet_65
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 0
+        width: 156
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ccf85b52423af9e0800000000000000
+      internalID: -1586900658112889660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrontShiny-giratina-origin-spriteSheet_66
+      rect:
+        serializedVersion: 2
+        x: 936
+        y: 0
+        width: 156
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48086ba5adb64bf50800000000000000
+      internalID: 6896255514980024452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrontShiny-giratina-origin-spriteSheet_67
+      rect:
+        serializedVersion: 2
+        x: 1092
+        y: 0
+        width: 156
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb113480fe5786ee0800000000000000
+      internalID: -1267633625608547905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrontShiny-giratina-origin-spriteSheet_68
+      rect:
+        serializedVersion: 2
+        x: 1248
+        y: 0
+        width: 156
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0dbc00e842a73dd10800000000000000
+      internalID: 2149195744605686736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

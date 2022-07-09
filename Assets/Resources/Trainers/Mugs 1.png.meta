@@ -1,0 +1,1956 @@
+fileFormatVersion: 2
+guid: 0472eaaf30febab459cf8fe0eed973a9
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1960851260775509939
+    second: Mugs_0
+  - first:
+      213: 3387401282982998393
+    second: Mugs_1
+  - first:
+      213: -5325086691453690615
+    second: Mugs_2
+  - first:
+      213: 7027649335867681178
+    second: Mugs_3
+  - first:
+      213: -8352022677429578547
+    second: Mugs_4
+  - first:
+      213: -548715149617235092
+    second: Mugs_5
+  - first:
+      213: 6932086647646609843
+    second: Mugs_6
+  - first:
+      213: -1601709062311374652
+    second: Mugs_7
+  - first:
+      213: -8916968811750886919
+    second: Mugs_8
+  - first:
+      213: -7387087860793671294
+    second: Mugs_9
+  - first:
+      213: -6125428036037299589
+    second: Mugs_10
+  - first:
+      213: -6102827732000218102
+    second: Mugs_11
+  - first:
+      213: 3566094889898836947
+    second: Mugs_12
+  - first:
+      213: -2449171683780533227
+    second: Mugs_13
+  - first:
+      213: 9193246417071723866
+    second: Mugs_14
+  - first:
+      213: 7584772963786791593
+    second: Mugs_15
+  - first:
+      213: 7898282600253681063
+    second: Mugs_17
+  - first:
+      213: 4033734482477608878
+    second: Mugs_18
+  - first:
+      213: 894489794409651652
+    second: Mugs_19
+  - first:
+      213: -718152428571666572
+    second: Mugs_20
+  - first:
+      213: 5483526748107580570
+    second: Mugs_21
+  - first:
+      213: -6645060690291362559
+    second: Mugs_22
+  - first:
+      213: 8278944102264397128
+    second: Mugs_23
+  - first:
+      213: -5050681559055016692
+    second: Mugs_24
+  - first:
+      213: -7875971144048822170
+    second: Mugs_25
+  - first:
+      213: -6264876521610802668
+    second: Mugs_26
+  - first:
+      213: 9004544504958133148
+    second: Mugs_27
+  - first:
+      213: 4620983688914062722
+    second: Mugs_28
+  - first:
+      213: -9124206147224056956
+    second: Mugs_29
+  - first:
+      213: -6222849838971549502
+    second: Mugs_30
+  - first:
+      213: 2883096026348958816
+    second: Mugs_31
+  - first:
+      213: 6747599166649657591
+    second: Mugs_32
+  - first:
+      213: -1214507545518866261
+    second: Mugs_33
+  - first:
+      213: -6449497834845277637
+    second: Mugs_35
+  - first:
+      213: -4601402199945457290
+    second: Mugs_36
+  - first:
+      213: 1350847145727167524
+    second: Mugs_37
+  - first:
+      213: -5823973812025041176
+    second: Mugs_38
+  - first:
+      213: -2346179897657211208
+    second: Mugs_39
+  - first:
+      213: -8804532563303595660
+    second: Mugs_40
+  - first:
+      213: 9001866558800607296
+    second: Mugs_41
+  - first:
+      213: -2063186261749290166
+    second: Mugs_42
+  - first:
+      213: 6362634383966941587
+    second: Mugs_43
+  - first:
+      213: 8205010929189123202
+    second: Mugs_44
+  - first:
+      213: 3813727706704454524
+    second: Mugs_45
+  - first:
+      213: 5157741118295339665
+    second: Mugs_46
+  - first:
+      213: -7416778115548236733
+    second: Mugs_47
+  - first:
+      213: 4060038317303169366
+    second: Mugs_48
+  - first:
+      213: -854949968444883058
+    second: Mugs_49
+  - first:
+      213: 3889971656724146422
+    second: Mugs_50
+  - first:
+      213: -1958363666624337859
+    second: Mugs_51
+  - first:
+      213: -7418207713448963381
+    second: Mugs_52
+  - first:
+      213: 1586646755584985299
+    second: Mugs_53
+  - first:
+      213: 9124850439754495972
+    second: Mugs_54
+  - first:
+      213: 6802519768954799379
+    second: Mugs_55
+  - first:
+      213: 6367419702924043718
+    second: Mugs_57
+  - first:
+      213: 8954662643966299930
+    second: Mugs_58
+  - first:
+      213: 8256927445173957518
+    second: Mugs_59
+  - first:
+      213: 1125272893071483743
+    second: Mugs_60
+  - first:
+      213: 1216137465738921089
+    second: Mugs_61
+  - first:
+      213: 433627127630380302
+    second: Mugs_62
+  - first:
+      213: -7229327860209964960
+    second: Mugs_63
+  - first:
+      213: -2978644169277430557
+    second: Mugs_64
+  - first:
+      213: -3280834223514584621
+    second: Mugs_65
+  - first:
+      213: 3965729630965348508
+    second: Mugs_66
+  - first:
+      213: -7197939050331571676
+    second: Mugs_67
+  - first:
+      213: -3109995352633593080
+    second: Mugs_68
+  - first:
+      213: 7534093187361609773
+    second: Mugs_69
+  - first:
+      213: -202892530366362102
+    second: Mugs_70
+  - first:
+      213: -8143706048594679034
+    second: Mugs_71
+  - first:
+      213: 3619583203670597599
+    second: Mugs_72
+  - first:
+      213: 8697036463656404095
+    second: Mugs_73
+  - first:
+      213: 3969472762554445690
+    second: Mugs_74
+  - first:
+      213: -4876715036328678460
+    second: Mugs_75
+  - first:
+      213: -1796309466928848961
+    second: Mugs_76
+  - first:
+      213: -2159401770544253146
+    second: Mugs_77
+  - first:
+      213: 2877915163541098948
+    second: Mugs_78
+  - first:
+      213: -3139269877237736256
+    second: Mugs_79
+  - first:
+      213: 6082117062785047992
+    second: Mugs_80
+  - first:
+      213: -335370737716627158
+    second: Mugs_81
+  - first:
+      213: -8147235060748285068
+    second: Mugs_82
+  - first:
+      213: 357733989555875072
+    second: Mugs 1_0
+  - first:
+      213: -6618727431244913952
+    second: Mugs 1_1
+  - first:
+      213: -1541175497152778734
+    second: Mugs 1_2
+  - first:
+      213: -3219588364659109502
+    second: Mugs 1_3
+  - first:
+      213: -9136793768281939598
+    second: Mugs 1_4
+  - first:
+      213: 4884701463820599248
+    second: Mugs 1_5
+  - first:
+      213: -500310819915569817
+    second: Mugs 1_6
+  - first:
+      213: 5733088417311144975
+    second: Mugs 1_7
+  - first:
+      213: 8562714811045780932
+    second: Mugs 1_8
+  - first:
+      213: 5781743914676564801
+    second: Mugs 1_9
+  - first:
+      213: -6734590598422362201
+    second: Mugs 1_10
+  - first:
+      213: -6726486845268408699
+    second: Mugs 1_11
+  - first:
+      213: 5508412118869388587
+    second: Mugs 1_12
+  - first:
+      213: 7872440553810416819
+    second: Mugs 1_13
+  - first:
+      213: -6264137922474264385
+    second: Mugs 1_14
+  - first:
+      213: 5288120910195171645
+    second: Mugs 1_15
+  - first:
+      213: -1129734364689552408
+    second: Mugs 1_16
+  - first:
+      213: 2778100027080486996
+    second: Mugs 1_17
+  - first:
+      213: 1016993400093004504
+    second: Mugs 1_18
+  - first:
+      213: 8721661425715091714
+    second: Mugs 1_19
+  - first:
+      213: -2889527801239709073
+    second: Mugs 1_20
+  - first:
+      213: 4132462053787075356
+    second: Mugs 1_21
+  - first:
+      213: 7002713400887273915
+    second: Mugs 1_22
+  - first:
+      213: 4913368849729082392
+    second: Mugs 1_23
+  - first:
+      213: -3741556775468942166
+    second: Mugs 1_24
+  - first:
+      213: -4107451199214522969
+    second: Mugs 1_25
+  - first:
+      213: 6687954000546041389
+    second: Mugs 1_26
+  - first:
+      213: -6335170467185014745
+    second: Mugs 1_27
+  - first:
+      213: -5322414362497583513
+    second: Mugs 1_28
+  - first:
+      213: 4369886791543132145
+    second: Mugs 1_29
+  - first:
+      213: -677851727463287770
+    second: Mugs 1_30
+  - first:
+      213: -7800241924032114440
+    second: Mugs 1_31
+  - first:
+      213: -7441114074020488212
+    second: Mugs 1_32
+  - first:
+      213: -183124853427779797
+    second: Mugs 1_33
+  - first:
+      213: -7460037050081098121
+    second: Mugs 1_34
+  - first:
+      213: 7913477092673290936
+    second: Mugs 1_35
+  - first:
+      213: -937799140986507112
+    second: Mugs 1_36
+  - first:
+      213: -6674503571147917256
+    second: Mugs 1_37
+  - first:
+      213: -939316305645922267
+    second: Mugs 1_38
+  - first:
+      213: -1217572756148067208
+    second: Mugs 1_39
+  - first:
+      213: 6098899647977459157
+    second: Mugs 1_40
+  - first:
+      213: 8502703552177073273
+    second: Mugs 1_41
+  - first:
+      213: 5478064087683645096
+    second: Mugs 1_42
+  - first:
+      213: -8251567804118683371
+    second: Mugs 1_43
+  - first:
+      213: 5485341154129885043
+    second: Mugs 1_44
+  - first:
+      213: 3614992575313640590
+    second: Mugs 1_45
+  - first:
+      213: -8218791534100838615
+    second: Mugs 1_46
+  - first:
+      213: -469959441210957987
+    second: Mugs 1_47
+  - first:
+      213: 7988815059208589088
+    second: Mugs 1_48
+  - first:
+      213: -7421678287365322894
+    second: Mugs 1_49
+  - first:
+      213: -4047673079947004089
+    second: Mugs 1_50
+  - first:
+      213: 4192662731873489550
+    second: Mugs 1_51
+  - first:
+      213: -3441033273327996444
+    second: Mugs 1_52
+  - first:
+      213: -1305279278448336835
+    second: Mugs 1_53
+  - first:
+      213: -8899089869238843948
+    second: Mugs 1_54
+  - first:
+      213: -5359405193429204082
+    second: Mugs 1_55
+  - first:
+      213: -7579812677832569259
+    second: Mugs 1_56
+  - first:
+      213: 7354599557597642232
+    second: Mugs 1_57
+  - first:
+      213: -297865208822118964
+    second: Mugs 1_58
+  - first:
+      213: 3368975743174740893
+    second: Mugs 1_59
+  - first:
+      213: 4366244337545797244
+    second: Mugs 1_60
+  - first:
+      213: -6464699695648843524
+    second: Mugs 1_61
+  - first:
+      213: 1569619030469366083
+    second: Mugs 1_62
+  - first:
+      213: -4809424313971716258
+    second: Mugs 1_63
+  - first:
+      213: 2844533087650300943
+    second: Mugs 1_64
+  - first:
+      213: 863390153254049749
+    second: Mugs 1_65
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Mugs 1_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 598.5
+        width: 131.71428
+        height: 66.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00daf8b0b2de6f400800000000000000
+      internalID: 357733989555875072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mugs 1_1
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 598.5
+        width: 131.71428
+        height: 66.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e26383087e8524a0800000000000000
+      internalID: -6618727431244913952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mugs 1_2
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 598.5
+        width: 131.71428
+        height: 66.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21e2ca30d05ac9ae0800000000000000
+      internalID: -1541175497152778734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mugs 1_3
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 598.5
+        width: 131.71428
+        height: 66.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2815381c079b153d0800000000000000
+      internalID: -3219588364659109502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mugs 1_4
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 598.5
+        width: 131.71428
+        height: 66.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2716d8ff976933180800000000000000
+      internalID: -9136793768281939598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mugs 1_5
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 598.5
+        width: 131.71428
+        height: 66.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0df7bd0e912f9c340800000000000000
+      internalID: 4884701463820599248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mugs 1_6
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 598.5
+        width: 131.71428
+        height: 66.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 765e5a5c5f98e09f0800000000000000
+      internalID: -500310819915569817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mugs 1_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 532.5
+        width: 131.71428
+        height: 66.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0cbcb35a85009f40800000000000000
+      internalID: 5733088417311144975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mugs 1_8
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 532.5
+        width: 131.71428
+        height: 66.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cd1c51e0cfd4d670800000000000000
+      internalID: 8562714811045780932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mugs 1_9
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 532.5
+        width: 131.71428
+        height: 66.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 143b2981571ec3050800000000000000
+      internalID: 5781743914676564801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mugs 1_10
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 532.5
+        width: 131.71428
+        height: 66.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a78959388de982a0800000000000000
+      internalID: -6734590598422362201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mugs 1_11
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 532.5
+        width: 131.71428
+        height: 66.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58640794ad7b6a2a0800000000000000
+      internalID: -6726486845268408699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mugs 1_12
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 532.5
+        width: 131.71428
+        height: 66.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2daaa523afc17c40800000000000000
+      internalID: 5508412118869388587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mugs 1_13
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 532.5
+        width: 131.71428
+        height: 66.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b4df3549f6804d60800000000000000
+      internalID: 7872440553810416819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mugs 1_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 466.5
+        width: 131.71428
+        height: 66.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb83ed29fbf4119a0800000000000000
+      internalID: -6264137922474264385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mugs 1_15
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 466.5
+        width: 131.71428
+        height: 66.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d31af7d33fd236940800000000000000
+      internalID: 5288120910195171645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mugs 1_16
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 466.5
+        width: 131.71428
+        height: 66.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8eba026b4906250f0800000000000000
+      internalID: -1129734364689552408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mugs 1_17
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 466.5
+        width: 131.71428
+        height: 66.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 450b2a0714bcd8620800000000000000
+      internalID: 2778100027080486996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mugs 1_18
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 466.5
+        width: 131.71428
+        height: 66.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d2d57feb161d1e00800000000000000
+      internalID: 1016993400093004504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mugs 1_19
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 466.5
+        width: 131.71428
+        height: 66.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20999fa7bd0990970800000000000000
+      internalID: 8721661425715091714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mugs 1_20
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 466.5
+        width: 131.71428
+        height: 66.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6add7e26c556e7d0800000000000000
+      internalID: -2889527801239709073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mugs 1_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 400.5
+        width: 131.71428
+        height: 66.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1382cbd754795930800000000000000
+      internalID: 4132462053787075356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mugs 1_22
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 400.5
+        width: 131.71428
+        height: 66.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb9e0c37cb2ae2160800000000000000
+      internalID: 7002713400887273915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mugs 1_23
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 400.5
+        width: 131.71428
+        height: 66.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 814529acfeacf2440800000000000000
+      internalID: 4913368849729082392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mugs 1_24
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 400.5
+        width: 131.71428
+        height: 66.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aacb733bfe1531cc0800000000000000
+      internalID: -3741556775468942166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mugs 1_25
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 400.5
+        width: 131.71428
+        height: 66.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ade09285e66ff6c0800000000000000
+      internalID: -4107451199214522969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mugs 1_26
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 400.5
+        width: 131.71428
+        height: 66.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2e03bcaab260dc50800000000000000
+      internalID: 6687954000546041389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mugs 1_27
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 400.5
+        width: 131.71428
+        height: 66.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72844e77604f418a0800000000000000
+      internalID: -6335170467185014745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mugs 1_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 334.5
+        width: 131.71428
+        height: 66.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 766f4ef265cf226b0800000000000000
+      internalID: -5322414362497583513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mugs 1_29
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 334.5
+        width: 131.71428
+        height: 66.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ff899e52e4f4ac30800000000000000
+      internalID: 4369886791543132145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mugs 1_30
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 334.5
+        width: 131.71428
+        height: 66.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6247a2ef179c796f0800000000000000
+      internalID: -677851727463287770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mugs 1_31
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 334.5
+        width: 131.71428
+        height: 66.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f0d4fb2c49ffb390800000000000000
+      internalID: -7800241924032114440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mugs 1_32
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 334.5
+        width: 131.71428
+        height: 66.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ceb59d4ac2adbb890800000000000000
+      internalID: -7441114074020488212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mugs 1_33
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 334.5
+        width: 131.71428
+        height: 66.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2744e18ae8657df0800000000000000
+      internalID: -183124853427779797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mugs 1_34
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 334.5
+        width: 131.71428
+        height: 66.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 776c9a2f3df987890800000000000000
+      internalID: -7460037050081098121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mugs 1_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 268.5
+        width: 131.71428
+        height: 66.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b28bf60d7152dd60800000000000000
+      internalID: 7913477092673290936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mugs 1_36
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 268.5
+        width: 131.71428
+        height: 66.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89035d266a44cf2f0800000000000000
+      internalID: -937799140986507112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mugs 1_37
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 268.5
+        width: 131.71428
+        height: 66.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 838f6a57d566f53a0800000000000000
+      internalID: -6674503571147917256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mugs 1_38
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 268.5
+        width: 131.71428
+        height: 66.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5281e36fbc0e6f2f0800000000000000
+      internalID: -939316305645922267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mugs 1_39
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 268.5
+        width: 131.71428
+        height: 66.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 874e99d77005a1fe0800000000000000
+      internalID: -1217572756148067208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mugs 1_40
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 268.5
+        width: 131.71428
+        height: 66.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5dd837e9ae4a3a450800000000000000
+      internalID: 6098899647977459157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mugs 1_41
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 202.5
+        width: 131.71428
+        height: 66.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97c67f9d4dbaff570800000000000000
+      internalID: 8502703552177073273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mugs 1_42
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 202.5
+        width: 131.71428
+        height: 66.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ae3533834ef50c40800000000000000
+      internalID: 5478064087683645096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mugs 1_43
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 202.5
+        width: 131.71428
+        height: 66.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 511b4730dca8c7d80800000000000000
+      internalID: -8251567804118683371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mugs 1_44
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 202.5
+        width: 131.71428
+        height: 66.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3773eb397b8df1c40800000000000000
+      internalID: 5485341154129885043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mugs 1_45
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 136.5
+        width: 131.71428
+        height: 66.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8c7e3d18980b2230800000000000000
+      internalID: 3614992575313640590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mugs 1_46
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 136.5
+        width: 131.71428
+        height: 66.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9278eee05acf0fd80800000000000000
+      internalID: -8218791534100838615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mugs 1_47
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 136.5
+        width: 131.71428
+        height: 66.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5f97cfc06e5a79f0800000000000000
+      internalID: -469959441210957987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mugs 1_48
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 136.5
+        width: 131.71428
+        height: 66.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02f4b6448f8fdde60800000000000000
+      internalID: 7988815059208589088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mugs 1_49
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 136.5
+        width: 131.71428
+        height: 66.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2774c5c5be6e00990800000000000000
+      internalID: -7421678287365322894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mugs 1_50
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 136.5
+        width: 131.71428
+        height: 66.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 747f8de77c6c3d7c0800000000000000
+      internalID: -4047673079947004089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mugs 1_51
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 136.5
+        width: 131.71428
+        height: 66.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e82965c7a845f2a30800000000000000
+      internalID: 4192662731873489550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mugs 1_52
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 70.5
+        width: 131.71428
+        height: 66.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e13cf2287efe30d0800000000000000
+      internalID: -3441033273327996444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mugs 1_53
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 70.5
+        width: 131.71428
+        height: 66.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d30a8637967b2ede0800000000000000
+      internalID: -1305279278448336835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mugs 1_54
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 70.5
+        width: 131.71428
+        height: 66.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d5cdbfc9e4108480800000000000000
+      internalID: -8899089869238843948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mugs 1_55
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 70.5
+        width: 131.71428
+        height: 66.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e83c4463f519f95b0800000000000000
+      internalID: -5359405193429204082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mugs 1_56
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 70.5
+        width: 131.71428
+        height: 66.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55e89c177881fc690800000000000000
+      internalID: -7579812677832569259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mugs 1_57
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 70.5
+        width: 131.71428
+        height: 66.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fd3adfc459c01660800000000000000
+      internalID: 7354599557597642232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mugs 1_58
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 70.5
+        width: 131.71428
+        height: 66.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc5c535bb25cddbf0800000000000000
+      internalID: -297865208822118964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mugs 1_59
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4.5
+        width: 131.71428
+        height: 66.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9b86dcb69101ce20800000000000000
+      internalID: 3368975743174740893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mugs 1_60
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 4.5
+        width: 131.71428
+        height: 66.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7e5af57714089c30800000000000000
+      internalID: 4366244337545797244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mugs 1_61
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 4.5
+        width: 131.71428
+        height: 66.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf85645d0e5c846a0800000000000000
+      internalID: -6464699695648843524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mugs 1_62
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 4.5
+        width: 131.71428
+        height: 66.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 341d1d7213868c510800000000000000
+      internalID: 1569619030469366083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mugs 1_63
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 4.5
+        width: 131.71428
+        height: 66.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5fc69f511e714db0800000000000000
+      internalID: -4809424313971716258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mugs 1_64
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 4.5
+        width: 131.71428
+        height: 66.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f04cd31b5cfc97720800000000000000
+      internalID: 2844533087650300943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mugs 1_65
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 4.5
+        width: 131.71428
+        height: 66.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d7174b15c06bfb00800000000000000
+      internalID: 863390153254049749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

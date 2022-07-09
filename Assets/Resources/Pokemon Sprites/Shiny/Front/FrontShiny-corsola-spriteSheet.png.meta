@@ -1,0 +1,1548 @@
+fileFormatVersion: 2
+guid: 3a8c45b881141684ea0019f17a6e141b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2007822286556201956
+    second: FrontShiny-corsola-spriteSheet_0
+  - first:
+      213: -6603997143542572663
+    second: FrontShiny-corsola-spriteSheet_1
+  - first:
+      213: 2927479421405724976
+    second: FrontShiny-corsola-spriteSheet_2
+  - first:
+      213: 2602084723764900551
+    second: FrontShiny-corsola-spriteSheet_3
+  - first:
+      213: -5004694303835087236
+    second: FrontShiny-corsola-spriteSheet_4
+  - first:
+      213: 3395002726333296179
+    second: FrontShiny-corsola-spriteSheet_5
+  - first:
+      213: 3692937177342747376
+    second: FrontShiny-corsola-spriteSheet_6
+  - first:
+      213: -7123989304649056717
+    second: FrontShiny-corsola-spriteSheet_7
+  - first:
+      213: 3027896683159027141
+    second: FrontShiny-corsola-spriteSheet_8
+  - first:
+      213: -6109161749555941514
+    second: FrontShiny-corsola-spriteSheet_9
+  - first:
+      213: 6080848878849510396
+    second: FrontShiny-corsola-spriteSheet_10
+  - first:
+      213: -4544392977492435554
+    second: FrontShiny-corsola-spriteSheet_11
+  - first:
+      213: -5287417775060556703
+    second: FrontShiny-corsola-spriteSheet_12
+  - first:
+      213: -8056065922952037691
+    second: FrontShiny-corsola-spriteSheet_13
+  - first:
+      213: -798798471952627865
+    second: FrontShiny-corsola-spriteSheet_14
+  - first:
+      213: 7003278816430059266
+    second: FrontShiny-corsola-spriteSheet_15
+  - first:
+      213: -4067664882056076063
+    second: FrontShiny-corsola-spriteSheet_16
+  - first:
+      213: 4647854855108899248
+    second: FrontShiny-corsola-spriteSheet_17
+  - first:
+      213: 1342446920318253303
+    second: FrontShiny-corsola-spriteSheet_18
+  - first:
+      213: 2863294433576810803
+    second: FrontShiny-corsola-spriteSheet_19
+  - first:
+      213: 7235248675933120932
+    second: FrontShiny-corsola-spriteSheet_20
+  - first:
+      213: -468181631675253789
+    second: FrontShiny-corsola-spriteSheet_21
+  - first:
+      213: -893113601066910007
+    second: FrontShiny-corsola-spriteSheet_22
+  - first:
+      213: 2985354070209025078
+    second: FrontShiny-corsola-spriteSheet_23
+  - first:
+      213: -4174277699901335959
+    second: FrontShiny-corsola-spriteSheet_24
+  - first:
+      213: -2206243124181873231
+    second: FrontShiny-corsola-spriteSheet_25
+  - first:
+      213: -7538989337152131673
+    second: FrontShiny-corsola-spriteSheet_26
+  - first:
+      213: 5240035689321097881
+    second: FrontShiny-corsola-spriteSheet_27
+  - first:
+      213: -2365995149616657396
+    second: FrontShiny-corsola-spriteSheet_28
+  - first:
+      213: -6689187243165396329
+    second: FrontShiny-corsola-spriteSheet_29
+  - first:
+      213: -2738701232375372592
+    second: FrontShiny-corsola-spriteSheet_30
+  - first:
+      213: 1415315812354695795
+    second: FrontShiny-corsola-spriteSheet_31
+  - first:
+      213: 4660881194465322400
+    second: FrontShiny-corsola-spriteSheet_32
+  - first:
+      213: 5795950316610928043
+    second: FrontShiny-corsola-spriteSheet_33
+  - first:
+      213: -3520667737848377844
+    second: FrontShiny-corsola-spriteSheet_34
+  - first:
+      213: 1977009861101129820
+    second: FrontShiny-corsola-spriteSheet_35
+  - first:
+      213: 1086940092300975937
+    second: FrontShiny-corsola-spriteSheet_36
+  - first:
+      213: -6773232008873562222
+    second: FrontShiny-corsola-spriteSheet_37
+  - first:
+      213: 6266589323214151463
+    second: FrontShiny-corsola-spriteSheet_38
+  - first:
+      213: -2850013860305517427
+    second: FrontShiny-corsola-spriteSheet_39
+  - first:
+      213: -3665070756970601469
+    second: FrontShiny-corsola-spriteSheet_40
+  - first:
+      213: 5127182662651315251
+    second: FrontShiny-corsola-spriteSheet_41
+  - first:
+      213: 559680326778789860
+    second: FrontShiny-corsola-spriteSheet_42
+  - first:
+      213: 7374910608791181807
+    second: FrontShiny-corsola-spriteSheet_43
+  - first:
+      213: 8984148167656703167
+    second: FrontShiny-corsola-spriteSheet_44
+  - first:
+      213: 2805779999271129331
+    second: FrontShiny-corsola-spriteSheet_45
+  - first:
+      213: 7817243731944657843
+    second: FrontShiny-corsola-spriteSheet_46
+  - first:
+      213: 123689999734238100
+    second: FrontShiny-corsola-spriteSheet_47
+  - first:
+      213: -1352799081433505559
+    second: FrontShiny-corsola-spriteSheet_48
+  - first:
+      213: -2842577058618400316
+    second: FrontShiny-corsola-spriteSheet_49
+  - first:
+      213: 3450159228475603960
+    second: FrontShiny-corsola-spriteSheet_50
+  - first:
+      213: 9003663464899049647
+    second: FrontShiny-corsola-spriteSheet_51
+  - first:
+      213: -7945640273052932695
+    second: FrontShiny-corsola-spriteSheet_52
+  - first:
+      213: 5814821712097982754
+    second: FrontShiny-corsola-spriteSheet_53
+  - first:
+      213: 3070388349606043498
+    second: FrontShiny-corsola-spriteSheet_54
+  - first:
+      213: -4354334986480335930
+    second: FrontShiny-corsola-spriteSheet_55
+  - first:
+      213: 6378218054852902708
+    second: FrontShiny-corsola-spriteSheet_56
+  - first:
+      213: -1143683808731926622
+    second: FrontShiny-corsola-spriteSheet_57
+  - first:
+      213: -7008615935898309791
+    second: FrontShiny-corsola-spriteSheet_58
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: FrontShiny-corsola-spriteSheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 345
+        width: 70
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e38b425bb73ddb10800000000000000
+      internalID: 2007822286556201956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrontShiny-corsola-spriteSheet_1
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 345
+        width: 70
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98953716693e954a0800000000000000
+      internalID: -6603997143542572663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrontShiny-corsola-spriteSheet_2
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 345
+        width: 70
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0318728f50f70a820800000000000000
+      internalID: 2927479421405724976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrontShiny-corsola-spriteSheet_3
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 345
+        width: 70
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c23a7315467c1420800000000000000
+      internalID: 2602084723764900551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrontShiny-corsola-spriteSheet_4
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 345
+        width: 70
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7e1d72fb01cb8ab0800000000000000
+      internalID: -5004694303835087236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrontShiny-corsola-spriteSheet_5
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 345
+        width: 70
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33e249afdf87d1f20800000000000000
+      internalID: 3395002726333296179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrontShiny-corsola-spriteSheet_6
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 345
+        width: 70
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f22959fbc2ff3330800000000000000
+      internalID: 3692937177342747376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrontShiny-corsola-spriteSheet_7
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 345
+        width: 70
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33ef5b0d871822d90800000000000000
+      internalID: -7123989304649056717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrontShiny-corsola-spriteSheet_8
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 345
+        width: 70
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cdf648adff350a20800000000000000
+      internalID: 3027896683159027141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrontShiny-corsola-spriteSheet_9
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 345
+        width: 70
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67f605aa1c5e73ba0800000000000000
+      internalID: -6109161749555941514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrontShiny-corsola-spriteSheet_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 276
+        width: 70
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfb48ac66d3836450800000000000000
+      internalID: 6080848878849510396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrontShiny-corsola-spriteSheet_11
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 276
+        width: 70
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9d98c80aa21fe0c0800000000000000
+      internalID: -4544392977492435554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrontShiny-corsola-spriteSheet_12
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 276
+        width: 70
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 164ed6a2c815f96b0800000000000000
+      internalID: -5287417775060556703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrontShiny-corsola-spriteSheet_13
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 276
+        width: 70
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ca7057d9ba133090800000000000000
+      internalID: -8056065922952037691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrontShiny-corsola-spriteSheet_14
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 276
+        width: 70
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7678320a5091ae4f0800000000000000
+      internalID: -798798471952627865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrontShiny-corsola-spriteSheet_15
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 276
+        width: 70
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20fe4548af4a03160800000000000000
+      internalID: 7003278816430059266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrontShiny-corsola-spriteSheet_16
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 276
+        width: 70
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e467b75750cc87c0800000000000000
+      internalID: -4067664882056076063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrontShiny-corsola-spriteSheet_17
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 276
+        width: 70
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b137568d5f708040800000000000000
+      internalID: 4647854855108899248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrontShiny-corsola-spriteSheet_18
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 276
+        width: 70
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f8f2678c5451a210800000000000000
+      internalID: 1342446920318253303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrontShiny-corsola-spriteSheet_19
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 276
+        width: 70
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 339f2b0fd177cb720800000000000000
+      internalID: 2863294433576810803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrontShiny-corsola-spriteSheet_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 207
+        width: 70
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a9eb963654c86460800000000000000
+      internalID: 7235248675933120932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrontShiny-corsola-spriteSheet_21
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 207
+        width: 70
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3eb32a9594fa089f0800000000000000
+      internalID: -468181631675253789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrontShiny-corsola-spriteSheet_22
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 207
+        width: 70
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ce365869e50b93f0800000000000000
+      internalID: -893113601066910007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrontShiny-corsola-spriteSheet_23
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 207
+        width: 70
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6345393b5bb1e6920800000000000000
+      internalID: 2985354070209025078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrontShiny-corsola-spriteSheet_24
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 207
+        width: 70
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 966db875c8cf116c0800000000000000
+      internalID: -4174277699901335959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrontShiny-corsola-spriteSheet_25
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 207
+        width: 70
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bdcdf65199d161e0800000000000000
+      internalID: -2206243124181873231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrontShiny-corsola-spriteSheet_26
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 207
+        width: 70
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ade6912421206790800000000000000
+      internalID: -7538989337152131673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrontShiny-corsola-spriteSheet_27
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 207
+        width: 70
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99a6a5052b858b840800000000000000
+      internalID: 5240035689321097881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrontShiny-corsola-spriteSheet_28
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 207
+        width: 70
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0c4dce62fb4a2fd0800000000000000
+      internalID: -2365995149616657396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrontShiny-corsola-spriteSheet_29
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 207
+        width: 70
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7925d07a4ab3b23a0800000000000000
+      internalID: -6689187243165396329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrontShiny-corsola-spriteSheet_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 138
+        width: 70
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d4675a4dbd2ef9d0800000000000000
+      internalID: -2738701232375372592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrontShiny-corsola-spriteSheet_31
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 138
+        width: 70
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37225609b3634a310800000000000000
+      internalID: 1415315812354695795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrontShiny-corsola-spriteSheet_32
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 138
+        width: 70
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a5676080c6cea040800000000000000
+      internalID: 4660881194465322400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrontShiny-corsola-spriteSheet_33
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 138
+        width: 70
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bad386dca1a5f6050800000000000000
+      internalID: 5795950316610928043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrontShiny-corsola-spriteSheet_34
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 138
+        width: 70
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0e8e518853142fc0800000000000000
+      internalID: -3520667737848377844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrontShiny-corsola-spriteSheet_35
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 138
+        width: 70
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5090687effbf6b10800000000000000
+      internalID: 1977009861101129820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrontShiny-corsola-spriteSheet_36
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 138
+        width: 70
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14fdabd4146951f00800000000000000
+      internalID: 1086940092300975937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrontShiny-corsola-spriteSheet_37
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 138
+        width: 70
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29f29c1cf55a002a0800000000000000
+      internalID: -6773232008873562222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrontShiny-corsola-spriteSheet_38
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 138
+        width: 70
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72f5f63a9c567f650800000000000000
+      internalID: 6266589323214151463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrontShiny-corsola-spriteSheet_39
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 138
+        width: 70
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d84cc8b7e77b278d0800000000000000
+      internalID: -2850013860305517427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrontShiny-corsola-spriteSheet_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 69
+        width: 70
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 304681e909d032dc0800000000000000
+      internalID: -3665070756970601469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrontShiny-corsola-spriteSheet_41
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 69
+        width: 70
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3348fd97779672740800000000000000
+      internalID: 5127182662651315251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrontShiny-corsola-spriteSheet_42
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 69
+        width: 70
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ef9c69ba4264c700800000000000000
+      internalID: 559680326778789860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrontShiny-corsola-spriteSheet_43
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 69
+        width: 70
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe9124fef12f85660800000000000000
+      internalID: 7374910608791181807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrontShiny-corsola-spriteSheet_44
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 69
+        width: 70
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb487ae882b1eac70800000000000000
+      internalID: 8984148167656703167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrontShiny-corsola-spriteSheet_45
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 69
+        width: 70
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f0937e2b0220f620800000000000000
+      internalID: 2805779999271129331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrontShiny-corsola-spriteSheet_46
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 69
+        width: 70
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b3d535b1cd6c7c60800000000000000
+      internalID: 7817243731944657843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrontShiny-corsola-spriteSheet_47
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 69
+        width: 70
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49b6d60466f67b100800000000000000
+      internalID: 123689999734238100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrontShiny-corsola-spriteSheet_48
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 69
+        width: 70
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e06ea22764e93de0800000000000000
+      internalID: -1352799081433505559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrontShiny-corsola-spriteSheet_49
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 69
+        width: 70
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c1206ec9332d88d0800000000000000
+      internalID: -2842577058618400316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrontShiny-corsola-spriteSheet_50
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 70
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fbf2dfd98d61ef20800000000000000
+      internalID: 3450159228475603960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrontShiny-corsola-spriteSheet_51
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 0
+        width: 70
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa87876c73073fc70800000000000000
+      internalID: 9003663464899049647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrontShiny-corsola-spriteSheet_52
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 0
+        width: 70
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a564abf44a6bb190800000000000000
+      internalID: -7945640273052932695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrontShiny-corsola-spriteSheet_53
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 0
+        width: 70
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22934d5f98562b050800000000000000
+      internalID: 5814821712097982754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrontShiny-corsola-spriteSheet_54
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 0
+        width: 70
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6f14c4bfe53c9a20800000000000000
+      internalID: 3070388349606043498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrontShiny-corsola-spriteSheet_55
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 0
+        width: 70
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c3c8c9666b4293c0800000000000000
+      internalID: -4354334986480335930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrontShiny-corsola-spriteSheet_56
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 0
+        width: 70
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43f7d73178bf38850800000000000000
+      internalID: 6378218054852902708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrontShiny-corsola-spriteSheet_57
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 0
+        width: 70
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2afea2da2a1d020f0800000000000000
+      internalID: -1143683808731926622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrontShiny-corsola-spriteSheet_58
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 0
+        width: 70
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16ba3a580f46cbe90800000000000000
+      internalID: -7008615935898309791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

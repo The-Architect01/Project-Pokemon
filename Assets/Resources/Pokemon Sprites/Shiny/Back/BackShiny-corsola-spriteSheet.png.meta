@@ -1,0 +1,1548 @@
+fileFormatVersion: 2
+guid: 3084677f4b4b33943b1ec8a977cda290
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -123990442937525834
+    second: corsola (3).gif-spriteSheet_0
+  - first:
+      213: 437473214665202223
+    second: corsola (3).gif-spriteSheet_1
+  - first:
+      213: -8620259181861262032
+    second: corsola (3).gif-spriteSheet_2
+  - first:
+      213: 2996235706792756456
+    second: corsola (3).gif-spriteSheet_3
+  - first:
+      213: -4907952202510738727
+    second: corsola (3).gif-spriteSheet_4
+  - first:
+      213: -7146272349669713101
+    second: corsola (3).gif-spriteSheet_5
+  - first:
+      213: -2458222505835968356
+    second: corsola (3).gif-spriteSheet_6
+  - first:
+      213: -7767884129426107751
+    second: corsola (3).gif-spriteSheet_7
+  - first:
+      213: -4138056780359932617
+    second: corsola (3).gif-spriteSheet_8
+  - first:
+      213: -8797418824703859290
+    second: corsola (3).gif-spriteSheet_9
+  - first:
+      213: 9050938955026787153
+    second: corsola (3).gif-spriteSheet_10
+  - first:
+      213: 801503205347150135
+    second: corsola (3).gif-spriteSheet_11
+  - first:
+      213: -7958892652036940247
+    second: corsola (3).gif-spriteSheet_12
+  - first:
+      213: 6722104230872411249
+    second: corsola (3).gif-spriteSheet_13
+  - first:
+      213: 8504414920225372598
+    second: corsola (3).gif-spriteSheet_14
+  - first:
+      213: -5552692889968498840
+    second: corsola (3).gif-spriteSheet_15
+  - first:
+      213: 3291584772677094470
+    second: corsola (3).gif-spriteSheet_16
+  - first:
+      213: -2557344006757486784
+    second: corsola (3).gif-spriteSheet_17
+  - first:
+      213: -3310198428206193043
+    second: corsola (3).gif-spriteSheet_18
+  - first:
+      213: 8565425473896077913
+    second: corsola (3).gif-spriteSheet_19
+  - first:
+      213: -4022569844280540410
+    second: corsola (3).gif-spriteSheet_20
+  - first:
+      213: 3200843628989820689
+    second: corsola (3).gif-spriteSheet_21
+  - first:
+      213: -7113924544273162782
+    second: corsola (3).gif-spriteSheet_22
+  - first:
+      213: 7894130483007597952
+    second: corsola (3).gif-spriteSheet_23
+  - first:
+      213: 6861268822701518539
+    second: corsola (3).gif-spriteSheet_24
+  - first:
+      213: -5559277491910940134
+    second: corsola (3).gif-spriteSheet_25
+  - first:
+      213: -8771089199483573582
+    second: corsola (3).gif-spriteSheet_26
+  - first:
+      213: 3833585013353051400
+    second: corsola (3).gif-spriteSheet_27
+  - first:
+      213: 2048599795860164050
+    second: corsola (3).gif-spriteSheet_28
+  - first:
+      213: 3960876049881020617
+    second: corsola (3).gif-spriteSheet_29
+  - first:
+      213: -3797561784409832634
+    second: corsola (3).gif-spriteSheet_30
+  - first:
+      213: 578695046165639353
+    second: corsola (3).gif-spriteSheet_31
+  - first:
+      213: -113147022855233644
+    second: corsola (3).gif-spriteSheet_32
+  - first:
+      213: -1843604343944017290
+    second: corsola (3).gif-spriteSheet_33
+  - first:
+      213: -4030592297133513615
+    second: corsola (3).gif-spriteSheet_34
+  - first:
+      213: 6781312108966633
+    second: corsola (3).gif-spriteSheet_35
+  - first:
+      213: -3155628063266824553
+    second: corsola (3).gif-spriteSheet_36
+  - first:
+      213: -2587156721937403611
+    second: corsola (3).gif-spriteSheet_37
+  - first:
+      213: -3576779128164685463
+    second: corsola (3).gif-spriteSheet_38
+  - first:
+      213: -7980624195990277428
+    second: corsola (3).gif-spriteSheet_39
+  - first:
+      213: -6226643152968843548
+    second: corsola (3).gif-spriteSheet_40
+  - first:
+      213: -8760493398286199205
+    second: corsola (3).gif-spriteSheet_41
+  - first:
+      213: 7474412357545406473
+    second: corsola (3).gif-spriteSheet_42
+  - first:
+      213: 69917483298314320
+    second: corsola (3).gif-spriteSheet_43
+  - first:
+      213: -4530375125170456634
+    second: corsola (3).gif-spriteSheet_44
+  - first:
+      213: 7433535772470000181
+    second: corsola (3).gif-spriteSheet_45
+  - first:
+      213: 1544278642189043853
+    second: corsola (3).gif-spriteSheet_46
+  - first:
+      213: -8932929255536303539
+    second: corsola (3).gif-spriteSheet_47
+  - first:
+      213: -1751810987268050528
+    second: corsola (3).gif-spriteSheet_48
+  - first:
+      213: 6954255323820057688
+    second: corsola (3).gif-spriteSheet_49
+  - first:
+      213: -5451240074723088042
+    second: corsola (3).gif-spriteSheet_50
+  - first:
+      213: -5297332213283751307
+    second: corsola (3).gif-spriteSheet_51
+  - first:
+      213: 8496783093231956180
+    second: corsola (3).gif-spriteSheet_52
+  - first:
+      213: 7722225066844343343
+    second: corsola (3).gif-spriteSheet_53
+  - first:
+      213: -4682205576786432169
+    second: corsola (3).gif-spriteSheet_54
+  - first:
+      213: -6893577150435514695
+    second: corsola (3).gif-spriteSheet_55
+  - first:
+      213: -2753366793783634337
+    second: corsola (3).gif-spriteSheet_56
+  - first:
+      213: -5629394383204315956
+    second: corsola (3).gif-spriteSheet_57
+  - first:
+      213: 1288249195950601163
+    second: corsola (3).gif-spriteSheet_58
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: corsola (3).gif-spriteSheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 355
+        width: 79
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b95a2d595f774ef0800000000000000
+      internalID: -123990442937525834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: corsola (3).gif-spriteSheet_1
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 355
+        width: 79
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2a1ed62297321600800000000000000
+      internalID: 437473214665202223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: corsola (3).gif-spriteSheet_2
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 355
+        width: 79
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03d2c5932ffae5880800000000000000
+      internalID: -8620259181861262032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: corsola (3).gif-spriteSheet_3
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 355
+        width: 79
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e449b62084c49920800000000000000
+      internalID: 2996235706792756456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: corsola (3).gif-spriteSheet_4
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 355
+        width: 79
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9da50caa97373ebb0800000000000000
+      internalID: -4907952202510738727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: corsola (3).gif-spriteSheet_5
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 355
+        width: 79
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33b9db9192753dc90800000000000000
+      internalID: -7146272349669713101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: corsola (3).gif-spriteSheet_6
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 355
+        width: 79
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c98c6c8b7a3a2edd0800000000000000
+      internalID: -2458222505835968356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: corsola (3).gif-spriteSheet_7
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 355
+        width: 79
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99299215a8ee23490800000000000000
+      internalID: -7767884129426107751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: corsola (3).gif-spriteSheet_8
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 355
+        width: 79
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 735ef3a584ba296c0800000000000000
+      internalID: -4138056780359932617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: corsola (3).gif-spriteSheet_9
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 355
+        width: 79
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a5213d803a49e580800000000000000
+      internalID: -8797418824703859290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: corsola (3).gif-spriteSheet_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 284
+        width: 79
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15bed1296056b9d70800000000000000
+      internalID: 9050938955026787153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: corsola (3).gif-spriteSheet_11
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 284
+        width: 79
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 739cd013be28f1b00800000000000000
+      internalID: 801503205347150135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: corsola (3).gif-spriteSheet_12
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 284
+        width: 79
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92e1fdd0d455c8190800000000000000
+      internalID: -7958892652036940247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: corsola (3).gif-spriteSheet_13
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 284
+        width: 79
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17cec48ce26b94d50800000000000000
+      internalID: 6722104230872411249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: corsola (3).gif-spriteSheet_14
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 284
+        width: 79
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b9b096cf40c50670800000000000000
+      internalID: 8504414920225372598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: corsola (3).gif-spriteSheet_15
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 284
+        width: 79
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 867279a6c3fd0f2b0800000000000000
+      internalID: -5552692889968498840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: corsola (3).gif-spriteSheet_16
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 284
+        width: 79
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64cc08349ee0ead20800000000000000
+      internalID: 3291584772677094470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: corsola (3).gif-spriteSheet_17
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 284
+        width: 79
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04feebcdc2d728cd0800000000000000
+      internalID: -2557344006757486784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: corsola (3).gif-spriteSheet_18
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 284
+        width: 79
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d66a6b65110df02d0800000000000000
+      internalID: -3310198428206193043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: corsola (3).gif-spriteSheet_19
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 284
+        width: 79
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95a58a146118ed670800000000000000
+      internalID: 8565425473896077913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: corsola (3).gif-spriteSheet_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 213
+        width: 79
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 603c5730a06fc28c0800000000000000
+      internalID: -4022569844280540410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: corsola (3).gif-spriteSheet_21
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 213
+        width: 79
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11fa28f525eab6c20800000000000000
+      internalID: 3200843628989820689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: corsola (3).gif-spriteSheet_22
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 213
+        width: 79
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ed5aa37153464d90800000000000000
+      internalID: -7113924544273162782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: corsola (3).gif-spriteSheet_23
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 213
+        width: 79
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08d204279d59d8d60800000000000000
+      internalID: 7894130483007597952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: corsola (3).gif-spriteSheet_24
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 213
+        width: 79
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bce269544af183f50800000000000000
+      internalID: 6861268822701518539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: corsola (3).gif-spriteSheet_25
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 213
+        width: 79
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1ae2de439a79d2b0800000000000000
+      internalID: -5559277491910940134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: corsola (3).gif-spriteSheet_26
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 213
+        width: 79
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ba248328d4d64680800000000000000
+      internalID: -8771089199483573582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: corsola (3).gif-spriteSheet_27
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 213
+        width: 79
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8057b292241a33530800000000000000
+      internalID: 3833585013353051400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: corsola (3).gif-spriteSheet_28
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 213
+        width: 79
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ddce2f09a61e6c10800000000000000
+      internalID: 2048599795860164050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: corsola (3).gif-spriteSheet_29
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 213
+        width: 79
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c8b28028cbd7f630800000000000000
+      internalID: 3960876049881020617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: corsola (3).gif-spriteSheet_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 142
+        width: 79
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64347ab6da95c4bc0800000000000000
+      internalID: -3797561784409832634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: corsola (3).gif-spriteSheet_31
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 142
+        width: 79
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b03bf31410f70800800000000000000
+      internalID: 578695046165639353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: corsola (3).gif-spriteSheet_32
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 142
+        width: 79
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49f1257d1650e6ef0800000000000000
+      internalID: -113147022855233644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: corsola (3).gif-spriteSheet_33
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 142
+        width: 79
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67a89d4fd933a66e0800000000000000
+      internalID: -1843604343944017290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: corsola (3).gif-spriteSheet_34
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 142
+        width: 79
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1746ee629a57018c0800000000000000
+      internalID: -4030592297133513615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: corsola (3).gif-spriteSheet_35
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 142
+        width: 79
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e2bd534197181000800000000000000
+      internalID: 6781312108966633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: corsola (3).gif-spriteSheet_36
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 142
+        width: 79
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79e1ab5eef4f434d0800000000000000
+      internalID: -3155628063266824553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: corsola (3).gif-spriteSheet_37
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 142
+        width: 79
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52138a23ba2981cd0800000000000000
+      internalID: -2587156721937403611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: corsola (3).gif-spriteSheet_38
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 142
+        width: 79
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96966b1655abc5ec0800000000000000
+      internalID: -3576779128164685463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: corsola (3).gif-spriteSheet_39
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 142
+        width: 79
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc2bc10b3902f3190800000000000000
+      internalID: -7980624195990277428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: corsola (3).gif-spriteSheet_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 71
+        width: 79
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ee7c24ea058699a0800000000000000
+      internalID: -6226643152968843548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: corsola (3).gif-spriteSheet_41
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 71
+        width: 79
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b561ff95ba97c6680800000000000000
+      internalID: -8760493398286199205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: corsola (3).gif-spriteSheet_42
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 71
+        width: 79
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 900b84420727ab760800000000000000
+      internalID: 7474412357545406473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: corsola (3).gif-spriteSheet_43
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 71
+        width: 79
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 058d593a49568f000800000000000000
+      internalID: 69917483298314320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: corsola (3).gif-spriteSheet_44
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 71
+        width: 79
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c7f2fc93dfd021c0800000000000000
+      internalID: -4530375125170456634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: corsola (3).gif-spriteSheet_45
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 71
+        width: 79
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53abb378669392760800000000000000
+      internalID: 7433535772470000181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: corsola (3).gif-spriteSheet_46
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 71
+        width: 79
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8886ed3e316e6510800000000000000
+      internalID: 1544278642189043853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: corsola (3).gif-spriteSheet_47
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 71
+        width: 79
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d426018bb2cd70480800000000000000
+      internalID: -8932929255536303539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: corsola (3).gif-spriteSheet_48
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 71
+        width: 79
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a1f246403150b7e0800000000000000
+      internalID: -1751810987268050528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: corsola (3).gif-spriteSheet_49
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 71
+        width: 79
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 854e9ad2f5a728060800000000000000
+      internalID: 6954255323820057688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: corsola (3).gif-spriteSheet_50
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 79
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 659a1c0b80e4954b0800000000000000
+      internalID: -5451240074723088042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: corsola (3).gif-spriteSheet_51
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 0
+        width: 79
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57afcf12b681c76b0800000000000000
+      internalID: -5297332213283751307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: corsola (3).gif-spriteSheet_52
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 0
+        width: 79
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d0b2a59433aae570800000000000000
+      internalID: 8496783093231956180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: corsola (3).gif-spriteSheet_53
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 0
+        width: 79
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2ccfd0c8cada2b60800000000000000
+      internalID: 7722225066844343343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: corsola (3).gif-spriteSheet_54
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 0
+        width: 79
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75faa46d5d6750fb0800000000000000
+      internalID: -4682205576786432169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: corsola (3).gif-spriteSheet_55
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 0
+        width: 79
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b6aa8cfa181550a0800000000000000
+      internalID: -6893577150435514695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: corsola (3).gif-spriteSheet_56
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 0
+        width: 79
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f569b203d731ac9d0800000000000000
+      internalID: -2753366793783634337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: corsola (3).gif-spriteSheet_57
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 0
+        width: 79
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccc078062af50e1b0800000000000000
+      internalID: -5629394383204315956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: corsola (3).gif-spriteSheet_58
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 0
+        width: 79
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc371da71d7c0e110800000000000000
+      internalID: 1288249195950601163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
