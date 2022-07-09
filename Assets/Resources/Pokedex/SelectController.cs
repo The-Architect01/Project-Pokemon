@@ -19,14 +19,14 @@ public class SelectController : MonoBehaviour {
 
     // Start is called before the first frame update
     void Start() {
-        DBSource = /*new Dictionary<string, CaptureStatus>();*/ Engine.PkmnSeen;
-        //try {
-        //    foreach (string Pkmn in DB.text.Split('\n').Skip(1)) { DBSource.Add(Pkmn.Split('_')[1], (CaptureStatus)Random.Range(0,3)); }
-        //} catch { }
-        if (Engine.DexSeen == 0) {
-            Error.SetActive(true);
-            return;
-        }
+        DBSource = new Dictionary<string, CaptureStatus>();// Engine.PkmnSeen;
+        try {
+            foreach (string Pkmn in DB.text.Split('\n').Skip(1)) { DBSource.Add(Pkmn.Split('_')[1], (CaptureStatus)Random.Range(0,3)); }
+        } catch { }
+        //if (Engine.DexSeen == 0) {
+        //    Error.SetActive(true);
+        //    return;
+        //}
         foreach(string pkmn in DBSource.Keys.Reverse()) {
             if (DBSource[pkmn] != CaptureStatus.NotSeen) {
                 DBControl Entry = Instantiate(DBPrefab, DBDisplay.transform).GetComponent<DBControl>();
