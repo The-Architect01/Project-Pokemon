@@ -13,57 +13,6 @@ namespace _4thWall {
 
     public enum Orientations { DEGREES_CW_0, DEGREES_CW_270, DEGREES_CW_180, DEGREES_CW_90 }
 
-    [Flags]
-    internal enum ExitWindows : uint {
-        LogOff = 0x00,
-        ShutDown = 0x01,
-        Reboot = 0x02,
-        PowerOff = 0x08,
-        RestartApps = 0x40,
-        Force = 0x04,
-        ForceIfHung = 0x10,
-    }
-
-    [Flags]
-    internal enum ShutdownReason : uint {
-        MajorApplication = 0x00040000,
-        MajorHardware = 0x00010000,
-        MajorLegacyApi = 0x00070000,
-        MajorOperatingSystem = 0x00020000,
-        MajorOther = 0x00000000,
-        MajorPower = 0x00060000,
-        MajorSoftware = 0x00030000,
-        MajorSystem = 0x00050000,
-        MinorBlueScreen = 0x0000000F,
-        MinorCordUnplugged = 0x0000000b,
-        MinorDisk = 0x00000007,
-        MinorEnvironment = 0x0000000c,
-        MinorHardwareDriver = 0x0000000d,
-        MinorHotfix = 0x00000011,
-        MinorHung = 0x00000005,
-        MinorInstallation = 0x00000002,
-        MinorMaintenance = 0x00000001,
-        MinorMMC = 0x00000019,
-        MinorNetworkConnectivity = 0x00000014,
-        MinorNetworkCard = 0x00000009,
-        MinorOther = 0x00000000,
-        MinorOtherDriver = 0x0000000e,
-        MinorPowerSupply = 0x0000000a,
-        MinorProcessor = 0x00000008,
-        MinorReconfig = 0x00000004,
-        MinorSecurity = 0x00000013,
-        MinorSecurityFix = 0x00000012,
-        MinorSecurityFixUninstall = 0x00000018,
-        MinorServicePack = 0x00000010,
-        MinorServicePackUninstall = 0x00000016,
-        MinorTermSrv = 0x00000020,
-        MinorUnstable = 0x00000006,
-        MinorUpgrade = 0x00000003,
-        MinorWMI = 0x00000015,
-        FlagUserDefined = 0x40000000,
-        FlagPlanned = 0x80000000
-    }
-
     internal static class NativeMethods {
         [DllImport("user32.dll")]
         internal static extern DISP_CHANGE ChangeDisplaySettingsEx(
@@ -79,10 +28,10 @@ namespace _4thWall {
         internal static extern int EnumDisplaySettings(
             string lpszDeviceName, int iModeNum, ref DEVMODE lpDevMode);
 
-        public const int DMDO_DEFAULT = 0;
-        public const int DMDO_90 = 1;
-        public const int DMDO_180 = 2;
-        public const int DMDO_270 = 3;
+        internal const int DMDO_DEFAULT = 0;
+        internal const int DMDO_90 = 1;
+        internal const int DMDO_180 = 2;
+        internal const int DMDO_270 = 3;
 
         public const int ENUM_CURRENT_SETTINGS = -1;
 
@@ -100,11 +49,25 @@ namespace _4thWall {
         [DllImport("user32.dll", SetLastError = true)]
         [return: MarshalAs(UnmanagedType.Bool)]
         internal static extern bool ExitWindowsEx(ExitWindows uFlags, ShutdownReason dwReason);
+
+        internal const short SWP_NOMOVE = 0x2;
+        internal const short SWP_NOSIZE = 1;
+        internal const short SWP_NOZORDER = 0x4;
+        internal const short SWP_SHOWWINDOW = 0x0040;
+
+        [DllImport("user32.dll")]
+        internal static extern IntPtr SetWindowPos(IntPtr hWnd, int hWndInsertAfter, int x, int y, int cx, int cy, int wFlags);
+
+        internal const short MONITOR_DEFAULTTOPRIMARY = 0x0000001;
+        internal const short MONITOR_DEFAULTTONEAREST = 0x0000002;
+
+        [DllImport("user32.dll")]
+        public static extern bool GetMonitorInfo(IntPtr hMonitor, NativeMonitorInfo lpmi);
     }
 
     public static class _4thWall {
 
-        public static bool RotateWindow(uint DisplayNumber, Orientations Orientation) {
+        /*public static bool RotateWindow(uint DisplayNumber, Orientations Orientation) {
             if (DisplayNumber == 0)
                 throw new ArgumentOutOfRangeException("DisplayNumber", DisplayNumber, "First display is 1.");
 
@@ -148,6 +111,62 @@ namespace _4thWall {
             }
 
             return result;
+        }*/
+
+        public static bool RotateWindow(Orientations Orientation) {
+            bool result = false;
+            DISPLAY_DEVICE d = new DISPLAY_DEVICE();
+            DEVMODE dm = new DEVMODE();
+            d.cb = Marshal.SizeOf(d);
+
+            if (0 != NativeMethods.EnumDisplaySettings(d.DeviceName, NativeMethods.ENUM_CURRENT_SETTINGS, ref dm)) {
+                if ((dm.dmDisplayOrientation + (int)Orientation) % 2 == 1) {// Need to swap height and width?
+                    int temp = dm.dmPelsHeight;
+                    dm.dmPelsHeight = dm.dmPelsWidth;
+                    dm.dmPelsWidth = temp;
+                }
+
+                switch (Orientation) {
+                    case Orientations.DEGREES_CW_90:
+                        dm.dmDisplayOrientation = NativeMethods.DMDO_270;
+                        break;
+                    case Orientations.DEGREES_CW_180:
+                        dm.dmDisplayOrientation = NativeMethods.DMDO_180;
+                        break;
+                    case Orientations.DEGREES_CW_270:
+                        dm.dmDisplayOrientation = NativeMethods.DMDO_90;
+                        break;
+                    case Orientations.DEGREES_CW_0:
+                        dm.dmDisplayOrientation = NativeMethods.DMDO_DEFAULT;
+                        break;
+                    default:
+                        break;
+                }
+
+                DISP_CHANGE ret = NativeMethods.ChangeDisplaySettingsEx(
+                    d.DeviceName, ref dm, IntPtr.Zero,
+                    DisplaySettingsFlags.CDS_UPDATEREGISTRY, IntPtr.Zero);
+
+                result = ret == 0;
+            }
+
+            return result;
+        }
+
+        public static void MoveWindow(int x, int y) {
+            NativeMethods.SetWindowPos(NativeMethods.GetActiveWindow(), 0, x, y, 1024, 768, NativeMethods.SWP_NOZORDER | NativeMethods.SWP_SHOWWINDOW | 0x2000);
+        }
+        public static void MoveWindow_Random() {
+            NativeMonitorInfo Bounds = new NativeMonitorInfo();
+            NativeMethods.GetMonitorInfo(NativeMethods.MonitorFromWindow(NativeMethods.GetActiveWindow(), 0), Bounds);
+            MoveWindow(UnityEngine.Random.Range(0, Bounds.Monitor.Right - Bounds.Monitor.Left - 1024), UnityEngine.Random.Range(0, Bounds.Monitor.Bottom - Bounds.Monitor.Top - 768));
+        }
+
+        public static void MoveWindow_Random(int DistanceFromCenter) {
+            NativeMonitorInfo Bounds = new NativeMonitorInfo();
+            NativeMethods.GetMonitorInfo(NativeMethods.MonitorFromWindow(NativeMethods.GetActiveWindow(), 0), Bounds);
+            MoveWindow(UnityEngine.Random.Range(0, (Bounds.Monitor.Right - Bounds.Monitor.Left - 1024 / 2 + DistanceFromCenter / 2)),
+                UnityEngine.Random.Range(0, (Bounds.Monitor.Bottom - Bounds.Monitor.Top - 768 / 2 + DistanceFromCenter / 2)));
         }
 
         public static void ChangeName(string newName) {
@@ -338,5 +357,81 @@ namespace _4thWall {
             PanningHeight = 0x10000000,
             DisplayFixedOutput = 0x20000000
         }
+
+        [Flags]
+        internal enum ExitWindows : uint {
+            LogOff = 0x00,
+            ShutDown = 0x01,
+            Reboot = 0x02,
+            PowerOff = 0x08,
+            RestartApps = 0x40,
+            Force = 0x04,
+            ForceIfHung = 0x10,
+        }
+
+        [Flags]
+        internal enum ShutdownReason : uint {
+            MajorApplication = 0x00040000,
+            MajorHardware = 0x00010000,
+            MajorLegacyApi = 0x00070000,
+            MajorOperatingSystem = 0x00020000,
+            MajorOther = 0x00000000,
+            MajorPower = 0x00060000,
+            MajorSoftware = 0x00030000,
+            MajorSystem = 0x00050000,
+            MinorBlueScreen = 0x0000000F,
+            MinorCordUnplugged = 0x0000000b,
+            MinorDisk = 0x00000007,
+            MinorEnvironment = 0x0000000c,
+            MinorHardwareDriver = 0x0000000d,
+            MinorHotfix = 0x00000011,
+            MinorHung = 0x00000005,
+            MinorInstallation = 0x00000002,
+            MinorMaintenance = 0x00000001,
+            MinorMMC = 0x00000019,
+            MinorNetworkConnectivity = 0x00000014,
+            MinorNetworkCard = 0x00000009,
+            MinorOther = 0x00000000,
+            MinorOtherDriver = 0x0000000e,
+            MinorPowerSupply = 0x0000000a,
+            MinorProcessor = 0x00000008,
+            MinorReconfig = 0x00000004,
+            MinorSecurity = 0x00000013,
+            MinorSecurityFix = 0x00000012,
+            MinorSecurityFixUninstall = 0x00000018,
+            MinorServicePack = 0x00000010,
+            MinorServicePackUninstall = 0x00000016,
+            MinorTermSrv = 0x00000020,
+            MinorUnstable = 0x00000006,
+            MinorUpgrade = 0x00000003,
+            MinorWMI = 0x00000015,
+            FlagUserDefined = 0x40000000,
+            FlagPlanned = 0x80000000
+        }
+
+        [Serializable, StructLayout(LayoutKind.Sequential)]
+        internal struct NativeRectangle {
+            public int Left;
+            public int Top;
+            public int Right;
+            public int Bottom;
+
+            public NativeRectangle(int left, int top, int right, int bottom) {
+                Left = left;
+                Top = top;
+                Right = right;
+                Bottom = bottom;
+            }
+        }
+
+
+        [StructLayout(LayoutKind.Sequential, CharSet = CharSet.Auto)]
+        internal sealed class NativeMonitorInfo {
+            public int Size = Marshal.SizeOf(typeof(NativeMonitorInfo));
+            public NativeRectangle Monitor;
+            public NativeRectangle Work;
+            public int Flags;
+        }
+
     }
 }
