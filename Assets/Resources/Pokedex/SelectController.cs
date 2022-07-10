@@ -28,7 +28,6 @@ public class SelectController : MonoBehaviour {
         //    return;
         //}
         foreach(string pkmn in DBSource.Keys.Reverse()) {
-            _4thWall._4thWall.MoveWindow_Random(2);
             if (DBSource[pkmn] != CaptureStatus.NotSeen) {
                 DBControl Entry = Instantiate(DBPrefab, DBDisplay.transform).GetComponent<DBControl>();
                 Entry.Pokemon = pkmn;
